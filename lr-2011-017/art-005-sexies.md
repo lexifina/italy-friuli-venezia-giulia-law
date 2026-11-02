@@ -1,0 +1,4 @@
+Art. 5 sexies
+(Il Direttore generale)
+1. Il Direttore generale è responsabile del raggiungimento degli obiettivi fissati dal Consiglio di amministrazione dell'Agenzia e viene nominato con decreto del Presidente della Regione previa deliberazione della Giunta regionale su proposta dell'Assessore competente in materia di attività produttive.
+2. Il Direttore generale è scelto tra dirigenti pubblici o privati, in possesso di diploma di laurea, che abbiano svolto attività dirigenziali, per almeno cinque anni in settori attinenti l'ambito operativo dell'Agenzia, in enti, associazioni o società pubbliche o private. Il rapporto di lavoro è regolato da contratto di diritto privato di durata massima quinquennale. La Giunta regionale determina i contenuti del contratto, ivi comprese le clausole risolutive del rapporto, nonché il trattamento economico da corrispondere entro il tetto massimo dei valori indicati per i direttori apicali dell'Amministrazione regionale.
