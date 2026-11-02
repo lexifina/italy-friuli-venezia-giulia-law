@@ -1,0 +1,4 @@
+Art. 8 bis
+(Misure di sostegno a favore di beni culturali di particolare rilevanza)
+1. Al fine di sostenere e incrementare il grado di fruizione e di valorizzazione di beni culturali di particolare rilevanza e di elevato valore strategico collocati nei siti regionali culturali UNESCO, la Regione può stipulare, con i soggetti pubblici e privati gestori di tali beni, convenzioni per la realizzazione di interventi e attività di comune interesse pubblico.
+2. Per le finalità previste al comma 1, la Regione dispone specifici finanziamenti da utilizzare secondo gli indirizzi definiti con deliberazione della Giunta regionale e con le modalità definite nelle convenzioni di cui al comma 1, di durata anche pluriennale. L'erogazione degli incentivi può essere prevista in via anticipata anche in assenza di presentazione di fideiussione bancaria o polizza fideiussoria assicurativa.
