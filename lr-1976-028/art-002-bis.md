@@ -1,0 +1,3 @@
+Art. 2 bis
+Il contributo di cui all' articolo precedente può altresì essere concesso - in misura non superiore a lire 2 milioni - a titolo di indennizzo dei danni subiti senza obbligo di reimpiego, qualora il decesso o sopravvenute cause invalidanti o raggiunti limiti di età del titolare e/o dei familiari coadiuvanti impediscano la ripresa della attività.
+Il contributo, di cui al precedente comma, è subordinato, per gli esercenti il commercio al minuto nelle varie forme d' uso e l' attività di somministrazione al pubblico di alimenti o bevande, alla rinuncia dell' autorizzazione amministrativa o della licenza relativa ai preesistenti esercizi di vendita.
