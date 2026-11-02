@@ -1,0 +1,3 @@
+Art. 15 bis
+(Interpretazione autentica)
+1. In via di interpretazione autentica dell'articolo 15, comma 12, i contributi una tantum concessi dall'Amministrazione regionale a favore di Comuni singoli o associati, istituzioni, società e associazioni sportive, gruppi sportivi aziendali, anche senza personalità giuridica, regolarmente costituiti e a soggetti privati convenzionati con i Comuni per assicurare l'uso pubblico della struttura, si intendono finalizzati anche al rifinanziamento di lavori di ristrutturazione, completamento, adeguamento e messa a norma di impianti sportivi, comprese le opere accessorie.
