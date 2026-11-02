@@ -1,0 +1,10 @@
+Art. 7 ter
+(Assegnazione di risorse integrative regionali per progetti strategici in ambiti tematici proposti nel PR FESR 2021/2027)
+1. L'Amministrazione regionale è autorizzata ad assegnare risorse regionali per il finanziamento delle proposte progettuali formulate dalle Direzioni centrali all'autorità di gestione nel processo di definizione del Programma regionale 2021/2027 cofinanziato dal FESR, considerate strategiche ma non finanziabili nell'ambito del Programma.
+2. Le proposte progettuali strategiche di cui al comma 1 sono individuate con deliberazione della Giunta regionale sentita la competente Commissione consiliare.
+3. Le risorse finanziarie destinate al finanziamento delle proposte di cui al comma 1 sono assegnate alle Direzioni centrali competenti sul bilancio regionale secondo le disposizioni di settore.
+3 bis. L'Amministrazione regionale è altresì autorizzata ad assegnare risorse regionali per il finanziamento di progetti di valenza territoriale, afferenti a tematiche di interesse espresse dal partenariato territoriale all'autorità di gestione nei processi di definizione e revisione del Programma regionale 2021/2027 cofinanziato dal FESR; nell'ambito di dette tematiche la Regione individua quelle strategiche sentito il partenariato.
+3 ter. Nell'ambito delle tematiche strategiche di cui al comma 3 bis, la Regione concede contributi agli enti locali della Regione per progetti di investimento di valenza territoriale di iniziativa pubblica comunale e sovracomunale. Le modalità e i criteri per la concessione e la liquidazione dei contributi sono predeterminati, ai sensi dell'articolo 30 della legge regionale 20 marzo 2000, n. 7 (Testo unico delle norme in materia di procedimento amministrativo e di diritto di accesso), con appositi bandi, approvati dalla Giunta regionale su proposta dell'Assessore competente in materia di finanze di concerto con l'Assessore competente in materia di infrastrutture e territorio.
+3 quater.
+( ABROGATO )
+4. Con successive leggi finanziarie o di variazione al bilancio regionale l'Amministrazione regionale può integrare l'autorizzazione di spesa di cui ai commi 1 e 3 bis.
