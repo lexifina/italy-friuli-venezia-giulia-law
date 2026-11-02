@@ -1,0 +1,5 @@
+13. Gli oneri derivanti dall'applicazione del disposto di cui all'articolo 8 della legge regionale 42/1996, come sostituito dal comma 12, fanno carico all'unità di bilancio 10.1.1.1162 e al capitolo 9806 dello stato di previsione della spesa del bilancio pluriennale per gli anni 2011-2013 e del bilancio per l'anno 2011.
+14. Per assicurare le esigenze istituzionali e di servizio l'Amministrazione regionale è autorizzata a destinare al Consiglio regionale appositi spazi anche in eccedenza rispetto a quelli costituenti pertinenza degli immobili destinati a sede del Consiglio stesso.
+15. A tal fine l'Amministrazione regionale è autorizzata a stipulare apposite convenzioni previa comunicazione delle esigenze di cui al comma 14.
+16. Gli oneri derivanti dai commi 14 e 15 fanno carico all'unità di bilancio 10.3.1.1168 e al capitolo 1463 dello stato di previsione della spesa del bilancio pluriennale per gli anni 2011-2013 e del bilancio per l'anno 2011.
+17. Nello stato di previsione della spesa del bilancio pluriennale per gli anni 2011-2013 e del bilancio per l'anno 2011 sono introdotte le variazioni alle unità di bilancio e ai capitoli di cui alla annessa Tabella K.
