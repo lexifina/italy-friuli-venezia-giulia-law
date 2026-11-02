@@ -1,0 +1,3 @@
+b) ( ABROGATA )
+2. Il regolamento regionale di cui all'articolo 10, comma 7, della legge regionale 18/2015, come sostituito dal comma 1, lettera a), è adottato entro centottanta giorni dalla data di entrata in vigore della presente legge.
+3. Le disposizioni in materia di imposta di soggiorno di cui all'articolo 10, commi da 3 a 7, della legge regionale 18/2015, come sostituito dal comma 1, lettera a), hanno effetto dall'1 gennaio successivo all'entrata in vigore della presente legge e comunque successivamente alla data di entrata in vigore dei regolamenti di cui ai commi 7 e 8 del medesimo articolo 10, fatte salve eventuali disposizioni statali di carattere eccezionale finalizzate a contenere il livello complessivo della pressione tributaria.

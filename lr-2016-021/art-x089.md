@@ -1,0 +1,1 @@
+2. Il regolamento regionale di cui all'articolo 121 ter, comma 4, della legge regionale 2/2002, come inserito dal comma 1, è adottato entro centottanta giorni dalla data di entrata in vigore della presente legge.
