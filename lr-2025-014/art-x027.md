@@ -1,0 +1,4 @@
+b)
+al comma 1 dell'articolo 12 le parole <<e 11>> sono sostituite dalle seguenti: <<, 11, 11 bis e 11 ter>>.
+2. Per le finalità di cui all'articolo 11 ter della legge regionale 13/2004, come inserito dal comma 1, lettera a), è autorizzata la spesa complessiva di 900.000 euro, suddivisa in ragione di 300.000 euro per ciascuno degli anni 2025, 2026 e 2027, a valere sulla Missione n. 15 (Politiche per il lavoro e la formazione professionale) - Programma n. 3 (Sostegno all'occupazione) - Titolo n. 2 (Spese in conto capitale) dello stato di previsione della spesa del bilancio per gli anni 2025-2027.
+3. Agli oneri derivanti dal disposto di cui al comma 2 si provvede mediante prelievo dalla Missione n. 20 (Fondi e accantonamenti) - Programma n. 3 (Altri fondi) - Titolo n. 1 (Spese correnti) dello stato di previsione della spesa del bilancio per gli anni 2025-2027.
