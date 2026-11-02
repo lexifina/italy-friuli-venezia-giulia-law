@@ -1,0 +1,1 @@
+2. I provvedimenti attuativi di cui all' articolo 6 ter della legge regionale 2/2013 , come inserito dal comma 1, sono adottati dalla Giunta regionale entro novanta giorni dalla data di entrata in vigore della presente legge.
