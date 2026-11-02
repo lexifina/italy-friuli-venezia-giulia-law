@@ -1,0 +1,3 @@
+Art. 10 bis
+(Comunicazione degli esercizi commerciali)
+1. Gli esercizi commerciali di cui all'articolo 5, comma 1, del decreto legge 4 luglio 2006, n. 223 (Disposizioni urgenti per il rilancio economico e sociale, per il contenimento e la razionalizzazione della spesa pubblica, nonché interventi in materia di entrate e di contrasto all'evasione fiscale), convertito, con modificazioni, dalla legge 248/2006, effettuano la comunicazione di cui alla medesima disposizione, oltre che al Ministero della salute, esclusivamente alle Aziende per i servizi sanitari competenti per territorio. 2. Le Aziende per i servizi sanitari, annualmente, trasmettono alla Direzione centrale competente in materia di salute l'elenco aggiornato degli esercizi commerciali di cui al comma 1.
