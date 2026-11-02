@@ -1,0 +1,11 @@
+CAPO III bis
+PROCEDIMENTO DI REVISIONE E DI AGGIORNAMENTO DEL LIBRO FONDIARIO
+Art. 28 bis
+(Procedimento di revisione del libro fondiario)
+1. Fuori dai casi previsti dall'articolo 104 della legge generale sui libri fondiari allegata al regio decreto 28 marzo 1929, n. 499 (Disposizioni relative ai libri fondiari dei territori delle Nuove Provincie), il procedimento di revisione del libro fondiario si avvia con la presentazione di una domanda al competente ufficio tavolare qualora emerga, ai sensi del paragrafo 43 della legge 83/1883 B.L.I., una non concordanza rilevabile dallo stato tavolare relativamente a erronee iscrizioni riferite alla designazione od alla rappresentazione grafica delle particelle nella mappa.
+2. Alla domanda tavolare di cui al comma 1 deve essere allegata una perizia esplicativa formulata da un tecnico abilitato e giustificativa della richiesta revisione.
+3. L'avvio del procedimento, accertati i presupposti di cui al comma 1, viene annotato sul libro fondiario presso tutte le partite tavolari interessate dalla revisione.
+4. Il decreto tavolare che ordina l'annotazione di avvio del procedimento di revisione, notificato ai sensi dell'articolo 123 della legge generale sui libri fondiari allegata al regio decreto 499/1929, viene successivamente pubblicato sul Bollettino ufficiale della Regione.
+5. Decorsi trenta giorni dalla pubblicazione di cui al comma 4 senza che sia stata proposta alcuna opposizione scritta, la revisione è accordata a seguito della presentazione di una nuova domanda tavolare.
+6. La proposizione di opposizione non consente la revisione e la relativa annotazione di avvio del procedimento è cancellata d'ufficio.
+7. L'annotazione di avvio del procedimento di revisione è cancellata d'ufficio decorsi tre mesi dalla pubblicazione di cui al comma 4.
