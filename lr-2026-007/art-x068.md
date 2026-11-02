@@ -1,0 +1,1 @@
+2. Le Consigliere e i Consiglieri di parità di area vasta in carica al 31 dicembre 2026 rimangono in carica sino alla nomina da parte della Regione delle Consigliere o dei Consiglieri provinciali di parità.
