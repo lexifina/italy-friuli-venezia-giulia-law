@@ -56,6 +56,11 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | Consiglio regionale del Friuli Venezia Giulia, LEXVIEW (banca dati delle leggi regionali) | <https://lexview-int.regione.fvg.it/FontiNormative/xml/index.aspx> | 2026-11-02 | L. 633/1941 art. 5 (official acts are not protected; this record relies on that exemption). Site note legali: download for personal, non-commercial use; reproduction for other ends needs prior authorisation. LEXVIEW itself: electronic reproduction allowed citing the source, the non-authentic character and free of charge. |
 | Consiglio regionale del Friuli Venezia Giulia, LEXVIEW (banca dati delle leggi regionali) | <https://lexview-int.regione.fvg.it/FontiNormative/xml/index.aspx> | 2026-11-02 | L. 633/1941 art. 5 (official acts are not protected; this record relies on that exemption). Site note legali: download for personal, non-commercial use; reproduction for other ends needs prior authorisation. LEXVIEW itself: electronic reproduction allowed citing the source, the non-authentic character and free of charge. |
 | Consiglio regionale del Friuli Venezia Giulia, LEXVIEW (banca dati delle leggi regionali) | <https://lexview-int.regione.fvg.it/FontiNormative/xml/index.aspx> | 2026-11-02 | L. 633/1941 art. 5 (official acts are not protected; this record relies on that exemption). Site note legali: download for personal, non-commercial use; reproduction for other ends needs prior authorisation. LEXVIEW itself: electronic reproduction allowed citing the source, the non-authentic character and free of charge. |
+| Consiglio regionale del Friuli Venezia Giulia, LEXVIEW (banca dati delle leggi regionali) | <https://lexview-int.regione.fvg.it/FontiNormative/xml/index.aspx> | 2026-11-02 | L. 633/1941 art. 5 (official acts are not protected; this record relies on that exemption). Site note legali: download for personal, non-commercial use; reproduction for other ends needs prior authorisation. LEXVIEW itself: electronic reproduction allowed citing the source, the non-authentic character and free of charge. |
+| Consiglio regionale del Friuli Venezia Giulia, LEXVIEW (banca dati delle leggi regionali) | <https://lexview-int.regione.fvg.it/FontiNormative/xml/index.aspx> | 2026-11-02 | L. 633/1941 art. 5 (official acts are not protected; this record relies on that exemption). Site note legali: download for personal, non-commercial use; reproduction for other ends needs prior authorisation. LEXVIEW itself: electronic reproduction allowed citing the source, the non-authentic character and free of charge. |
+| Consiglio regionale del Friuli Venezia Giulia, LEXVIEW (banca dati delle leggi regionali) | <https://lexview-int.regione.fvg.it/FontiNormative/xml/index.aspx> | 2026-11-02 | L. 633/1941 art. 5 (official acts are not protected; this record relies on that exemption). Site note legali: download for personal, non-commercial use; reproduction for other ends needs prior authorisation. LEXVIEW itself: electronic reproduction allowed citing the source, the non-authentic character and free of charge. |
+| Consiglio regionale del Friuli Venezia Giulia, LEXVIEW (banca dati delle leggi regionali) | <https://lexview-int.regione.fvg.it/FontiNormative/xml/index.aspx> | 2026-11-02 | L. 633/1941 art. 5 (official acts are not protected; this record relies on that exemption). Site note legali: download for personal, non-commercial use; reproduction for other ends needs prior authorisation. LEXVIEW itself: electronic reproduction allowed citing the source, the non-authentic character and free of charge. |
+| Consiglio regionale del Friuli Venezia Giulia, LEXVIEW (banca dati delle leggi regionali) | <https://lexview-int.regione.fvg.it/FontiNormative/xml/index.aspx> | 2026-11-02 | L. 633/1941 art. 5 (official acts are not protected; this record relies on that exemption). Site note legali: download for personal, non-commercial use; reproduction for other ends needs prior authorisation. LEXVIEW itself: electronic reproduction allowed citing the source, the non-authentic character and free of charge. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -1187,20 +1192,229 @@ Every word of law in this repository comes from these sources. Lexifina reads th
  (Codice regionale dell'edilizia), concernente la riqualificazione del patrimonio edilizio esistente. | 1 | 2026-11-02 to 2026-11-02 |
 | `lr-2017-040` | L.R. 1 dicembre 2017, n. 40: Disposizioni volte a sostenere percorsi scolastici atti a promuovere azioni di supporto nel caso di scomparsa di minori. | 1 | 2026-11-02 to 2026-11-02 |
 | `lr-2017-041` | L.R. 1 dicembre 2017, n. 41: Interventi a sostegno delle Università della terza età e della libera età nell'ambito dell'apprendimento non formale. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-042` | L.R. 1 dicembre 2017, n. 42: Disposizioni regionali per la gestione delle risorse ittiche nelle acque interne. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-043` | L.R. 7 dicembre 2017, n. 43: Misure urgenti in materia di interventi di area vasta e di contabilità. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-044` | L.R. 28 dicembre 2017, n. 44: Legge collegata alla manovra di bilancio 2018-2020. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-045` | L.R. 28 dicembre 2017, n. 45: Legge di stabilità 2018. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-046` | L.R. 28 dicembre 2017, n. 46: Bilancio di previsione 2018-2020. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-047` | L.R. 28 dicembre 2017, n. 47: Istituzione del Comune di Treppo Ligosullo mediante fusione dei Comuni di Ligosullo e Treppo Carnico, ai sensi dell'articolo 7, primo comma, numero 3), dello Statuto speciale della Regione autonoma Friuli Venezia Giulia. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2017-048` | L.R. 28 dicembre 2017, n. 48: Istituzione del Comune di Fiumicello Villa Vicentina mediante fusione dei Comuni di Fiumicello e Villa Vicentina, ai sensi dell'articolo 7, primo comma, numero 3), dello Statuto speciale della Regione autonoma Friuli Venezia Giulia. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-001` | L.R. 9 gennaio 2018, n. 1: Disposizioni in materia di requisiti igienico-sanitari e di sicurezza delle piscine a uso natatorio. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-002` | L.R. 6 febbraio 2018, n. 2: Modifiche alla legge regionale 8 agosto 2000, n. 15 (Norme per l'introduzione dei prodotti biologici, tipici e tradizionali nelle mense pubbliche e per iniziative di educazione alimentare), disposizioni in materia di agricoltura sociale e relative al Fondo di rotazione per interventi nel settore agricolo. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-003` | L.R. 6 febbraio 2018, n. 3: Norme urgenti in materia di ambiente, di energia, di infrastrutture e di contabilità. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-004` | L.R. 9 febbraio 2018, n. 4: Disposizioni urgenti relative al distacco del Comune di Sappada/Plodn dalla Regione Veneto e all'aggregazione alla Regione autonoma Friuli Venezia Giulia e altre norme urgenti. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-005` | L.R. 9 febbraio 2018, n. 5: Norme per il sostegno e la valorizzazione del sistema informativo regionale. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-006` | L.R. 21 febbraio 2018, n. 6: Disposizioni concernenti il funzionamento dei gruppi consiliari. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-008` | L.R. 23 febbraio 2018, n. 8: Interventi per la promozione della nuova mobilità ciclistica sicura e diffusa. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-009` | L.R. 15 marzo 2018, n. 9: Semplificazione in materia di conferenza di servizi e di diritto di accesso. Modifiche alla legge regionale 20 marzo 2000, n. 7 (Testo unico delle norme in materia di procedimento amministrativo e di diritto di accesso) | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-010` | L.R. 19 marzo 2018, n. 10: Principi generali e disposizioni attuative in materia di accessibilità. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-012` | L.R. 27 marzo 2018, n. 12: Disposizioni in materia di cultura, sport, risorse agricole e forestali, risorse ittiche, attività venatoria e raccolta funghi, imposte e tributi, autonomie locali e coordinamento della finanza pubblica, funzione pubblica, infrastrutture, territorio, ambiente, energia, attività produttive, cooperazione, turismo, lavoro, biodiversità, paesaggio, salute e disposizioni isti | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-013` | L.R. 30 marzo 2018, n. 13: Interventi in materia di diritto allo studio e potenziamento dell'offerta formativa del sistema scolastico regionale. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-014` | L.R. 30 marzo 2018, n. 14: Disposizioni urgenti in materia finanziaria e per esigenze indifferibili. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-015` | L.R. 7 giugno 2018, n. 15: Modifiche alla legge regionale 7 marzo 2003, n. 5 (Articolo 12 dello Statuto della Regione Autonoma Friuli Venezia Giulia. Norme relative alla richiesta, indizione e svolgimento dei referendum abrogativo, propositivo e consultivo e all'iniziativa popolare delle leggi regionali). | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-016` | L.R. 26 giugno 2018, n. 16: Modifiche alle leggi regionali 8/2000, 3/2014, 2/2015. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-017` | L.R. 28 giugno 2018, n. 17: Norme urgenti in materia di funzioni delle Unioni territoriali intercomunali | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-018` | L.R. 27 luglio 2018, n. 18: Rendiconto generale della Regione autonoma Friuli Venezia Giulia per l'esercizio finanziario 2017. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-019` | L.R. 31 luglio 2018, n. 19: Disposizioni urgenti in materia di rappresentanza istituzionale degli enti locali e modifiche alla legge regionale 12/2015. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-020` | L.R. 9 agosto 2018, n. 20: Assestamento del bilancio per gli anni 2018-2020 ai sensi dell'
+ articolo 6 della legge regionale 10 novembre 2015, n. 26
+ . | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-021` | L.R. 12 ottobre 2018, n. 21: Interventi in situazioni di crisi della filiera regionale delle carni. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-022` | L.R. 12 ottobre 2018, n. 22: Modifiche alla legge regionale 18/2016 concernente il sistema integrato del pubblico impiego regionale e locale. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-023` | L.R. 30 ottobre 2018, n. 23: Modifiche e integrazioni della
+ legge regionale 16 maggio 2014, n. 9
+ recante "Istituzione del Garante dei diritti della persona" e istituzione del Difensore civico regionale. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-025` | L.R. 6 novembre 2018, n. 25: Disposizioni finanziarie intersettoriali. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-026` | L.R. 20 novembre 2018, n. 26: Modifiche a leggi regionali in materia di sistema integrato del pubblico impiego regionale e locale, disposizioni in materia di funzione pubblica della Regione, nonché modifica alla legge regionale 2/2015 concernente il trattamento economico dei consiglieri e degli assessori regionali. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-027` | L.R. 17 dicembre 2018, n. 27: Assetto istituzionale e organizzativo del Servizio sanitario regionale. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-028` | L.R. 28 dicembre 2018, n. 28: Legge collegata alla manovra di bilancio 2019-2021. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-029` | L.R. 28 dicembre 2018, n. 29: Legge di stabilità 2019. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-030` | L.R. 28 dicembre 2018, n. 30: Bilancio di previsione per gli anni 2019-2021. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2018-031` | L.R. 28 dicembre 2018, n. 31: Modifiche alla legge regionale 12 dicembre 2014, n. 26 (Riordino del sistema Regione - Autonomie locali nel Friuli Venezia Giulia. Ordinamento delle Unioni territoriali intercomunali e riallocazione di funzioni amministrative), alla legge regionale 17 luglio 2015, n. 18 (La disciplina della finanza locale del Friuli Venezia Giulia, nonché modifiche a disposizioni dell | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-001` | L.R. 12 febbraio 2019, n. 1: Modifiche alla legge regionale 5/2016 concernente l'organizzazione delle funzioni relative al servizio idrico integrato e al servizio di gestione integrata dei rifiuti urbani. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-002` | L.R. 13 febbraio 2019, n. 2: Norme per il sostegno e la valorizzazione del personale dei distaccamenti volontari del Corpo Nazionale dei Vigili del Fuoco operativi nella Regione Friuli Venezia Giulia. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-003` | L.R. 22 febbraio 2019, n. 3: Modifiche alla
+ legge regionale 30 marzo 2018, n. 13
+ (Interventi in materia di diritto allo studio e potenziamento dell'offerta formativa del sistema scolastico regionale). | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-004` | L.R. 8 marzo 2019, n. 4: Modifiche alla
+ legge regionale 19/2013
+ , concernenti le elezioni comunali, alla
+ legge regionale 18/2015
+ , concernenti le indennità degli amministratori locali, alle leggi regionali 18/2015, 37/2017, 20/2018, 29/2018 e 9/2009, concernenti la sicurezza urbana e la polizia locale, alla
+ legge regionale 29/2018
+ , concernenti interventi di investimento degli enti locali e  | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-005` | L.R. 18 aprile 2019, n. 5: Proroga della riduzione temporanea dell'assegno vitalizio e sospensione della rivalutazione annuale. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-006` | L.R. 29 aprile 2019, n. 6: Misure urgenti per il recupero della competitività regionale. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-007` | L.R. 3 maggio 2019, n. 7: Misure per la valorizzazione e la promozione delle sagre e feste locali e delle fiere tradizionali. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-008` | L.R. 7 giugno 2019, n. 8: Rideterminazione della misura degli assegni vitalizi previsti e disciplinati dalle leggi regionali 13 settembre 1995, n. 38 e 12 agosto 2003. n. 13. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-009` | L.R. 8 luglio 2019, n. 9: Disposizioni multisettoriali per esigenze urgenti del territorio regionale. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-010` | L.R. 8 luglio 2019, n. 10: Istituzione della "Giornata in ricordo della tragedia del Vajont" e del riconoscimento "Memoria del Vajont". | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-011` | L.R. 25 luglio 2019, n. 11: Misure di sostegno a favore del patrimonio regionale inserito nella lista del patrimonio mondiale posto sotto la tutela dell'UNESCO. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-012` | L.R. 30 luglio 2019, n. 12: Rendiconto generale della Regione autonoma Friuli Venezia Giulia per l'esercizio finanziario 2018. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-013` | L.R. 6 agosto 2019, n. 13: Assestamento del bilancio per gli anni 2019-2021 ai sensi dell'articolo 6 della legge regionale 10 novembre 2015, n. 26. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-014` | L.R. 6 agosto 2019, n. 14: Ordinamento delle Aziende territoriali per l'edilizia residenziale, nonché modifiche alla legge regionale 1/2016 in materia di edilizia residenziale pubblica. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-015` | L.R. 25 ottobre 2019, n. 15: Contributo straordinario di solidarietà in favore dei familiari degli agenti della Polizia di Stato Matteo Demenego e Pierluigi Rotta. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-016` | L.R. 4 novembre 2019, n. 16: Misure finanziarie intersettoriali | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-017` | L.R. 7 novembre 2019, n. 17: Disposizioni per la difesa dei boschi dagli incendi. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-018` | L.R. 7 novembre 2019, n. 18: Modifiche alla legge regionale 30 ottobre 2000, n. 19 (Interventi per la promozione, a livello regionale e locale, delle attività di cooperazione allo sviluppo e partenariato internazionale). | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-019` | L.R. 7 novembre 2019, n. 19: Recepimento dei principi fondamentali del sistema integrato degli enti territoriali del Friuli Venezia Giulia, di cui all'Accordo tra Stato e Regione in materia di finanza pubblica del 25 febbraio 2019. Modifiche alla legge regionale 18/2015. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-020` | L.R. 13 novembre 2019, n. 20: Disposizioni per la tutela e la promozione delle minoranze linguistiche slovena, friulana e tedesca del Friuli Venezia Giulia. Modifiche alle leggi regionali 26/2007, 29/2007, 20/2009, 13/2000 e 26/2014. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-021` | L.R. 29 novembre 2019, n. 21: Esercizio coordinato di funzioni e servizi tra gli enti locali del Friuli Venezia Giulia e istituzione degli Enti di decentramento regionale. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-022` | L.R. 12 dicembre 2019, n. 22: Riorganizzazione dei livelli di assistenza, norme in materia di pianificazione e programmazione sanitaria e sociosanitaria e modifiche alla legge regionale 26/2015 e alla legge regionale 6/2006. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-023` | L.R. 27 dicembre 2019, n. 23: Legge collegata alla manovra di bilancio 2020-2022. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-024` | L.R. 27 dicembre 2019, n. 24: Legge di stabilità 2020. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2019-025` | L.R. 27 dicembre 2019, n. 25: Bilancio di previsione per gli anni 2020-2022. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-001` | L.R. 14 febbraio 2020, n. 1: Semplifica FVG 2020. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-002` | L.R. 14 febbraio 2020, n. 2: Disposizioni concernenti la realizzazione di nuovi locali della Questura di Trieste. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-003` | L.R. 12 marzo 2020, n. 3: Prime misure urgenti per far fronte all'emergenza epidemiologica da COVID-19. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-004` | L.R. 12 marzo 2020, n. 4: Interventi volti alla conoscenza, alla diffusione e al ricordo del dramma delle foibe e dell'esodo istriano-fiumano-dalmata. Norme urgenti in materia di cultura. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-005` | L.R. 1 aprile 2020, n. 5: Ulteriori misure urgenti per far fronte all'emergenza epidemiologica da COVID-19 e alle conseguenze del conflitto russo-ucraino nel comparto agricolo e agroalimentare. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-006` | L.R. 12 maggio 2020, n. 6: Misure tecnico-contabili urgenti per far fronte all'emergenza epidemiologica da COVID-19, norme urgenti in materia di corregionali all'estero e lingue minoritarie, nonchè per il riconoscimento di debiti fuori bilancio. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-007` | L.R. 14 maggio 2020, n. 7: Contributi per interventi per la manutenzione delle reti stradali comunali. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-008` | L.R. 18 maggio 2020, n. 8: Misure urgenti per far fronte all'emergenza epidemiologica da COVID-19 in materia di demanio marittimo e idrico. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-009` | L.R. 18 maggio 2020, n. 9: Disposizioni urgenti in materia di autonomie locali, finanza locale, funzione pubblica, formazione, lavoro, cooperazione, ricerca e innovazione, salute e disabilità, rifinanziamento dell'articolo 5 della legge regionale 3/2020 recante misure a sostegno delle attività produttive. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-010` | L.R. 18 maggio 2020, n. 10: Misure urgenti in materia di cultura e sport. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-011` | L.R. 23 giugno 2020, n. 11: Ulteriori interventi a sostegno delle attività produttive. Modifiche alle leggi regionali 3/2020, 29/2018, 2/2012 e 3/2015. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-012` | L.R. 23 giugno 2020, n. 12: Disposizioni di sostegno al comparto degli eventi dal vivo e del cinema. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-013` | L.R. 29 giugno 2020, n. 13: Disposizioni in materia di finanze, patrimonio e demanio, funzione pubblica, autonomie locali, sicurezza, politiche dell'immigrazione, corregionali all'estero e lingue minoritarie, cultura e sport, infrastrutture, territorio e viabilità, turismo, risorse agroalimentari, forestali, montagna, attività venatoria, lavoro, formazione, istruzione e famiglia, ambiente e energi | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-014` | L.R. 10 luglio 2020, n. 14: Disposizioni in materia di paesaggio, di urbanistica e di edilizia. Modifiche alle leggi regionali 5/2007, 19/2009 e 22/2009. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-015` | L.R. 6 agosto 2020, n. 15: Assestamento del bilancio per gli anni 2020-2022 ai sensi dell'articolo 6 della legge regionale 10 novembre 2015, n. 26. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-016` | L.R. 6 ottobre 2020, n. 16: Rendiconto generale della Regione autonoma Friuli Venezia Giulia per l'esercizio finanziario 2019. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-017` | L.R. 15 ottobre 2020, n. 17: Disposizioni regionali in materia di lavoro. Modifiche alla legge regionale 9 agosto 2005, n. 18 (Norme regionali per l'occupazione, la tutela e la qualità del lavoro) e alla legge regionale 21 luglio 2017, n. 27 (Norme in materia di formazione e orientamento nell'ambito dell'apprendimento). | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-018` | L.R. 15 ottobre 2020, n. 18: Modifiche alla legge regionale 14 novembre 2014, n. 22 (Promozione dell'invecchiamento attivo e modifiche all'articolo 9 della legge regionale 15/2014 (in materia di protezione sociale)), concernenti gli interventi per il contrasto alla solitudine. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-019` | L.R. 23 ottobre 2020, n. 19: Norme urgenti per la costituzione di due Comunità di montagna nella zona montana omogenea della Destra Tagliamento e delle Dolomiti Friulane di cui all'allegato A della legge regionale 20 dicembre 2002, n. 33 (Istituzione dei Comprensori montani del Friuli Venezia Giulia) e disposizioni speciali per la Comunità di Montagna Natisone e Torre. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-020` | L.R. 6 novembre 2020, n. 20: Modifiche alle disposizioni di coordinamento della finanza locale di cui alla legge regionale 17 luglio 2015, n. 18 (La disciplina della finanza locale del Friuli Venezia Giulia, nonché modifiche a disposizioni delle leggi regionali 19/2013, 9/2009 e 26/2014 concernenti gli enti locali) e norme sulla concertazione delle politiche di sviluppo. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-021` | L.R. 6 novembre 2020, n. 21: Disciplina dell'assegnazione delle concessioni di grandi derivazioni d'acqua a uso idroelettrico. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-022` | L.R. 6 novembre 2020, n. 22: Misure finanziarie intersettoriali. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-023` | L.R. 30 novembre 2020, n. 23: Misure finanziarie urgenti. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-024` | L.R. 4 dicembre 2020, n. 24: Disposizioni in materia di istruzione e diritto allo studio. Modifiche alla legge regionale 30 marzo 2018, n. 13 (Interventi in materia di diritto allo studio e potenziamento dell'offerta formativa del sistema scolastico regionale), e alla legge regionale 14 novembre 2014, n. 21 (Norme in materia di diritto allo studio universitario). | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-025` | L.R. 30 dicembre 2020, n. 25: Legge collegata alla manovra di bilancio 2021-2023. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-026` | L.R. 30 dicembre 2020, n. 26: Legge di stabilità 2021. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2020-027` | L.R. 30 dicembre 2020, n. 27: Bilancio di previsione per gli anni 2021-2023. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-001` | L.R. 8 febbraio 2021, n. 1: Ulteriori misure urgenti per il sostegno dei settori produttivi. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-002` | L.R. 9 febbraio 2021, n. 2: Misure di sostegno e per la ripartenza dei settori cultura e sport e altre disposizioni settoriali. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-003` | L.R. 22 febbraio 2021, n. 3: Disposizioni per la modernizzazione, la crescita e lo sviluppo sostenibile verso una nuova economia del Friuli Venezia Giulia (SviluppoImpresa). | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-004` | L.R. 30 marzo 2021, n. 4: Modifiche alla legge regionale 5 giugno 2015, n. 14 recante "Disposizioni di attuazione del Programma Operativo Regionale Obiettivo "Investimenti in favore della crescita e dell'occupazione" 2014-2020, cofinanziati dal Fondo europeo per lo sviluppo regionale" e ulteriori disposizioni in materia di programmazione europea. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-005` | L.R. 8 aprile 2021, n. 5: Disciplina in materia di politiche integrate di sicurezza e ordinamento della polizia locale. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-006` | L.R. 14 maggio 2021, n. 6: Disposizioni in materia di finanze, risorse agroalimentari e forestali, biodiversità, funghi, gestione venatoria, pesca sportiva, attività produttive, turismo, autonomie locali, sicurezza, corregionali all'estero, funzione pubblica, lavoro, professioni, formazione, istruzione, ricerca, famiglia, patrimonio, demanio, sistemi informativi, infrastrutture, territorio, viabil | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-007` | L.R. 28 maggio 2021, n. 7: Disposizioni per la riabilitazione storica attraverso la restituzione dell'onore dei soldati nati o caduti nel territorio dell'attuale Regione Friuli Venezia Giulia appartenenti alle Forze armate italiane condannati alla fucilazione dai tribunali militari di guerra nel corso della Prima Guerra mondiale. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-008` | L.R. 28 maggio 2021, n. 8: Legge regionale di semplificazione per l'anno 2021. Modifiche alla legge regionale 7/2000. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-009` | L.R. 3 giugno 2021, n. 9: Disposizioni regionali in materia di sostegno alla permanenza, al rientro e all'attrazione sul territorio regionale di giovani professionalità altamente specializzate - Talenti FVG. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-010` | L.R. 9 luglio 2021, n. 10: Disposizioni per la formazione in materia di disostruzione delle vie aeree in età pediatrica e di rianimazione cardiopolmonare. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-011` | L.R. 6 agosto 2021, n. 11: Rendiconto generale della Regione autonoma Friuli Venezia Giulia per l'esercizio finanziario 2020 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-012` | L.R. 6 agosto 2021, n. 12: Interventi per la tutela delle donne vittime di violenza e per il contrasto e la prevenzione di atti violenti e discriminatori | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-013` | L.R. 6 agosto 2021, n. 13: Assestamento del bilancio per gli anni 2021-2023 ai sensi dell'articolo 6 della legge regionale 10 novembre 2015, n. 26. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-014` | L.R. 12 agosto 2021, n. 14: Disposizioni per l'esercizio delle funzioni in materia di viabilità da parte degli Enti di decentramento regionale. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-016` | L.R. 2 novembre 2021, n. 16: Misure finanziarie intersettoriali. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-017` | L.R. 8 novembre 2021, n. 17: Promozione di servizi educativi, didattici e aggregativi nel settore dell'agricoltura sociale. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-018` | L.R. 8 novembre 2021, n. 18: Promozione e tutela della produzione del gelato artigianale di qualità in Friuli Venezia Giulia. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-019` | L.R. 8 novembre 2021, n. 19: Disposizioni per il sostegno di Gorizia Capitale europea della Cultura 2025 e modifiche alle leggi regionali 16/2014, 23/2015, 2/2016, 25/2020 e 13/2021. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-020` | L.R. 26 novembre 2021, n. 20: Modifiche alla legge regionale 30 settembre 1996, n 42 (Norme in materia di parchi e riserve naturali regionali), alla legge regionale 7/2008, alla legge regionale 45/1988 e alla legge regionale 24/2006. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-021` | L.R. 7 dicembre 2021, n. 21: Misure finanziarie multisettoriali urgenti. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-022` | L.R. 10 dicembre 2021, n. 22: Disposizioni in materia di politiche della famiglia, di promozione dell'autonomia dei giovani e delle pari opportunità. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-023` | L.R. 29 dicembre 2021, n. 23: Legge collegata alla manovra di bilancio 2022-2024 | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-024` | L.R. 29 dicembre 2021, n. 24: Legge di stabilità 2022. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2021-025` | L.R. 30 dicembre 2021, n. 25: Bilancio di previsione per gli anni 2022-2024. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-001` | L.R. 4 marzo 2022, n. 1: Modifiche alla legge regionale 5 giugno 2015, n. 14 (Disposizioni di attuazione del Programma Operativo Regionale obiettivo "Investimenti in favore della crescita e dell'occupazione" 2014-2020 e del Programma Regionale Obiettivo "Investimenti in favore dell'occupazione e della crescita" 2021-2027 cofinanziati dal Fondo europeo per lo sviluppo regionale (FESR)). | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-002` | L.R. 4 marzo 2022, n. 2: FVG PLUS SpA. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-003` | L.R. 4 marzo 2022, n. 3: Disciplina del pescaturismo, ittiturismo e delle attività connesse alla pesca professionale e all'acquacoltura. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-004` | L.R. 4 marzo 2022, n. 4: Norme per favorire interventi di ripristino, recupero, manutenzione e salvaguardia dei castagneti da frutto, nonché per la realizzazione di nuovi impianti. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-005` | L.R. 11 marzo 2022, n. 5: Disposizioni in materia di elezioni comunali del 2022. Modifiche alla legge regionale 19/2013. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-006` | L.R. 6 maggio 2022, n. 6: Riconoscenza alla solidarietà e al sacrificio degli Alpini. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-007` | L.R. 12 maggio 2022, n. 7: Norme per l'applicazione del Quadro temporaneo per gli aiuti di Stato a seguito della crisi in Ucraina. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-008` | L.R. 9 giugno 2022, n. 8: Disposizioni in materia di relazioni internazionali, biodiversità, caccia, pesca sportiva, agricoltura, attività produttive, turismo, autonomie locali, sicurezza, lingue minoritarie, corregionali all'estero, funzione pubblica, lavoro, formazione, istruzione, famiglia, patrimonio, demanio, infrastrutture, territorio, viabilità, ambiente, energia, cultura, sport, salute, po | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-009` | L.R. 1 luglio 2022, n. 9: Disposizioni in materia di intermodalità. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-010` | L.R. 20 luglio 2022, n. 10: Legge regionale di semplificazione per l'anno 2022. Modifiche alla legge regionale 7/2000. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-011` | L.R. 2 agosto 2022, n. 11: Riordino delle disposizioni in materia di impianti a fune, di aree attrezzate nei poli turistici montani invernali ed estivi, nonché disposizioni in materia di sicurezza nelle discipline sportive invernali di cui al decreto legislativo 40/2021 (Attuazione dell'articolo 9 della legge 8 agosto 2019, n. 86, recante misure in materia di sicurezza nelle discipline sportive in | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-012` | L.R. 2 agosto 2022, n. 12: Rendiconto generale della Regione autonoma Friuli Venezia Giulia per l'esercizio finanziario 2021. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-013` | L.R. 5 agosto 2022, n. 13: Assestamento del bilancio per gli anni 2022-2024 ai sensi dell'articolo 6 della legge regionale 10 novembre 2015, n. 26. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-014` | L.R. 7 novembre 2022, n. 14: Disposizioni sull'autonomia organizzativa del Consiglio regionale. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-015` | L.R. 7 novembre 2022, n. 15: Misure finanziarie multisettoriali. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-016` | L.R. 14 novembre 2022, n. 16: Interventi a favore delle persone con disabilità e riordino dei servizi sociosanitari in materia. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-017` | L.R. 14 novembre 2022, n. 17: Istituzione dell'imposta locale immobiliare autonoma (ILIA). | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-018` | L.R. 29 novembre 2022, n. 18: Disposizioni regionali per la transizione energetica. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-019` | L.R. 29 novembre 2022, n. 19: Istituzione dell'Elenco regionale delle scuole non statali di musica del Friuli Venezia Giulia e altre disposizioni in materia di attività didattica musicale di base. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-020` | L.R. 7 dicembre 2022, n. 20: Modifiche alla legge regionale 11 agosto 2010, n. 14 (Norme per il sostegno all'acquisto dei carburanti per autotrazione ai privati cittadini residenti in Regione e di promozione per la mobilità individuale ecologica e il suo sviluppo). | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-021` | L.R. 28 dicembre 2022, n. 21: Legge collegata alla manovra di bilancio 2023-2025. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-022` | L.R. 28 dicembre 2022, n. 22: Legge di stabilità 2023. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2022-023` | L.R. 29 dicembre 2022, n. 23: Bilancio di previsione per gli anni 2023-2025. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-001` | L.R. 9 febbraio 2023, n. 1: Incentivi per la diffusione di fonti energetiche rinnovabili. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-002` | L.R. 10 febbraio 2023, n. 2: Ratifica dell'intesa tra le Regioni e le Province autonome di Trento e di Bolzano per l'istituzionalizzazione della Conferenza delle Regioni e delle Province autonome. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-003` | L.R. 10 febbraio 2023, n. 3: Modifica all'articolo 23 della legge regionale 18 giugno 2007, n. 17 (Determinazione della forma di governo della Regione Friuli Venezia Giulia e del sistema elettorale regionale, ai sensi dell'articolo 12 dello Statuto di autonomia) in materia di autenticazione delle sottoscrizioni nel procedimento per la elezione del Presidente della Regione e del Consiglio regionale | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-004` | L.R. 17 febbraio 2023, n. 4: FVGreen - Disposizioni per lo sviluppo sostenibile e la transizione ecologica del Friuli Venezia Giulia. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-005` | L.R. 17 febbraio 2023, n. 5: Modifiche alla legge regionale 5 dicembre 2005, n. 29 (Normativa organica in materia di attività commerciali e di somministrazione di alimenti e bevande. Modifica alla legge regionale 16 gennaio 2002, n. 2 "Disciplina organica del turismo"). | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-006` | L.R. 17 febbraio 2023, n. 6: Norme urgenti in materia di autonomie locali e funzione pubblica. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-007` | L.R. 24 febbraio 2023, n. 7: Modifiche all'articolo 7 ter della legge regionale 14/2015 per il finanziamento di progetti di investimento di valenza territoriale su tematiche strategiche proposte nella programmazione 2021/2027. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-008` | L.R. 24 febbraio 2023, n. 8: Disposizioni per il riconoscimento, la valorizzazione e il sostegno dei caregiver familiari. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-009` | L.R. 3 marzo 2023, n. 9: Sistema integrato di interventi in materia di immigrazione. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-010` | L.R. 3 marzo 2023, n. 10: Misure per la semplificazione e la crescita economica. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-011` | L.R. 29 giugno 2023, n. 11: Legge di manutenzione della disciplina dell'organizzazione e del lavoro alle dipendenze della Regione autonoma Friuli Venezia Giulia e degli enti regionali. Modifiche alle leggi regionali 53/1981, 18/1996, 1/2000, 16/2010, 16/2021 e 22/2022. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-012` | L.R. 1 agosto 2023, n. 12: Rendiconto generale della Regione autonoma Friuli Venezia Giulia per l'esercizio finanziario 2022. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-013` | L.R. 10 agosto 2023, n. 13: Assestamento del bilancio per gli anni 2023-2025 ai sensi dell'articolo 6 della legge regionale 10 novembre 2015, n. 26. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-014` | L.R. 27 ottobre 2023, n. 14: Misure finanziarie multisettoriali. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-015` | L.R. 28 dicembre 2023, n. 15: Legge collegata alla manovra di bilancio 2024-2026. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-016` | L.R. 28 dicembre 2023, n. 16: Legge di stabilità 2024. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2023-017` | L.R. 28 dicembre 2023, n. 17: Bilancio di previsione per gli anni 2024-2026. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-001` | L.R. 28 marzo 2024, n. 1: Disposizioni urgenti per lo svolgimento nell'anno 2024 delle consultazioni elettorali e disposizioni in materia di elezioni comunali e regionali. Modifiche alle leggi regionali 19/2013 e 28/2007. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-002` | L.R. 5 aprile 2024, n. 2: Misure di programmazione strategica per lo sviluppo del sistema territoriale regionale in materia di infrastrutture e territorio. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-003` | L.R. 10 maggio 2024, n. 3: Disposizioni multisettoriali e di semplificazione. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-004` | L.R. 25 giugno 2024, n. 4: Disposizioni in materia di Scuola di formazione del Comparto unico della Regione Friuli Venezia Giulia e Centro di competenza - ComPA FVG. Modifiche alla legge regionale 21/2019. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-005` | L.R. 26 giugno 2024, n. 5: Incentivi per l'aggregazione delle gestioni del servizio idrico integrato e del servizio di gestione integrata dei rifiuti urbani. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-006` | L.R. 31 luglio 2024, n. 6: Rendiconto generale della Regione autonoma Friuli Venezia Giulia per l'esercizio finanziario 2023. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-007` | L.R. 7 agosto 2024, n. 7: Assestamento del bilancio per gli anni 2024-2026 ai sensi dell'articolo 6 della legge regionale 10 novembre 2015, n. 26. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-008` | L.R. 25 ottobre 2024, n. 8: Misure finanziarie multisettoriali. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-009` | L.R. 4 novembre 2024, n. 9: Disposizioni in materia di Imposta Locale Immobiliare Autonoma (ILIA). Modifiche alla legge regionale 14 novembre 2022, n. 17. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-010` | L.R. 2 dicembre 2024, n. 10: Istituzione di una Commissione regionale per le pari opportunità tra uomo e donna. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-011` | L.R. 3 dicembre 2024, n. 11: Sviluppo, promozione e primo supporto finanziario del settore nautico regionale. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-012` | L.R. 30 dicembre 2024, n. 12: Legge collegata alla manovra di bilancio 2025-2027. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-013` | L.R. 30 dicembre 2024, n. 13: Legge di stabilità 2025. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2024-014` | L.R. 30 dicembre 2024, n. 14: Bilancio di previsione per gli anni 2025-2027. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-001` | L.R. 17 febbraio 2025, n. 1: Norme urgenti in materia di autonomie locali. Modifiche all'articolo 9 della legge regionale 30 dicembre 2024, n. 12 (Legge collegata alla manovra di bilancio 2025-2027). | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-002` | L.R. 4 marzo 2025, n. 2: Norme per l'installazione di impianti a fonti rinnovabili sul territorio regionale. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-003` | L.R. 4 marzo 2025, n. 3: Interventi regionali per il sostegno delle associazioni combattentistiche e d'arma e delle associazioni delle forze dell'ordine, nonché dell'Associazione Nazionale Forestali (A.N.FOR) e sue articolazioni regionali, delle associazioni costituite da appartenenti o ex appartenenti al Corpo forestale regionale (CFR) e delle associazioni dei vigili del fuoco e della polizia loc | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-004` | L.R. 5 marzo 2025, n. 4: Norme per la definizione dei percorsi formativi dei soggetti operanti nell'ambito della subacquea lavorativa. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-005` | L.R. 21 marzo 2025, n. 5: Disposizioni in materia di sicurezza, immigrazione, finanza locale, funzione pubblica e lingue minoritarie. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-006` | L.R. 18 aprile 2025, n. 6: Disposizioni urgenti in materia di misure di conservazione specifiche delle Zone di protezione speciale (ZPS). Modifiche alla legge regionale 14 giugno 2007, n. 14 (Legge comunitaria 2006). | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-007` | L.R. 3 giugno 2025, n. 7: Disposizioni multisettoriali. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-008` | L.R. 4 luglio 2025, n. 8: Interventi volti a favorire il recupero, la riqualificazione o il riuso del patrimonio immobiliare privato. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-009` | L.R. 4 luglio 2025, n. 9: Modifiche alla legge regionale 11 novembre 2009, n. 19 (Codice regionale dell'edilizia). | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-010` | L.R. 14 luglio 2025, n. 10: Misure per la competitività delle imprese attraverso l'ottenimento e il mantenimento di certificazioni. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-011` | L.R. 1 agosto 2025, n. 11: Rendiconto generale della Regione autonoma Friuli Venezia Giulia per l'esercizio finanziario 2024. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-012` | L.R. 6 agosto 2025, n. 12: Assestamento del bilancio per gli anni 2025-2027 ai sensi dell'articolo 6 della legge regionale 10 novembre 2015, n. 26. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-013` | L.R. 17 ottobre 2025, n. 13: Misure finanziarie multisettoriali 2025. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-014` | L.R. 14 novembre 2025, n. 14: Disposizioni in materia di innovazione sociale per lo sviluppo e l'attrattività del territorio regionale. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-015` | L.R. 14 novembre 2025, n. 15: Disciplina delle nomine e delle designazioni di competenza regionale e del rinnovo degli organi amministrativi. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-016` | L.R. 24 novembre 2025, n. 16: Disciplina organica per la promozione, la valorizzazione e il sostegno delle manifestazioni di rievocazione storica del Friuli Venezia Giulia. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-017` | L.R. 9 dicembre 2025, n. 17: Codice regionale del commercio e turismo nella Regione Friuli Venezia Giulia. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-018` | L.R. 29 dicembre 2025, n. 18: Legge collegata alla manovra di bilancio 2026-2028. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-019` | L.R. 29 dicembre 2025, n. 19: Legge di stabilità 2026. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2025-020` | L.R. 29 dicembre 2025, n. 20: Bilancio di previsione per gli anni 2026-2028. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2026-001` | L.R. 23 gennaio 2026, n. 1: Modifiche alla legge regionale 11 agosto 2010, n. 14 (Norme per il sostegno all'acquisto dei carburanti per autotrazione ai privati cittadini residenti in Regione e di promozione per la mobilità individuale ecologica e il suo sviluppo). | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2026-002` | L.R. 3 febbraio 2026, n. 2: Misure urgenti e straordinarie in tema di tutela della salute. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2026-003` | L.R. 5 marzo 2026, n. 3: Disposizioni urgenti in materia di autonomie locali e funzione pubblica e altre disposizioni di settore. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2026-004` | L.R. 9 marzo 2026, n. 4: Disciplina urbanistica degli insediamenti logistici. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2026-005` | L.R. 9 giugno 2026, n. 5: Disposizioni multisettoriali per l'anno 2026. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2026-006` | L.R. 26 giugno 2026, n. 6: Disposizioni in materia di politiche abitative regionali. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2026-007` | L.R. 14 luglio 2026, n. 7: Principi e norme fondamentali del sistema Regione-Autonomie locali, istituzione e ordinamento delle Province del Friuli Venezia Giulia e soppressione degli Enti di decentramento regionale di cui alla legge regionale 21/2019. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2026-008` | L.R. 30 luglio 2026, n. 8: Rendiconto generale della Regione autonoma Friuli Venezia Giulia per l'esercizio finanziario 2025. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2026-009` | L.R. 6 agosto 2026, n. 9: Assestamento del bilancio per gli anni 2026-2028 ai sensi dell'articolo 6 della legge regionale 10 novembre 2015, n. 26. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2026-010` | L.R. 25 settembre 2026, n. 10: Norme sulle modalità di presentazione dei progetti di legge, nonché sulla pubblicazione dei testi legislativi in internet e nel Bollettino ufficiale della Regione. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2026-011` | L.R. 16 ottobre 2026, n. 11: Riforma del governo del territorio. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-2026-012` | L.R. 28 ottobre 2026, n. 12: Misure finanziarie multisettoriali 2026. | 1 | 2026-11-02 to 2026-11-02 |
 
-The build made 1115 commits:
+The build made 1312 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1115 | first version of an act |
+| 1312 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-02.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1115 laws in the record.
-- 1115 tags.
+- 1312 laws in the record.
+- 1312 tags.
 
 ## Dates
 
@@ -1212,18 +1426,43 @@ When a law gives no date of its own, the default rule applies: Statuto speciale 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `3779a11a609d24a83c704e449e76809a04b5aad79232bb6471f9935ff4824d8f` (34026096 bytes).
+- Corpus: sha256 `b66de61682e465dd41eeb508c26127dd5ac4136c671c119cc7f2b48eb5cd19de` (48885474 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-1115 versions of 1115 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+1312 versions of 1312 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
 No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
+- Every regional law LEXVIEW publishes is included, found by number year by year (a missing number answers an empty page); laws it marks as repealed in full ("Legge abrogata"), and laws all of whose articles are repealed, are left out. Regulations are not included.
+- Each law is recorded by its text in force on the retrieval day only, as its oldest version available, dated that day and credited to the database as publisher.
+- The editor's notes (note markers, "Note:" lists, notes on the whole law) and the editor's corrections ("Correzioni effettuate d'ufficio") are not copied. Repealed articles stay as printed, "( ABROGATO )".
+- Units: anything before the first article (preambolo), one file per article; headings of titles, chapters and sections go with the next article.
+- A law whose page does not read back letter for letter under a second, independent reader is left out.
+- Every regional law LEXVIEW publishes is included, found by number year by year (a missing number answers an empty page); laws it marks as repealed in full ("Legge abrogata"), and laws all of whose articles are repealed, are left out. Regulations are not included.
+- Each law is recorded by its text in force on the retrieval day only, as its oldest version available, dated that day and credited to the database as publisher.
+- The editor's notes (note markers, "Note:" lists, notes on the whole law) and the editor's corrections ("Correzioni effettuate d'ufficio") are not copied. Repealed articles stay as printed, "( ABROGATO )".
+- Units: anything before the first article (preambolo), one file per article; headings of titles, chapters and sections go with the next article.
+- A law whose page does not read back letter for letter under a second, independent reader is left out.
+- Every regional law LEXVIEW publishes is included, found by number year by year (a missing number answers an empty page); laws it marks as repealed in full ("Legge abrogata"), and laws all of whose articles are repealed, are left out. Regulations are not included.
+- Each law is recorded by its text in force on the retrieval day only, as its oldest version available, dated that day and credited to the database as publisher.
+- The editor's notes (note markers, "Note:" lists, notes on the whole law) and the editor's corrections ("Correzioni effettuate d'ufficio") are not copied. Repealed articles stay as printed, "( ABROGATO )".
+- Units: anything before the first article (preambolo), one file per article; headings of titles, chapters and sections go with the next article.
+- A law whose page does not read back letter for letter under a second, independent reader is left out.
+- Every regional law LEXVIEW publishes is included, found by number year by year (a missing number answers an empty page); laws it marks as repealed in full ("Legge abrogata"), and laws all of whose articles are repealed, are left out. Regulations are not included.
+- Each law is recorded by its text in force on the retrieval day only, as its oldest version available, dated that day and credited to the database as publisher.
+- The editor's notes (note markers, "Note:" lists, notes on the whole law) and the editor's corrections ("Correzioni effettuate d'ufficio") are not copied. Repealed articles stay as printed, "( ABROGATO )".
+- Units: anything before the first article (preambolo), one file per article; headings of titles, chapters and sections go with the next article.
+- A law whose page does not read back letter for letter under a second, independent reader is left out.
+- Every regional law LEXVIEW publishes is included, found by number year by year (a missing number answers an empty page); laws it marks as repealed in full ("Legge abrogata"), and laws all of whose articles are repealed, are left out. Regulations are not included.
+- Each law is recorded by its text in force on the retrieval day only, as its oldest version available, dated that day and credited to the database as publisher.
+- The editor's notes (note markers, "Note:" lists, notes on the whole law) and the editor's corrections ("Correzioni effettuate d'ufficio") are not copied. Repealed articles stay as printed, "( ABROGATO )".
+- Units: anything before the first article (preambolo), one file per article; headings of titles, chapters and sections go with the next article.
+- A law whose page does not read back letter for letter under a second, independent reader is left out.
 - Every regional law LEXVIEW publishes is included, found by number year by year (a missing number answers an empty page); laws it marks as repealed in full ("Legge abrogata"), and laws all of whose articles are repealed, are left out. Regulations are not included.
 - Each law is recorded by its text in force on the retrieval day only, as its oldest version available, dated that day and credited to the database as publisher.
 - The editor's notes (note markers, "Note:" lists, notes on the whole law) and the editor's corrections ("Correzioni effettuate d'ufficio") are not copied. Repealed articles stay as printed, "( ABROGATO )".
@@ -1484,6 +1723,11 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- A model (Claude) wrote the fetch and parse code; it wrote no law text. Every word of law comes from LEXVIEW, the Consiglio regionale del Friuli Venezia Giulia's law database.
+- A model (Claude) wrote the fetch and parse code; it wrote no law text. Every word of law comes from LEXVIEW, the Consiglio regionale del Friuli Venezia Giulia's law database.
+- A model (Claude) wrote the fetch and parse code; it wrote no law text. Every word of law comes from LEXVIEW, the Consiglio regionale del Friuli Venezia Giulia's law database.
+- A model (Claude) wrote the fetch and parse code; it wrote no law text. Every word of law comes from LEXVIEW, the Consiglio regionale del Friuli Venezia Giulia's law database.
+- A model (Claude) wrote the fetch and parse code; it wrote no law text. Every word of law comes from LEXVIEW, the Consiglio regionale del Friuli Venezia Giulia's law database.
 - A model (Claude) wrote the fetch and parse code; it wrote no law text. Every word of law comes from LEXVIEW, the Consiglio regionale del Friuli Venezia Giulia's law database.
 - A model (Claude) wrote the fetch and parse code; it wrote no law text. Every word of law comes from LEXVIEW, the Consiglio regionale del Friuli Venezia Giulia's law database.
 - A model (Claude) wrote the fetch and parse code; it wrote no law text. Every word of law comes from LEXVIEW, the Consiglio regionale del Friuli Venezia Giulia's law database.

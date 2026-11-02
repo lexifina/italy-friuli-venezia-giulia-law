@@ -15610,6 +15610,2764 @@
      "sha256": "6f3e3320bd04309241518f2d112c5fe8ecfe0503d0d34dda22c5d6d4a82c168e"
     }
    ]
+  },
+  {
+   "slug": "lr-2017-042",
+   "short": "L.R. 42/2017",
+   "title": "L.R. 1 dicembre 2017, n. 42: Disposizioni regionali per la gestione delle risorse ittiche nelle acque interne.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2017&legge=42&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 54,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2017&legge=42&lista=0&fx=",
+     "sha256": "075d3d20f7ab1e48b88753e41406b09a249790f0cdaf8d1271d4aa92cc8ed972"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2017-043",
+   "short": "L.R. 43/2017",
+   "title": "L.R. 7 dicembre 2017, n. 43: Misure urgenti in materia di interventi di area vasta e di contabilità.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2017&legge=43&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 7,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2017&legge=43&lista=0&fx=",
+     "sha256": "c81640927798c0cec9c93737dd2dbaedf58e66f403aa76aa019cb12f93d8a600"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2017-044",
+   "short": "L.R. 44/2017",
+   "title": "L.R. 28 dicembre 2017, n. 44: Legge collegata alla manovra di bilancio 2018-2020.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2017&legge=44&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 17,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2017&legge=44&lista=0&fx=",
+     "sha256": "a9b6e7ba85c64f606f5ff1391985b30d0982cfd90bedc8c289929c60c19fa984"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2017-045",
+   "short": "L.R. 45/2017",
+   "title": "L.R. 28 dicembre 2017, n. 45: Legge di stabilità 2018.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2017&legge=45&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 19,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2017&legge=45&lista=0&fx=",
+     "sha256": "cefd3446163d52c5d1531ad6cdaf19e77e37b8fbdaab4eb56799fd3239e5d051"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2017-046",
+   "short": "L.R. 46/2017",
+   "title": "L.R. 28 dicembre 2017, n. 46: Bilancio di previsione 2018-2020.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2017&legge=46&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 2,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2017&legge=46&lista=0&fx=",
+     "sha256": "1688acfc6aa805f9d1f0fb705f3f065a3dac6567facc923ecae3656440f0537e"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2017-047",
+   "short": "L.R. 47/2017",
+   "title": "L.R. 28 dicembre 2017, n. 47: Istituzione del Comune di Treppo Ligosullo mediante fusione dei Comuni di Ligosullo e Treppo Carnico, ai sensi dell'articolo 7, primo comma, numero 3), dello Statuto speciale della Regione autonoma Friuli Venezia Giulia.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2017&legge=47&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 7,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2017&legge=47&lista=0&fx=",
+     "sha256": "9afc0167ae79f5f9c3f6922349c046f2f0f6f2c1d19c7b864c689039dc659345"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2017-048",
+   "short": "L.R. 48/2017",
+   "title": "L.R. 28 dicembre 2017, n. 48: Istituzione del Comune di Fiumicello Villa Vicentina mediante fusione dei Comuni di Fiumicello e Villa Vicentina, ai sensi dell'articolo 7, primo comma, numero 3), dello Statuto speciale della Regione autonoma Friuli Venezia Giulia.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2017&legge=48&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 7,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2017&legge=48&lista=0&fx=",
+     "sha256": "8420a936ddd5dea50b2b8e6aa8e7a4dba3d767395216bc49c59ec0d931f364f5"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2018-001",
+   "short": "L.R. 1/2018",
+   "title": "L.R. 9 gennaio 2018, n. 1: Disposizioni in materia di requisiti igienico-sanitari e di sicurezza delle piscine a uso natatorio.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=1&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 29,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=1&lista=0&fx=",
+     "sha256": "a6c7a17c979971ce34b642336094767de5a3c3d5f01f7b08713c96718c7a7881"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2018-002",
+   "short": "L.R. 2/2018",
+   "title": "L.R. 6 febbraio 2018, n. 2: Modifiche alla legge regionale 8 agosto 2000, n. 15 (Norme per l'introduzione dei prodotti biologici, tipici e tradizionali nelle mense pubbliche e per iniziative di educazione alimentare), disposizioni in materia di agricoltura sociale e relative al Fondo di rotazione per interventi nel settore agricolo.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=2&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 14,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=2&lista=0&fx=",
+     "sha256": "083eef9f19688c32894ff5889d8be25d0c12de8a4752eb22041b931b4341a581"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2018-003",
+   "short": "L.R. 3/2018",
+   "title": "L.R. 6 febbraio 2018, n. 3: Norme urgenti in materia di ambiente, di energia, di infrastrutture e di contabilità.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=3&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 20,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=3&lista=0&fx=",
+     "sha256": "8c2d1cbb647b86e0fc7a99d49d83e167020005aaa8a68546f58c1c112b7ebce9"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2018-004",
+   "short": "L.R. 4/2018",
+   "title": "L.R. 9 febbraio 2018, n. 4: Disposizioni urgenti relative al distacco del Comune di Sappada/Plodn dalla Regione Veneto e all'aggregazione alla Regione autonoma Friuli Venezia Giulia e altre norme urgenti.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=4&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 35,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=4&lista=0&fx=",
+     "sha256": "5582461a8c1399f85644bfb499fdd669fcd58f03c9f7e5efc6683572c60a7ecd"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2018-005",
+   "short": "L.R. 5/2018",
+   "title": "L.R. 9 febbraio 2018, n. 5: Norme per il sostegno e la valorizzazione del sistema informativo regionale.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=5&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 16,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=5&lista=0&fx=",
+     "sha256": "d36c974a3e83b95e7bf6d4c0574e9d9a7499a5b604aa209d6bcf6e77a8f8f7de"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2018-006",
+   "short": "L.R. 6/2018",
+   "title": "L.R. 21 febbraio 2018, n. 6: Disposizioni concernenti il funzionamento dei gruppi consiliari.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=6&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=6&lista=0&fx=",
+     "sha256": "33f40540b8084b70aa2718df5491d2710f12564b679cd22f1dce7c615044162d"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2018-008",
+   "short": "L.R. 8/2018",
+   "title": "L.R. 23 febbraio 2018, n. 8: Interventi per la promozione della nuova mobilità ciclistica sicura e diffusa.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=8&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 20,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=8&lista=0&fx=",
+     "sha256": "6baf648cc7edf7db9d3d1c0682854f5f789c7236d024b5d31db6aeb582e2d2ef"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2018-009",
+   "short": "L.R. 9/2018",
+   "title": "L.R. 15 marzo 2018, n. 9: Semplificazione in materia di conferenza di servizi e di diritto di accesso. Modifiche alla legge regionale 20 marzo 2000, n. 7 (Testo unico delle norme in materia di procedimento amministrativo e di diritto di accesso)",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=9&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 15,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=9&lista=0&fx=",
+     "sha256": "855ed7f5fdc10cebb3351d3a88a11bfc0528c9a9cfcb060e403e16014208b56d"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2018-010",
+   "short": "L.R. 10/2018",
+   "title": "L.R. 19 marzo 2018, n. 10: Principi generali e disposizioni attuative in materia di accessibilità.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=10&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 11,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=10&lista=0&fx=",
+     "sha256": "cf11f141a13cd24b2be9d880ef1f58134d5c62e835db532a8b204c739adb24e8"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2018-012",
+   "short": "L.R. 12/2018",
+   "title": "L.R. 27 marzo 2018, n. 12: Disposizioni in materia di cultura, sport, risorse agricole e forestali, risorse ittiche, attività venatoria e raccolta funghi, imposte e tributi, autonomie locali e coordinamento della finanza pubblica, funzione pubblica, infrastrutture, territorio, ambiente, energia, attività produttive, cooperazione, turismo, lavoro, biodiversità, paesaggio, salute e disposizioni isti",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=12&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 19,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=12&lista=0&fx=",
+     "sha256": "2c11e4bf81fee15139db86ef90fa84a0cc0d83a679e2a03b3d70e952e2a4c275"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2018-013",
+   "short": "L.R. 13/2018",
+   "title": "L.R. 30 marzo 2018, n. 13: Interventi in materia di diritto allo studio e potenziamento dell'offerta formativa del sistema scolastico regionale.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=13&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 77,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=13&lista=0&fx=",
+     "sha256": "42801900abceec7da3146603c7f7ed127f4072bf23faf7881e39024e16fe6d31"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2018-014",
+   "short": "L.R. 14/2018",
+   "title": "L.R. 30 marzo 2018, n. 14: Disposizioni urgenti in materia finanziaria e per esigenze indifferibili.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=14&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 14,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=14&lista=0&fx=",
+     "sha256": "ac1006b60317a240acf037c13b11a12688c01fe8d606f6add6019d51ae77a32b"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2018-015",
+   "short": "L.R. 15/2018",
+   "title": "L.R. 7 giugno 2018, n. 15: Modifiche alla legge regionale 7 marzo 2003, n. 5 (Articolo 12 dello Statuto della Regione Autonoma Friuli Venezia Giulia. Norme relative alla richiesta, indizione e svolgimento dei referendum abrogativo, propositivo e consultivo e all'iniziativa popolare delle leggi regionali).",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=15&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 24,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=15&lista=0&fx=",
+     "sha256": "b41a3cf800ca7ed4f15f1889f861eee9935dd49faec274ec75277f0d933dc00d"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2018-016",
+   "short": "L.R. 16/2018",
+   "title": "L.R. 26 giugno 2018, n. 16: Modifiche alle leggi regionali 8/2000, 3/2014, 2/2015.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=16&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 6,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=16&lista=0&fx=",
+     "sha256": "a0a7c46f83b8dacd42fe7af3a2fe1db64b0e26c2ea62989a7988e3b3cafedb8b"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2018-017",
+   "short": "L.R. 17/2018",
+   "title": "L.R. 28 giugno 2018, n. 17: Norme urgenti in materia di funzioni delle Unioni territoriali intercomunali",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=17&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 3,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=17&lista=0&fx=",
+     "sha256": "1ad12f0995dd1c7ec1ad3f7352176cc0b701dfd884e2ddfe33400857e2bc2670"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2018-018",
+   "short": "L.R. 18/2018",
+   "title": "L.R. 27 luglio 2018, n. 18: Rendiconto generale della Regione autonoma Friuli Venezia Giulia per l'esercizio finanziario 2017.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=18&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 9,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=18&lista=0&fx=",
+     "sha256": "a40e2e98cc94eb25ff7fdfc3f8a0e58c9ca2996ad7c629481ce787e3e90af8f6"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2018-019",
+   "short": "L.R. 19/2018",
+   "title": "L.R. 31 luglio 2018, n. 19: Disposizioni urgenti in materia di rappresentanza istituzionale degli enti locali e modifiche alla legge regionale 12/2015.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=19&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 5,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=19&lista=0&fx=",
+     "sha256": "33a7722fcae4f3cd0f800a60813a188bcd7dd10ead7e5147f6d3b5f7793cb72f"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2018-020",
+   "short": "L.R. 20/2018",
+   "title": "L.R. 9 agosto 2018, n. 20: Assestamento del bilancio per gli anni 2018-2020 ai sensi dell'\n articolo 6 della legge regionale 10 novembre 2015, n. 26\n .",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=20&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 21,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=20&lista=0&fx=",
+     "sha256": "3ede5855559cb37a25a082083692e22566c18f55f3d8a25ad637e7e968e3968f"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2018-021",
+   "short": "L.R. 21/2018",
+   "title": "L.R. 12 ottobre 2018, n. 21: Interventi in situazioni di crisi della filiera regionale delle carni.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=21&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 16,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=21&lista=0&fx=",
+     "sha256": "9e882aa9cf62e4e2f13e85f114e35ac1840d390262583c0de6b32e49267886b0"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2018-022",
+   "short": "L.R. 22/2018",
+   "title": "L.R. 12 ottobre 2018, n. 22: Modifiche alla legge regionale 18/2016 concernente il sistema integrato del pubblico impiego regionale e locale.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=22&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 2,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=22&lista=0&fx=",
+     "sha256": "6e0678c19cbcccbb6d4a42783888e645d8171393a37fec15337c75b3304b007b"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2018-023",
+   "short": "L.R. 23/2018",
+   "title": "L.R. 30 ottobre 2018, n. 23: Modifiche e integrazioni della\n legge regionale 16 maggio 2014, n. 9\n recante \"Istituzione del Garante dei diritti della persona\" e istituzione del Difensore civico regionale.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=23&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 22,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=23&lista=0&fx=",
+     "sha256": "03d3f12fd1ff95615564a57e4facc83d59177401438f4751bfdcadad3a7fe2a0"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2018-025",
+   "short": "L.R. 25/2018",
+   "title": "L.R. 6 novembre 2018, n. 25: Disposizioni finanziarie intersettoriali.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=25&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 19,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=25&lista=0&fx=",
+     "sha256": "3f4421fd141fcda264f06bec1f8a8cf870828a611f0d460a454edfd22d4fb70f"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2018-026",
+   "short": "L.R. 26/2018",
+   "title": "L.R. 20 novembre 2018, n. 26: Modifiche a leggi regionali in materia di sistema integrato del pubblico impiego regionale e locale, disposizioni in materia di funzione pubblica della Regione, nonché modifica alla legge regionale 2/2015 concernente il trattamento economico dei consiglieri e degli assessori regionali.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=26&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 28,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=26&lista=0&fx=",
+     "sha256": "d579246e4cf32b75a424fc8a84153f57808d6d038bdcaeaaf70a52fe2ad0a0ba"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2018-027",
+   "short": "L.R. 27/2018",
+   "title": "L.R. 17 dicembre 2018, n. 27: Assetto istituzionale e organizzativo del Servizio sanitario regionale.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=27&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 18,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=27&lista=0&fx=",
+     "sha256": "5212e43ddb0dec5840f35d149e95cc39ed6a8b682e6396c9cbd2d4d962e38e5c"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2018-028",
+   "short": "L.R. 28/2018",
+   "title": "L.R. 28 dicembre 2018, n. 28: Legge collegata alla manovra di bilancio 2019-2021.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=28&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 18,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=28&lista=0&fx=",
+     "sha256": "d6832d4b2f5b67dcdfe08baaf390b76254bb0b35f762132b6baf78c8af7c46f3"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2018-029",
+   "short": "L.R. 29/2018",
+   "title": "L.R. 28 dicembre 2018, n. 29: Legge di stabilità 2019.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=29&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 35,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=29&lista=0&fx=",
+     "sha256": "2383891825bb1866006f9037f46cb18b40448129b01f1ec2302333f593895c7d"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2018-030",
+   "short": "L.R. 30/2018",
+   "title": "L.R. 28 dicembre 2018, n. 30: Bilancio di previsione per gli anni 2019-2021.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=30&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 2,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=30&lista=0&fx=",
+     "sha256": "5e28e39bdf5bfb1d02dd75071d46196811dae2cf7d08d8af246b476283c5be4b"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2018-031",
+   "short": "L.R. 31/2018",
+   "title": "L.R. 28 dicembre 2018, n. 31: Modifiche alla legge regionale 12 dicembre 2014, n. 26 (Riordino del sistema Regione - Autonomie locali nel Friuli Venezia Giulia. Ordinamento delle Unioni territoriali intercomunali e riallocazione di funzioni amministrative), alla legge regionale 17 luglio 2015, n. 18 (La disciplina della finanza locale del Friuli Venezia Giulia, nonché modifiche a disposizioni dell",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=31&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 25,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2018&legge=31&lista=0&fx=",
+     "sha256": "669486b3062720225f78e90126b46fb84b1aef7849e192464e60706aefdde6c8"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2019-001",
+   "short": "L.R. 1/2019",
+   "title": "L.R. 12 febbraio 2019, n. 1: Modifiche alla legge regionale 5/2016 concernente l'organizzazione delle funzioni relative al servizio idrico integrato e al servizio di gestione integrata dei rifiuti urbani.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=1&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 10,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=1&lista=0&fx=",
+     "sha256": "1e27bcb62f1de0a8d162fcb6521af4c114f893302866abf085cfc5c86ffb227b"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2019-002",
+   "short": "L.R. 2/2019",
+   "title": "L.R. 13 febbraio 2019, n. 2: Norme per il sostegno e la valorizzazione del personale dei distaccamenti volontari del Corpo Nazionale dei Vigili del Fuoco operativi nella Regione Friuli Venezia Giulia.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=2&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 5,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=2&lista=0&fx=",
+     "sha256": "38b9592b5d64f9daf93b6ae662c27e65e9fae2d272e956b27f55c6311a5233cf"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2019-003",
+   "short": "L.R. 3/2019",
+   "title": "L.R. 22 febbraio 2019, n. 3: Modifiche alla\n legge regionale 30 marzo 2018, n. 13\n (Interventi in materia di diritto allo studio e potenziamento dell'offerta formativa del sistema scolastico regionale).",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=3&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 43,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=3&lista=0&fx=",
+     "sha256": "e8dff6dd26906ad7367f5b6031973f4fd7e3075b756e12715cbb5c1d38cd24af"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2019-004",
+   "short": "L.R. 4/2019",
+   "title": "L.R. 8 marzo 2019, n. 4: Modifiche alla\n legge regionale 19/2013\n , concernenti le elezioni comunali, alla\n legge regionale 18/2015\n , concernenti le indennità degli amministratori locali, alle leggi regionali 18/2015, 37/2017, 20/2018, 29/2018 e 9/2009, concernenti la sicurezza urbana e la polizia locale, alla\n legge regionale 29/2018\n , concernenti interventi di investimento degli enti locali e ",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=4&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 14,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=4&lista=0&fx=",
+     "sha256": "b12fc4b5de34f624ccc0cb92445f7266f8977c4647d225c831e43516e285bc56"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2019-005",
+   "short": "L.R. 5/2019",
+   "title": "L.R. 18 aprile 2019, n. 5: Proroga della riduzione temporanea dell'assegno vitalizio e sospensione della rivalutazione annuale.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=5&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 3,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=5&lista=0&fx=",
+     "sha256": "a84dc7f98a49072fabb2341176d4bc6cc5374a8174cf68d8bbd2e59eccd7caa4"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2019-006",
+   "short": "L.R. 6/2019",
+   "title": "L.R. 29 aprile 2019, n. 6: Misure urgenti per il recupero della competitività regionale.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=6&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 105,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=6&lista=0&fx=",
+     "sha256": "871eec76af6d36e4aea9dba19569dd78fc3d3562232bb1c7365804b79bc5bf0f"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2019-007",
+   "short": "L.R. 7/2019",
+   "title": "L.R. 3 maggio 2019, n. 7: Misure per la valorizzazione e la promozione delle sagre e feste locali e delle fiere tradizionali.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=7&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 16,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=7&lista=0&fx=",
+     "sha256": "9c8fb68163e8d61977d40aec72951afab0986800924b0f6f6a538d39a016a948"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2019-008",
+   "short": "L.R. 8/2019",
+   "title": "L.R. 7 giugno 2019, n. 8: Rideterminazione della misura degli assegni vitalizi previsti e disciplinati dalle leggi regionali 13 settembre 1995, n. 38 e 12 agosto 2003. n. 13.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=8&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 7,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=8&lista=0&fx=",
+     "sha256": "94ab8b7029fb91ed44b928a9a96914d99daa8ed1f9f3760cb86e7706c00a60a1"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2019-009",
+   "short": "L.R. 9/2019",
+   "title": "L.R. 8 luglio 2019, n. 9: Disposizioni multisettoriali per esigenze urgenti del territorio regionale.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=9&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 119,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=9&lista=0&fx=",
+     "sha256": "f3622f60d8d35a9f6d0175742f425d9f2ec9e4125710d9ab36c9149df36144e8"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2019-010",
+   "short": "L.R. 10/2019",
+   "title": "L.R. 8 luglio 2019, n. 10: Istituzione della \"Giornata in ricordo della tragedia del Vajont\" e del riconoscimento \"Memoria del Vajont\".",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=10&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 3,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=10&lista=0&fx=",
+     "sha256": "301e9a645c7bb37e36bde7b278937251101b4d55560b9b7b61b5209902bf95c8"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2019-011",
+   "short": "L.R. 11/2019",
+   "title": "L.R. 25 luglio 2019, n. 11: Misure di sostegno a favore del patrimonio regionale inserito nella lista del patrimonio mondiale posto sotto la tutela dell'UNESCO.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=11&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 22,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=11&lista=0&fx=",
+     "sha256": "effca4964c97b16464281a6b9dc4c13a849a638bd028d6670d6fa1511d4418bd"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2019-012",
+   "short": "L.R. 12/2019",
+   "title": "L.R. 30 luglio 2019, n. 12: Rendiconto generale della Regione autonoma Friuli Venezia Giulia per l'esercizio finanziario 2018.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=12&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 8,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=12&lista=0&fx=",
+     "sha256": "8194f80756fa18926994940682773f65284ce3e653ed427d994dcd2c40dc18bc"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2019-013",
+   "short": "L.R. 13/2019",
+   "title": "L.R. 6 agosto 2019, n. 13: Assestamento del bilancio per gli anni 2019-2021 ai sensi dell'articolo 6 della legge regionale 10 novembre 2015, n. 26.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=13&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 24,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=13&lista=0&fx=",
+     "sha256": "ab0bdbae19543a7233b9e97e50858ef6cee3e0ce4394ad56304265e22a3016a8"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2019-014",
+   "short": "L.R. 14/2019",
+   "title": "L.R. 6 agosto 2019, n. 14: Ordinamento delle Aziende territoriali per l'edilizia residenziale, nonché modifiche alla legge regionale 1/2016 in materia di edilizia residenziale pubblica.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=14&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 23,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=14&lista=0&fx=",
+     "sha256": "acc3cfa9fd07e5a23c9b383d820db462883bb490f098773209663d39c9d4c3b0"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2019-015",
+   "short": "L.R. 15/2019",
+   "title": "L.R. 25 ottobre 2019, n. 15: Contributo straordinario di solidarietà in favore dei familiari degli agenti della Polizia di Stato Matteo Demenego e Pierluigi Rotta.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=15&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 3,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=15&lista=0&fx=",
+     "sha256": "7bdae6d250a457c23cbacf6765c91d449392dd319828531d11ef73debc7d77bd"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2019-016",
+   "short": "L.R. 16/2019",
+   "title": "L.R. 4 novembre 2019, n. 16: Misure finanziarie intersettoriali",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=16&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 15,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=16&lista=0&fx=",
+     "sha256": "b73a3c47832aa1718dc8a23c6a56058e255545d4262aa346b5a8931092e913e7"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2019-017",
+   "short": "L.R. 17/2019",
+   "title": "L.R. 7 novembre 2019, n. 17: Disposizioni per la difesa dei boschi dagli incendi.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=17&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 24,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=17&lista=0&fx=",
+     "sha256": "7f7303ba784b06339e2ef74c81f976e98c5be30829fe38b62445746ec22cd460"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2019-018",
+   "short": "L.R. 18/2019",
+   "title": "L.R. 7 novembre 2019, n. 18: Modifiche alla legge regionale 30 ottobre 2000, n. 19 (Interventi per la promozione, a livello regionale e locale, delle attività di cooperazione allo sviluppo e partenariato internazionale).",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=18&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 9,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=18&lista=0&fx=",
+     "sha256": "0b2eb0c43c407d3119e8c4a4c01b960ad5bde6a2ff507f723d7c3f4c1e8ff0bc"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2019-019",
+   "short": "L.R. 19/2019",
+   "title": "L.R. 7 novembre 2019, n. 19: Recepimento dei principi fondamentali del sistema integrato degli enti territoriali del Friuli Venezia Giulia, di cui all'Accordo tra Stato e Regione in materia di finanza pubblica del 25 febbraio 2019. Modifiche alla legge regionale 18/2015.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=19&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=19&lista=0&fx=",
+     "sha256": "c7b73062da2029f41ad5fa9e6b528566e60d9e88ac849ad76659474b3afe2ca0"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2019-020",
+   "short": "L.R. 20/2019",
+   "title": "L.R. 13 novembre 2019, n. 20: Disposizioni per la tutela e la promozione delle minoranze linguistiche slovena, friulana e tedesca del Friuli Venezia Giulia. Modifiche alle leggi regionali 26/2007, 29/2007, 20/2009, 13/2000 e 26/2014.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=20&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 46,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=20&lista=0&fx=",
+     "sha256": "376a591be050e789d9a0520822c6532a546bf05a19aaffaa9a9cfd0986dd008f"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2019-021",
+   "short": "L.R. 21/2019",
+   "title": "L.R. 29 novembre 2019, n. 21: Esercizio coordinato di funzioni e servizi tra gli enti locali del Friuli Venezia Giulia e istituzione degli Enti di decentramento regionale.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=21&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 51,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=21&lista=0&fx=",
+     "sha256": "bd16eef380472b196c18f5e32c0a03cdc072aaf6bc38f712cd412cf0ae46ebe8"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2019-022",
+   "short": "L.R. 22/2019",
+   "title": "L.R. 12 dicembre 2019, n. 22: Riorganizzazione dei livelli di assistenza, norme in materia di pianificazione e programmazione sanitaria e sociosanitaria e modifiche alla legge regionale 26/2015 e alla legge regionale 6/2006.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=22&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 74,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=22&lista=0&fx=",
+     "sha256": "3566732905c1d1c205aa44ddeed62aad15bb01f205ccdd1e92d774225bbfd5ab"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2019-023",
+   "short": "L.R. 23/2019",
+   "title": "L.R. 27 dicembre 2019, n. 23: Legge collegata alla manovra di bilancio 2020-2022.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=23&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 16,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=23&lista=0&fx=",
+     "sha256": "3634f94b8093c6fd9397146b73ed8f779a3826a26cf78d26850b8eedfc49fb32"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2019-024",
+   "short": "L.R. 24/2019",
+   "title": "L.R. 27 dicembre 2019, n. 24: Legge di stabilità 2020.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=24&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 28,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=24&lista=0&fx=",
+     "sha256": "44ffbe7d7c70f6c460cdd8764287a7bd73d94489963ebb5dcf6532cdf3066d8c"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2019-025",
+   "short": "L.R. 25/2019",
+   "title": "L.R. 27 dicembre 2019, n. 25: Bilancio di previsione per gli anni 2020-2022.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=25&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 2,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2019&legge=25&lista=0&fx=",
+     "sha256": "c8c20b86fa4c90378cf498f7975618768f0968916bd59360e1b0925c4fd5a196"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2020-001",
+   "short": "L.R. 1/2020",
+   "title": "L.R. 14 febbraio 2020, n. 1: Semplifica FVG 2020.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=1&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 9,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=1&lista=0&fx=",
+     "sha256": "041af4a8f2ab0a942c64caf4c48a2cdf949b09068d21f8788ec4374ee22a7342"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2020-002",
+   "short": "L.R. 2/2020",
+   "title": "L.R. 14 febbraio 2020, n. 2: Disposizioni concernenti la realizzazione di nuovi locali della Questura di Trieste.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=2&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 4,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=2&lista=0&fx=",
+     "sha256": "7b3b2c01e3826dcc6ec93afd8059bfb009fb7509dd0952e44640ecd62046adfc"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2020-003",
+   "short": "L.R. 3/2020",
+   "title": "L.R. 12 marzo 2020, n. 3: Prime misure urgenti per far fronte all'emergenza epidemiologica da COVID-19.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=3&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 23,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=3&lista=0&fx=",
+     "sha256": "5578ff767551566faa20e2701c03235dae9197c88b11933f2de44dcba8f9de61"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2020-004",
+   "short": "L.R. 4/2020",
+   "title": "L.R. 12 marzo 2020, n. 4: Interventi volti alla conoscenza, alla diffusione e al ricordo del dramma delle foibe e dell'esodo istriano-fiumano-dalmata. Norme urgenti in materia di cultura.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=4&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 8,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=4&lista=0&fx=",
+     "sha256": "2df25c51f22cc524e81c132c23745ecc36a3b167bc1a76d4873af3344a274f35"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2020-005",
+   "short": "L.R. 5/2020",
+   "title": "L.R. 1 aprile 2020, n. 5: Ulteriori misure urgenti per far fronte all'emergenza epidemiologica da COVID-19 e alle conseguenze del conflitto russo-ucraino nel comparto agricolo e agroalimentare.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=5&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 16,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=5&lista=0&fx=",
+     "sha256": "9266a1f462e3d51902a99da8dc80e08e7ba3f0e522b4785dd7cad6931705e865"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2020-006",
+   "short": "L.R. 6/2020",
+   "title": "L.R. 12 maggio 2020, n. 6: Misure tecnico-contabili urgenti per far fronte all'emergenza epidemiologica da COVID-19, norme urgenti in materia di corregionali all'estero e lingue minoritarie, nonchè per il riconoscimento di debiti fuori bilancio.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=6&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 15,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=6&lista=0&fx=",
+     "sha256": "f39de25c1984cbe3ed4b5bd6502056c276244839d4b924279d4c2c1bd524a722"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2020-007",
+   "short": "L.R. 7/2020",
+   "title": "L.R. 14 maggio 2020, n. 7: Contributi per interventi per la manutenzione delle reti stradali comunali.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=7&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 7,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=7&lista=0&fx=",
+     "sha256": "979f4a5aeb3f539a44892aa0d698b9a5901dc720ec8e18528d42a42f38c407c2"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2020-008",
+   "short": "L.R. 8/2020",
+   "title": "L.R. 18 maggio 2020, n. 8: Misure urgenti per far fronte all'emergenza epidemiologica da COVID-19 in materia di demanio marittimo e idrico.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=8&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 5,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=8&lista=0&fx=",
+     "sha256": "d2d8fd406ef020ee5390cc790fcbcf3254f5d5dc5dcb5ca9db1fb31b3c02b904"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2020-009",
+   "short": "L.R. 9/2020",
+   "title": "L.R. 18 maggio 2020, n. 9: Disposizioni urgenti in materia di autonomie locali, finanza locale, funzione pubblica, formazione, lavoro, cooperazione, ricerca e innovazione, salute e disabilità, rifinanziamento dell'articolo 5 della legge regionale 3/2020 recante misure a sostegno delle attività produttive.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=9&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 20,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=9&lista=0&fx=",
+     "sha256": "cdfb29cd4f14c404c3be5d1c861737a7889cec0532ca7517aeec149ca932c4d9"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2020-010",
+   "short": "L.R. 10/2020",
+   "title": "L.R. 18 maggio 2020, n. 10: Misure urgenti in materia di cultura e sport.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=10&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 26,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=10&lista=0&fx=",
+     "sha256": "9c2d4740b6fe3e66ba2928ea71416e16c7b9039c8c5e00b8aefd3c1f42127a29"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2020-011",
+   "short": "L.R. 11/2020",
+   "title": "L.R. 23 giugno 2020, n. 11: Ulteriori interventi a sostegno delle attività produttive. Modifiche alle leggi regionali 3/2020, 29/2018, 2/2012 e 3/2015.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=11&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 21,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=11&lista=0&fx=",
+     "sha256": "a287864dc428088b9704427b0f887fd718bb7ab4c8b9579d2eafe203365489dc"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2020-012",
+   "short": "L.R. 12/2020",
+   "title": "L.R. 23 giugno 2020, n. 12: Disposizioni di sostegno al comparto degli eventi dal vivo e del cinema.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=12&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 4,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=12&lista=0&fx=",
+     "sha256": "1f57e1e85778a2e1889dac85b3b8eead06330b34e9b14fa20033b94afb0ea712"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2020-013",
+   "short": "L.R. 13/2020",
+   "title": "L.R. 29 giugno 2020, n. 13: Disposizioni in materia di finanze, patrimonio e demanio, funzione pubblica, autonomie locali, sicurezza, politiche dell'immigrazione, corregionali all'estero e lingue minoritarie, cultura e sport, infrastrutture, territorio e viabilità, turismo, risorse agroalimentari, forestali, montagna, attività venatoria, lavoro, formazione, istruzione e famiglia, ambiente e energi",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=13&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 117,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=13&lista=0&fx=",
+     "sha256": "3e469276c905373da61abcea48a7b6b867a96a99ff2fb8bf12565b14482dd170"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2020-014",
+   "short": "L.R. 14/2020",
+   "title": "L.R. 10 luglio 2020, n. 14: Disposizioni in materia di paesaggio, di urbanistica e di edilizia. Modifiche alle leggi regionali 5/2007, 19/2009 e 22/2009.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=14&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 15,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=14&lista=0&fx=",
+     "sha256": "8016815832c887d5f351bb9ca04a6b28be7fee364f1617c257a597df306e8771"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2020-015",
+   "short": "L.R. 15/2020",
+   "title": "L.R. 6 agosto 2020, n. 15: Assestamento del bilancio per gli anni 2020-2022 ai sensi dell'articolo 6 della legge regionale 10 novembre 2015, n. 26.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=15&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 17,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=15&lista=0&fx=",
+     "sha256": "556ae496d3bc4f40aba2816bd1f217e31e2fc68c1f014128531e0e0a58bb622a"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2020-016",
+   "short": "L.R. 16/2020",
+   "title": "L.R. 6 ottobre 2020, n. 16: Rendiconto generale della Regione autonoma Friuli Venezia Giulia per l'esercizio finanziario 2019.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=16&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 8,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=16&lista=0&fx=",
+     "sha256": "14ba1656dbb564a06dfc10381f7795c7a949fe51375fc0d007de51010567fb8a"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2020-017",
+   "short": "L.R. 17/2020",
+   "title": "L.R. 15 ottobre 2020, n. 17: Disposizioni regionali in materia di lavoro. Modifiche alla legge regionale 9 agosto 2005, n. 18 (Norme regionali per l'occupazione, la tutela e la qualità del lavoro) e alla legge regionale 21 luglio 2017, n. 27 (Norme in materia di formazione e orientamento nell'ambito dell'apprendimento).",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=17&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 55,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=17&lista=0&fx=",
+     "sha256": "7618946aefe55bf260461fece8f4b853fc40b6a0ec9f600506f35dfa47578517"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2020-018",
+   "short": "L.R. 18/2020",
+   "title": "L.R. 15 ottobre 2020, n. 18: Modifiche alla legge regionale 14 novembre 2014, n. 22 (Promozione dell'invecchiamento attivo e modifiche all'articolo 9 della legge regionale 15/2014 (in materia di protezione sociale)), concernenti gli interventi per il contrasto alla solitudine.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=18&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 17,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=18&lista=0&fx=",
+     "sha256": "ffeb96143a5edce818e63baad0e1c5eb58f21dc91207d480a201edb204b534d5"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2020-019",
+   "short": "L.R. 19/2020",
+   "title": "L.R. 23 ottobre 2020, n. 19: Norme urgenti per la costituzione di due Comunità di montagna nella zona montana omogenea della Destra Tagliamento e delle Dolomiti Friulane di cui all'allegato A della legge regionale 20 dicembre 2002, n. 33 (Istituzione dei Comprensori montani del Friuli Venezia Giulia) e disposizioni speciali per la Comunità di Montagna Natisone e Torre.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=19&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 5,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=19&lista=0&fx=",
+     "sha256": "2eee316af944c082ca8e326c4bf0ad6a7f8f767ab1345be6d7309649f4b364d3"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2020-020",
+   "short": "L.R. 20/2020",
+   "title": "L.R. 6 novembre 2020, n. 20: Modifiche alle disposizioni di coordinamento della finanza locale di cui alla legge regionale 17 luglio 2015, n. 18 (La disciplina della finanza locale del Friuli Venezia Giulia, nonché modifiche a disposizioni delle leggi regionali 19/2013, 9/2009 e 26/2014 concernenti gli enti locali) e norme sulla concertazione delle politiche di sviluppo.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=20&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 20,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=20&lista=0&fx=",
+     "sha256": "66b79502ba6ab2a267d1e729201193cf1acb3954ad7946014358f84fb0011471"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2020-021",
+   "short": "L.R. 21/2020",
+   "title": "L.R. 6 novembre 2020, n. 21: Disciplina dell'assegnazione delle concessioni di grandi derivazioni d'acqua a uso idroelettrico.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=21&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 29,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=21&lista=0&fx=",
+     "sha256": "229f622e671a725e4206667f34b8861784234248be3ecdbdf34256125a878833"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2020-022",
+   "short": "L.R. 22/2020",
+   "title": "L.R. 6 novembre 2020, n. 22: Misure finanziarie intersettoriali.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=22&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 19,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=22&lista=0&fx=",
+     "sha256": "d7b4b6b94544222745ec8e859e42cbaf7eda065f665f2ba4c54a08e24b7dd764"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2020-023",
+   "short": "L.R. 23/2020",
+   "title": "L.R. 30 novembre 2020, n. 23: Misure finanziarie urgenti.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=23&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 5,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=23&lista=0&fx=",
+     "sha256": "3362e8e3e22a1255b9fa4d54943378fb0e6a7128493063587cc55f50758fb993"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2020-024",
+   "short": "L.R. 24/2020",
+   "title": "L.R. 4 dicembre 2020, n. 24: Disposizioni in materia di istruzione e diritto allo studio. Modifiche alla legge regionale 30 marzo 2018, n. 13 (Interventi in materia di diritto allo studio e potenziamento dell'offerta formativa del sistema scolastico regionale), e alla legge regionale 14 novembre 2014, n. 21 (Norme in materia di diritto allo studio universitario).",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=24&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 51,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=24&lista=0&fx=",
+     "sha256": "1ec5cb389883bea5c131c5a1be7d7d287223b0c109046e23863bbd67398d81e6"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2020-025",
+   "short": "L.R. 25/2020",
+   "title": "L.R. 30 dicembre 2020, n. 25: Legge collegata alla manovra di bilancio 2021-2023.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=25&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 13,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=25&lista=0&fx=",
+     "sha256": "043d4f5133abb45e997c7143a41491b78f8e4ad9c565c604d1d8e9938c8251c6"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2020-026",
+   "short": "L.R. 26/2020",
+   "title": "L.R. 30 dicembre 2020, n. 26: Legge di stabilità 2021.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=26&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 19,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=26&lista=0&fx=",
+     "sha256": "4cdb03e12e4401a534d7441dedccfa69daaee702e91a852fe9bf2e50a0117ca8"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2020-027",
+   "short": "L.R. 27/2020",
+   "title": "L.R. 30 dicembre 2020, n. 27: Bilancio di previsione per gli anni 2021-2023.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=27&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 2,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2020&legge=27&lista=0&fx=",
+     "sha256": "391e8fa146812deac3e9bdfe4b7be6b6b6f961d61e9bc24ecec3ce22c4124caa"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2021-001",
+   "short": "L.R. 1/2021",
+   "title": "L.R. 8 febbraio 2021, n. 1: Ulteriori misure urgenti per il sostegno dei settori produttivi.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=1&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 7,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=1&lista=0&fx=",
+     "sha256": "d57101f1d2e7648c41bc25be437c5349eb2878e18366573c09df0e953ffb5bb4"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2021-002",
+   "short": "L.R. 2/2021",
+   "title": "L.R. 9 febbraio 2021, n. 2: Misure di sostegno e per la ripartenza dei settori cultura e sport e altre disposizioni settoriali.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=2&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 10,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=2&lista=0&fx=",
+     "sha256": "df75833ee146f09b60ecdc67230c0a9159ae239ee74aede5c147d53e652c6527"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2021-003",
+   "short": "L.R. 3/2021",
+   "title": "L.R. 22 febbraio 2021, n. 3: Disposizioni per la modernizzazione, la crescita e lo sviluppo sostenibile verso una nuova economia del Friuli Venezia Giulia (SviluppoImpresa).",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=3&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 108,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=3&lista=0&fx=",
+     "sha256": "175801199e7d5136b06c98f6d6d6c4286723ddaf1ee05e4458f07db6ed3bdac1"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2021-004",
+   "short": "L.R. 4/2021",
+   "title": "L.R. 30 marzo 2021, n. 4: Modifiche alla legge regionale 5 giugno 2015, n. 14 recante \"Disposizioni di attuazione del Programma Operativo Regionale Obiettivo \"Investimenti in favore della crescita e dell'occupazione\" 2014-2020, cofinanziati dal Fondo europeo per lo sviluppo regionale\" e ulteriori disposizioni in materia di programmazione europea.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=4&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 11,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=4&lista=0&fx=",
+     "sha256": "965b6bbbe9bd29c34c5fbb91eb28c27f9b48a4f5f44c4df9e7243b1e30521be3"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2021-005",
+   "short": "L.R. 5/2021",
+   "title": "L.R. 8 aprile 2021, n. 5: Disciplina in materia di politiche integrate di sicurezza e ordinamento della polizia locale.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=5&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 37,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=5&lista=0&fx=",
+     "sha256": "314236df3cf3b74a432141e2e4a1861cb49566f3f64a18855ee1cb5801353ebf"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2021-006",
+   "short": "L.R. 6/2021",
+   "title": "L.R. 14 maggio 2021, n. 6: Disposizioni in materia di finanze, risorse agroalimentari e forestali, biodiversità, funghi, gestione venatoria, pesca sportiva, attività produttive, turismo, autonomie locali, sicurezza, corregionali all'estero, funzione pubblica, lavoro, professioni, formazione, istruzione, ricerca, famiglia, patrimonio, demanio, sistemi informativi, infrastrutture, territorio, viabil",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=6&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 178,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=6&lista=0&fx=",
+     "sha256": "800d59303824fd3934f79ba38d979bbf3390de50c7717a5b827c1b4ac71dcbfc"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2021-007",
+   "short": "L.R. 7/2021",
+   "title": "L.R. 28 maggio 2021, n. 7: Disposizioni per la riabilitazione storica attraverso la restituzione dell'onore dei soldati nati o caduti nel territorio dell'attuale Regione Friuli Venezia Giulia appartenenti alle Forze armate italiane condannati alla fucilazione dai tribunali militari di guerra nel corso della Prima Guerra mondiale.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=7&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 5,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=7&lista=0&fx=",
+     "sha256": "60d865e091a5bb474b5f7d87d2307ed4b85ecff7f7ca136c2687074f9139d754"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2021-008",
+   "short": "L.R. 8/2021",
+   "title": "L.R. 28 maggio 2021, n. 8: Legge regionale di semplificazione per l'anno 2021. Modifiche alla legge regionale 7/2000.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=8&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 6,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=8&lista=0&fx=",
+     "sha256": "0919c08b405940114788cb9e4a0bfffc1dd71c589e3a5666aba4b90cdfc09fc3"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2021-009",
+   "short": "L.R. 9/2021",
+   "title": "L.R. 3 giugno 2021, n. 9: Disposizioni regionali in materia di sostegno alla permanenza, al rientro e all'attrazione sul territorio regionale di giovani professionalità altamente specializzate - Talenti FVG.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=9&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 11,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=9&lista=0&fx=",
+     "sha256": "b52b8f3c527e873268ff1ebd3e3b519179897c14e3506b2c5d23cea744f489c4"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2021-010",
+   "short": "L.R. 10/2021",
+   "title": "L.R. 9 luglio 2021, n. 10: Disposizioni per la formazione in materia di disostruzione delle vie aeree in età pediatrica e di rianimazione cardiopolmonare.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=10&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 6,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=10&lista=0&fx=",
+     "sha256": "a37687b95a8f16ef02773453532b13e5bd1254ebf8714e3053f20090994394b8"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2021-011",
+   "short": "L.R. 11/2021",
+   "title": "L.R. 6 agosto 2021, n. 11: Rendiconto generale della Regione autonoma Friuli Venezia Giulia per l'esercizio finanziario 2020",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=11&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 8,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=11&lista=0&fx=",
+     "sha256": "ba626aed108b1d4ca262ba3c89c34e99cf88058b3e422d8b5450034206f0d55b"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2021-012",
+   "short": "L.R. 12/2021",
+   "title": "L.R. 6 agosto 2021, n. 12: Interventi per la tutela delle donne vittime di violenza e per il contrasto e la prevenzione di atti violenti e discriminatori",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=12&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 29,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=12&lista=0&fx=",
+     "sha256": "fd888c0924fb7aa13984ce62a642f7c37d0d364c48e77bfb7fef7db901c9936c"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2021-013",
+   "short": "L.R. 13/2021",
+   "title": "L.R. 6 agosto 2021, n. 13: Assestamento del bilancio per gli anni 2021-2023 ai sensi dell'articolo 6 della legge regionale 10 novembre 2015, n. 26.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=13&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 23,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=13&lista=0&fx=",
+     "sha256": "4abb798da4232271b84ae7c6cca3cde45f7a91fe0888b236f145346f7fb006d1"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2021-014",
+   "short": "L.R. 14/2021",
+   "title": "L.R. 12 agosto 2021, n. 14: Disposizioni per l'esercizio delle funzioni in materia di viabilità da parte degli Enti di decentramento regionale.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=14&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 12,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=14&lista=0&fx=",
+     "sha256": "9195d56e105ef46cd2ee5095d23856e42ba53c044b9cd2af81f5736f4f8785e7"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2021-016",
+   "short": "L.R. 16/2021",
+   "title": "L.R. 2 novembre 2021, n. 16: Misure finanziarie intersettoriali.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=16&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 17,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=16&lista=0&fx=",
+     "sha256": "c5e29816bcb533897367671ad1b70df61449c21447444d170a4dd61337591f7e"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2021-017",
+   "short": "L.R. 17/2021",
+   "title": "L.R. 8 novembre 2021, n. 17: Promozione di servizi educativi, didattici e aggregativi nel settore dell'agricoltura sociale.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=17&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 6,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=17&lista=0&fx=",
+     "sha256": "37946ae33a8344b39d1917a1d15892cff505bedf37bdc6b26aba5407a2487e4a"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2021-018",
+   "short": "L.R. 18/2021",
+   "title": "L.R. 8 novembre 2021, n. 18: Promozione e tutela della produzione del gelato artigianale di qualità in Friuli Venezia Giulia.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=18&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 8,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=18&lista=0&fx=",
+     "sha256": "524c675373f117e015a218699ec50096611585eb98bb26bd894dd6090ba7d987"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2021-019",
+   "short": "L.R. 19/2021",
+   "title": "L.R. 8 novembre 2021, n. 19: Disposizioni per il sostegno di Gorizia Capitale europea della Cultura 2025 e modifiche alle leggi regionali 16/2014, 23/2015, 2/2016, 25/2020 e 13/2021.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=19&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 36,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=19&lista=0&fx=",
+     "sha256": "787ba71eab5380d01e363b247ba55489241eadcf52a2243b61c34b4732c35306"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2021-020",
+   "short": "L.R. 20/2021",
+   "title": "L.R. 26 novembre 2021, n. 20: Modifiche alla legge regionale 30 settembre 1996, n 42 (Norme in materia di parchi e riserve naturali regionali), alla legge regionale 7/2008, alla legge regionale 45/1988 e alla legge regionale 24/2006.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=20&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 72,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=20&lista=0&fx=",
+     "sha256": "1751a05b057775d4c50aca95d929992dcd4f5b94b37de5d2cfb80c91fff7cd0b"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2021-021",
+   "short": "L.R. 21/2021",
+   "title": "L.R. 7 dicembre 2021, n. 21: Misure finanziarie multisettoriali urgenti.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=21&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 4,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=21&lista=0&fx=",
+     "sha256": "f0bcaf16d8cba421b50a69a14fb59f97e98f9b9e6d4dc84176e00b829662f3d8"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2021-022",
+   "short": "L.R. 22/2021",
+   "title": "L.R. 10 dicembre 2021, n. 22: Disposizioni in materia di politiche della famiglia, di promozione dell'autonomia dei giovani e delle pari opportunità.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=22&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 51,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=22&lista=0&fx=",
+     "sha256": "66d4910a5946a539ad7d10a1864bda0bbaefb9bc0db41a65a75f9b88059ec4b3"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2021-023",
+   "short": "L.R. 23/2021",
+   "title": "L.R. 29 dicembre 2021, n. 23: Legge collegata alla manovra di bilancio 2022-2024",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=23&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 17,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=23&lista=0&fx=",
+     "sha256": "33f702a3e85c60b897fe4e54f245b7f5e3310a4344579716001e463069775cf0"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2021-024",
+   "short": "L.R. 24/2021",
+   "title": "L.R. 29 dicembre 2021, n. 24: Legge di stabilità 2022.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=24&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 21,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=24&lista=0&fx=",
+     "sha256": "73e70f9678cb9752dc330900da36dfa8e168f1272497188b39b674b54c31124b"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2021-025",
+   "short": "L.R. 25/2021",
+   "title": "L.R. 30 dicembre 2021, n. 25: Bilancio di previsione per gli anni 2022-2024.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=25&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 2,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2021&legge=25&lista=0&fx=",
+     "sha256": "b0361a6bad2f34caf342954575b0f582f7da8cb9ff498acd77fb4ec6431d59c8"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2022-001",
+   "short": "L.R. 1/2022",
+   "title": "L.R. 4 marzo 2022, n. 1: Modifiche alla legge regionale 5 giugno 2015, n. 14 (Disposizioni di attuazione del Programma Operativo Regionale obiettivo \"Investimenti in favore della crescita e dell'occupazione\" 2014-2020 e del Programma Regionale Obiettivo \"Investimenti in favore dell'occupazione e della crescita\" 2021-2027 cofinanziati dal Fondo europeo per lo sviluppo regionale (FESR)).",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=1&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 5,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=1&lista=0&fx=",
+     "sha256": "1e8a7e51800491f9e8bccd852caf1096cd57b6670c4a4a209d6fe49cedde72b6"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2022-002",
+   "short": "L.R. 2/2022",
+   "title": "L.R. 4 marzo 2022, n. 2: FVG PLUS SpA.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=2&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 5,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=2&lista=0&fx=",
+     "sha256": "fd2f470abc9d0a17d3e9ca17647bc5141f167ccc1a2a3c531065389151648831"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2022-003",
+   "short": "L.R. 3/2022",
+   "title": "L.R. 4 marzo 2022, n. 3: Disciplina del pescaturismo, ittiturismo e delle attività connesse alla pesca professionale e all'acquacoltura.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=3&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 10,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=3&lista=0&fx=",
+     "sha256": "10d9955483568db749ee2226eb55558f0f4a4f1d2d7368801a96035c78108826"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2022-004",
+   "short": "L.R. 4/2022",
+   "title": "L.R. 4 marzo 2022, n. 4: Norme per favorire interventi di ripristino, recupero, manutenzione e salvaguardia dei castagneti da frutto, nonché per la realizzazione di nuovi impianti.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=4&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 8,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=4&lista=0&fx=",
+     "sha256": "bf3f4851f2c6dbc5837bcea7661a50d0b8610a40c094b231756ffdaf165ec036"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2022-005",
+   "short": "L.R. 5/2022",
+   "title": "L.R. 11 marzo 2022, n. 5: Disposizioni in materia di elezioni comunali del 2022. Modifiche alla legge regionale 19/2013.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=5&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 4,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=5&lista=0&fx=",
+     "sha256": "3a6702fddd20496c1f4a22c2a640ac0dd6f432d1fd252e68ae0845b8a2ca6675"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2022-006",
+   "short": "L.R. 6/2022",
+   "title": "L.R. 6 maggio 2022, n. 6: Riconoscenza alla solidarietà e al sacrificio degli Alpini.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=6&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 13,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=6&lista=0&fx=",
+     "sha256": "4036bfafeb1098b7948002374132e6561c89f2b981265d77ee4030ee6cbd3cd5"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2022-007",
+   "short": "L.R. 7/2022",
+   "title": "L.R. 12 maggio 2022, n. 7: Norme per l'applicazione del Quadro temporaneo per gli aiuti di Stato a seguito della crisi in Ucraina.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=7&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 4,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=7&lista=0&fx=",
+     "sha256": "5cee017818e91aee8a923a54b025d2b3b9934dfbbe321dd6626d29b07fe1c3e1"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2022-008",
+   "short": "L.R. 8/2022",
+   "title": "L.R. 9 giugno 2022, n. 8: Disposizioni in materia di relazioni internazionali, biodiversità, caccia, pesca sportiva, agricoltura, attività produttive, turismo, autonomie locali, sicurezza, lingue minoritarie, corregionali all'estero, funzione pubblica, lavoro, formazione, istruzione, famiglia, patrimonio, demanio, infrastrutture, territorio, viabilità, ambiente, energia, cultura, sport, salute, po",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=8&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 136,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=8&lista=0&fx=",
+     "sha256": "783d04edc9344183d0267562170792c68a5d230656d13eeee0cea9836d95a441"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2022-009",
+   "short": "L.R. 9/2022",
+   "title": "L.R. 1 luglio 2022, n. 9: Disposizioni in materia di intermodalità.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=9&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 4,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=9&lista=0&fx=",
+     "sha256": "5363f7725ea7bc30fea838b1ab3a313f8f7b9c6d80e37aea2b4cf34d045ce113"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2022-010",
+   "short": "L.R. 10/2022",
+   "title": "L.R. 20 luglio 2022, n. 10: Legge regionale di semplificazione per l'anno 2022. Modifiche alla legge regionale 7/2000.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=10&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 27,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=10&lista=0&fx=",
+     "sha256": "2523205b0f9d7e8d511851a25babc3bec71f4302215a03c5195cc099a0eecc0f"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2022-011",
+   "short": "L.R. 11/2022",
+   "title": "L.R. 2 agosto 2022, n. 11: Riordino delle disposizioni in materia di impianti a fune, di aree attrezzate nei poli turistici montani invernali ed estivi, nonché disposizioni in materia di sicurezza nelle discipline sportive invernali di cui al decreto legislativo 40/2021 (Attuazione dell'articolo 9 della legge 8 agosto 2019, n. 86, recante misure in materia di sicurezza nelle discipline sportive in",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=11&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 47,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=11&lista=0&fx=",
+     "sha256": "ac0eeca3fa48b09bcca147edaaf2c764cbda9786c361aab1b98c3ceabb10907e"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2022-012",
+   "short": "L.R. 12/2022",
+   "title": "L.R. 2 agosto 2022, n. 12: Rendiconto generale della Regione autonoma Friuli Venezia Giulia per l'esercizio finanziario 2021.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=12&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 8,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=12&lista=0&fx=",
+     "sha256": "ae52340b6ab5eeeeec74ce8d82f6d810f71265cef5b2bd633e27cf2740d8a1b0"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2022-013",
+   "short": "L.R. 13/2022",
+   "title": "L.R. 5 agosto 2022, n. 13: Assestamento del bilancio per gli anni 2022-2024 ai sensi dell'articolo 6 della legge regionale 10 novembre 2015, n. 26.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=13&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 20,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=13&lista=0&fx=",
+     "sha256": "8389537582d929cbcc3275f82bf693a9d9ca9fab291c01b40352fa49ac74f7ee"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2022-014",
+   "short": "L.R. 14/2022",
+   "title": "L.R. 7 novembre 2022, n. 14: Disposizioni sull'autonomia organizzativa del Consiglio regionale.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=14&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 18,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=14&lista=0&fx=",
+     "sha256": "563e9e32ab242c5ec70949ecd1bafb0eec2228a27edc89c523882fe4e5353bb4"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2022-015",
+   "short": "L.R. 15/2022",
+   "title": "L.R. 7 novembre 2022, n. 15: Misure finanziarie multisettoriali.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=15&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 14,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=15&lista=0&fx=",
+     "sha256": "532ca14ca253173cdaaeb5475895023b0808914e426181bf9a202e80c5c5a9c5"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2022-016",
+   "short": "L.R. 16/2022",
+   "title": "L.R. 14 novembre 2022, n. 16: Interventi a favore delle persone con disabilità e riordino dei servizi sociosanitari in materia.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=16&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 32,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=16&lista=0&fx=",
+     "sha256": "be98e5e1e1aaa2fa071879ec1c1090c97cc1b822fda7add0c7be4f07769cbc2c"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2022-017",
+   "short": "L.R. 17/2022",
+   "title": "L.R. 14 novembre 2022, n. 17: Istituzione dell'imposta locale immobiliare autonoma (ILIA).",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=17&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 23,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=17&lista=0&fx=",
+     "sha256": "bc2edf247926569a840ab1fb49b4ad2badab3ca7756a6725aa29d7a0e78b20cf"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2022-018",
+   "short": "L.R. 18/2022",
+   "title": "L.R. 29 novembre 2022, n. 18: Disposizioni regionali per la transizione energetica.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=18&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 8,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=18&lista=0&fx=",
+     "sha256": "79ffa9eb5bdadb02f687e4199714d410bb457caddd27fac5db33baaa0b65c403"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2022-019",
+   "short": "L.R. 19/2022",
+   "title": "L.R. 29 novembre 2022, n. 19: Istituzione dell'Elenco regionale delle scuole non statali di musica del Friuli Venezia Giulia e altre disposizioni in materia di attività didattica musicale di base.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=19&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 22,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=19&lista=0&fx=",
+     "sha256": "f8615ea3db5cd1e90ad41f29a16adacdaf34797e32afed748f6b8950dc6da8a6"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2022-020",
+   "short": "L.R. 20/2022",
+   "title": "L.R. 7 dicembre 2022, n. 20: Modifiche alla legge regionale 11 agosto 2010, n. 14 (Norme per il sostegno all'acquisto dei carburanti per autotrazione ai privati cittadini residenti in Regione e di promozione per la mobilità individuale ecologica e il suo sviluppo).",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=20&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 18,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=20&lista=0&fx=",
+     "sha256": "4b967538a9f11d41bf7ad9bba832960cf8bacb8ddc70364dea64c99225b43e82"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2022-021",
+   "short": "L.R. 21/2022",
+   "title": "L.R. 28 dicembre 2022, n. 21: Legge collegata alla manovra di bilancio 2023-2025.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=21&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 15,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=21&lista=0&fx=",
+     "sha256": "5d2462d4a6c6f3ae8f8aeab5ed05cfeaf287fe157e6a74e39557d33dd928ebd1"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2022-022",
+   "short": "L.R. 22/2022",
+   "title": "L.R. 28 dicembre 2022, n. 22: Legge di stabilità 2023.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=22&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 21,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=22&lista=0&fx=",
+     "sha256": "9f5dbac111a9d7c6e2a7d254da3fc838567cf4f409bacbf72bb1bd7dbf50c2d9"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2022-023",
+   "short": "L.R. 23/2022",
+   "title": "L.R. 29 dicembre 2022, n. 23: Bilancio di previsione per gli anni 2023-2025.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=23&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 2,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2022&legge=23&lista=0&fx=",
+     "sha256": "61d148faaf08a213269d53595d7026017434f878e4f9d3aad8c34d0ede0f179f"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2023-001",
+   "short": "L.R. 1/2023",
+   "title": "L.R. 9 febbraio 2023, n. 1: Incentivi per la diffusione di fonti energetiche rinnovabili.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=1&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 8,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=1&lista=0&fx=",
+     "sha256": "4de2152b6a95e8c8dd415967e7d4cc5165c16fea0e350a06330a64ab1994fa1c"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2023-002",
+   "short": "L.R. 2/2023",
+   "title": "L.R. 10 febbraio 2023, n. 2: Ratifica dell'intesa tra le Regioni e le Province autonome di Trento e di Bolzano per l'istituzionalizzazione della Conferenza delle Regioni e delle Province autonome.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=2&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 5,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=2&lista=0&fx=",
+     "sha256": "04fd568f2980befefcdb710e9a751ddedc15cf630222e32e920c089ea446d7da"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2023-003",
+   "short": "L.R. 3/2023",
+   "title": "L.R. 10 febbraio 2023, n. 3: Modifica all'articolo 23 della legge regionale 18 giugno 2007, n. 17 (Determinazione della forma di governo della Regione Friuli Venezia Giulia e del sistema elettorale regionale, ai sensi dell'articolo 12 dello Statuto di autonomia) in materia di autenticazione delle sottoscrizioni nel procedimento per la elezione del Presidente della Regione e del Consiglio regionale",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=3&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=3&lista=0&fx=",
+     "sha256": "69f8d3c994f3b28b800f20053fd4102b63bb09548310f5a596e2c1d480af079f"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2023-004",
+   "short": "L.R. 4/2023",
+   "title": "L.R. 17 febbraio 2023, n. 4: FVGreen - Disposizioni per lo sviluppo sostenibile e la transizione ecologica del Friuli Venezia Giulia.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=4&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 20,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=4&lista=0&fx=",
+     "sha256": "72a8c5e4a0e9564a1a4fab436e897970e29108d4526c6088fd2791cfbf0a0c65"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2023-005",
+   "short": "L.R. 5/2023",
+   "title": "L.R. 17 febbraio 2023, n. 5: Modifiche alla legge regionale 5 dicembre 2005, n. 29 (Normativa organica in materia di attività commerciali e di somministrazione di alimenti e bevande. Modifica alla legge regionale 16 gennaio 2002, n. 2 \"Disciplina organica del turismo\").",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=5&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 52,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=5&lista=0&fx=",
+     "sha256": "86fb2a744cdd3ba24791b637ade49afe407e86c037be07700d1d53bd185e4baf"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2023-006",
+   "short": "L.R. 6/2023",
+   "title": "L.R. 17 febbraio 2023, n. 6: Norme urgenti in materia di autonomie locali e funzione pubblica.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=6&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 16,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=6&lista=0&fx=",
+     "sha256": "84f8d496f2c91a19424c36d38179590cf26e108adcc083d82a87279c2811067d"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2023-007",
+   "short": "L.R. 7/2023",
+   "title": "L.R. 24 febbraio 2023, n. 7: Modifiche all'articolo 7 ter della legge regionale 14/2015 per il finanziamento di progetti di investimento di valenza territoriale su tematiche strategiche proposte nella programmazione 2021/2027.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=7&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 4,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=7&lista=0&fx=",
+     "sha256": "220115b5f36f79b5409cea7bf52c767b4af24f05a71becab9b4ef9c4975746fd"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2023-008",
+   "short": "L.R. 8/2023",
+   "title": "L.R. 24 febbraio 2023, n. 8: Disposizioni per il riconoscimento, la valorizzazione e il sostegno dei caregiver familiari.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=8&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 10,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=8&lista=0&fx=",
+     "sha256": "181884a99f3160f073b47e996c652788dfe07729e5d1dc6fb3c74a4ac0c4011e"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2023-009",
+   "short": "L.R. 9/2023",
+   "title": "L.R. 3 marzo 2023, n. 9: Sistema integrato di interventi in materia di immigrazione.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=9&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 21,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=9&lista=0&fx=",
+     "sha256": "c6057c31780a765fd1475a8e3be480669a546c5284c97fb8752f3acc438d0d44"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2023-010",
+   "short": "L.R. 10/2023",
+   "title": "L.R. 3 marzo 2023, n. 10: Misure per la semplificazione e la crescita economica.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=10&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 79,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=10&lista=0&fx=",
+     "sha256": "60c908fedf5f45f1eaf9f6974787f488032745d6d1e8209b62366d5a9b8e3ad8"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2023-011",
+   "short": "L.R. 11/2023",
+   "title": "L.R. 29 giugno 2023, n. 11: Legge di manutenzione della disciplina dell'organizzazione e del lavoro alle dipendenze della Regione autonoma Friuli Venezia Giulia e degli enti regionali. Modifiche alle leggi regionali 53/1981, 18/1996, 1/2000, 16/2010, 16/2021 e 22/2022.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=11&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 7,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=11&lista=0&fx=",
+     "sha256": "aef657580186ca095efa7217834f391b8797576719c52a488d3e6629c28057e0"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2023-012",
+   "short": "L.R. 12/2023",
+   "title": "L.R. 1 agosto 2023, n. 12: Rendiconto generale della Regione autonoma Friuli Venezia Giulia per l'esercizio finanziario 2022.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=12&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 8,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=12&lista=0&fx=",
+     "sha256": "e17e7ba1daa88bdd9dd4ce7d468f58722450b3d15072eeb1ae56d3973eb489fb"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2023-013",
+   "short": "L.R. 13/2023",
+   "title": "L.R. 10 agosto 2023, n. 13: Assestamento del bilancio per gli anni 2023-2025 ai sensi dell'articolo 6 della legge regionale 10 novembre 2015, n. 26.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=13&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 16,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=13&lista=0&fx=",
+     "sha256": "ad2901fcdbc57aab4095a964f6763fd18b9a5fc15d30e199bfb47bd72fb2c1b9"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2023-014",
+   "short": "L.R. 14/2023",
+   "title": "L.R. 27 ottobre 2023, n. 14: Misure finanziarie multisettoriali.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=14&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 17,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=14&lista=0&fx=",
+     "sha256": "d50730428cedb67d3f0496e2de9608332e9cebe52abcbb3d548d2954c159fcc3"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2023-015",
+   "short": "L.R. 15/2023",
+   "title": "L.R. 28 dicembre 2023, n. 15: Legge collegata alla manovra di bilancio 2024-2026.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=15&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 15,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=15&lista=0&fx=",
+     "sha256": "5f26b27c9ccbde8c3cc73e3c20b444c422a3a79d2075cb4a90f22d76f53f34dc"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2023-016",
+   "short": "L.R. 16/2023",
+   "title": "L.R. 28 dicembre 2023, n. 16: Legge di stabilità 2024.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=16&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 27,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=16&lista=0&fx=",
+     "sha256": "a26810a6bea1cee0756ce49d5803728545c95894fb9ef0c04ddc03b80c15e9ba"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2023-017",
+   "short": "L.R. 17/2023",
+   "title": "L.R. 28 dicembre 2023, n. 17: Bilancio di previsione per gli anni 2024-2026.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=17&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 2,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2023&legge=17&lista=0&fx=",
+     "sha256": "98daf1d6046fc5f88a03ac67da9a22681733ce2709c90fe7f9a5aa6f420196b3"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2024-001",
+   "short": "L.R. 1/2024",
+   "title": "L.R. 28 marzo 2024, n. 1: Disposizioni urgenti per lo svolgimento nell'anno 2024 delle consultazioni elettorali e disposizioni in materia di elezioni comunali e regionali. Modifiche alle leggi regionali 19/2013 e 28/2007.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2024&legge=1&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 13,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2024&legge=1&lista=0&fx=",
+     "sha256": "01ac7b0f892c5b767f13c396e01cfcc54eceb01c4fc9aeb82898357c027d1a55"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2024-002",
+   "short": "L.R. 2/2024",
+   "title": "L.R. 5 aprile 2024, n. 2: Misure di programmazione strategica per lo sviluppo del sistema territoriale regionale in materia di infrastrutture e territorio.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2024&legge=2&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 89,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2024&legge=2&lista=0&fx=",
+     "sha256": "6a6d9599f9ceb20acf18380527d37eb8f0cefcb6eb395d0564c149313de76a0b"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2024-003",
+   "short": "L.R. 3/2024",
+   "title": "L.R. 10 maggio 2024, n. 3: Disposizioni multisettoriali e di semplificazione.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2024&legge=3&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 224,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2024&legge=3&lista=0&fx=",
+     "sha256": "7686bb30694db996b37fdc7fbd4c5b177928707e7b2da4ecada8fe9de0428d9a"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2024-004",
+   "short": "L.R. 4/2024",
+   "title": "L.R. 25 giugno 2024, n. 4: Disposizioni in materia di Scuola di formazione del Comparto unico della Regione Friuli Venezia Giulia e Centro di competenza - ComPA FVG. Modifiche alla legge regionale 21/2019.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2024&legge=4&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 10,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2024&legge=4&lista=0&fx=",
+     "sha256": "348431fb5d28a6c85ee76a1ffa4932385c1aeeebf6aac0d5ef9abfde4ab91eff"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2024-005",
+   "short": "L.R. 5/2024",
+   "title": "L.R. 26 giugno 2024, n. 5: Incentivi per l'aggregazione delle gestioni del servizio idrico integrato e del servizio di gestione integrata dei rifiuti urbani.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2024&legge=5&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 8,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2024&legge=5&lista=0&fx=",
+     "sha256": "f7b3a1b9e6da06d69981456da34fc6196dacd052bb11af5894926b2f83848412"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2024-006",
+   "short": "L.R. 6/2024",
+   "title": "L.R. 31 luglio 2024, n. 6: Rendiconto generale della Regione autonoma Friuli Venezia Giulia per l'esercizio finanziario 2023.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2024&legge=6&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 8,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2024&legge=6&lista=0&fx=",
+     "sha256": "be534de34deb98ba821303231a18b3b943a2edc58fb3daed367ae152c3161262"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2024-007",
+   "short": "L.R. 7/2024",
+   "title": "L.R. 7 agosto 2024, n. 7: Assestamento del bilancio per gli anni 2024-2026 ai sensi dell'articolo 6 della legge regionale 10 novembre 2015, n. 26.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2024&legge=7&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 25,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2024&legge=7&lista=0&fx=",
+     "sha256": "4299eb35673f4ada6d15969a12eb3e8509f8ede00f83d38f137a712cdab7ed35"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2024-008",
+   "short": "L.R. 8/2024",
+   "title": "L.R. 25 ottobre 2024, n. 8: Misure finanziarie multisettoriali.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2024&legge=8&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 16,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2024&legge=8&lista=0&fx=",
+     "sha256": "cc5841b14b798d7688a60c7b0d61db11af1a9cd081ddde3471e08fff2e82e824"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2024-009",
+   "short": "L.R. 9/2024",
+   "title": "L.R. 4 novembre 2024, n. 9: Disposizioni in materia di Imposta Locale Immobiliare Autonoma (ILIA). Modifiche alla legge regionale 14 novembre 2022, n. 17.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2024&legge=9&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 12,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2024&legge=9&lista=0&fx=",
+     "sha256": "d081a487bdf1b31365245f4e6e90085b7e015d2986a11b65edb51fbb375e2fea"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2024-010",
+   "short": "L.R. 10/2024",
+   "title": "L.R. 2 dicembre 2024, n. 10: Istituzione di una Commissione regionale per le pari opportunità tra uomo e donna.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2024&legge=10&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 11,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2024&legge=10&lista=0&fx=",
+     "sha256": "e6e31493e95247a308e849531660ba1a6a9f9c5afcab0dd2235bd90b4d7f05c7"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2024-011",
+   "short": "L.R. 11/2024",
+   "title": "L.R. 3 dicembre 2024, n. 11: Sviluppo, promozione e primo supporto finanziario del settore nautico regionale.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2024&legge=11&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 18,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2024&legge=11&lista=0&fx=",
+     "sha256": "b1ece366b978664b6cd57de7b9ce81e1f5617fbeb9bf028fa63f11a1f80fed91"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2024-012",
+   "short": "L.R. 12/2024",
+   "title": "L.R. 30 dicembre 2024, n. 12: Legge collegata alla manovra di bilancio 2025-2027.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2024&legge=12&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 16,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2024&legge=12&lista=0&fx=",
+     "sha256": "9f06377816a751cec853ff70deaa802b27cad5bf9f5a6b58f35ebf7ac13ecbf4"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2024-013",
+   "short": "L.R. 13/2024",
+   "title": "L.R. 30 dicembre 2024, n. 13: Legge di stabilità 2025.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2024&legge=13&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 20,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2024&legge=13&lista=0&fx=",
+     "sha256": "c06cee59df83803b10a5dd67f986f6020746db334e850cfc8c1bdfba4ede93be"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2024-014",
+   "short": "L.R. 14/2024",
+   "title": "L.R. 30 dicembre 2024, n. 14: Bilancio di previsione per gli anni 2025-2027.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2024&legge=14&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 2,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2024&legge=14&lista=0&fx=",
+     "sha256": "e366f883b73a1cae2396258d6a563e1c2aac5348a0cdac9ee4f8d548f95d5510"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2025-001",
+   "short": "L.R. 1/2025",
+   "title": "L.R. 17 febbraio 2025, n. 1: Norme urgenti in materia di autonomie locali. Modifiche all'articolo 9 della legge regionale 30 dicembre 2024, n. 12 (Legge collegata alla manovra di bilancio 2025-2027).",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=1&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 2,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=1&lista=0&fx=",
+     "sha256": "e78cc2c75610c97c7db77020143be01230703bcf6398f2322bff66478cc6ff2d"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2025-002",
+   "short": "L.R. 2/2025",
+   "title": "L.R. 4 marzo 2025, n. 2: Norme per l'installazione di impianti a fonti rinnovabili sul territorio regionale.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=2&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 12,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=2&lista=0&fx=",
+     "sha256": "ca387d231aad6f0f962ff9cf97bb80032fc4bb2f42041121f204a8157f0bf7c4"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2025-003",
+   "short": "L.R. 3/2025",
+   "title": "L.R. 4 marzo 2025, n. 3: Interventi regionali per il sostegno delle associazioni combattentistiche e d'arma e delle associazioni delle forze dell'ordine, nonché dell'Associazione Nazionale Forestali (A.N.FOR) e sue articolazioni regionali, delle associazioni costituite da appartenenti o ex appartenenti al Corpo forestale regionale (CFR) e delle associazioni dei vigili del fuoco e della polizia loc",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=3&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 6,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=3&lista=0&fx=",
+     "sha256": "1460f8156ae9ed9103f6a978091ccd5b5c1c80aa345e2595fd7d1931f9bc828c"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2025-004",
+   "short": "L.R. 4/2025",
+   "title": "L.R. 5 marzo 2025, n. 4: Norme per la definizione dei percorsi formativi dei soggetti operanti nell'ambito della subacquea lavorativa.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=4&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 8,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=4&lista=0&fx=",
+     "sha256": "fee1a9d92943d7a98ad41dcd7e18945f22d96b552bea23647fce3f2c409c4af2"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2025-005",
+   "short": "L.R. 5/2025",
+   "title": "L.R. 21 marzo 2025, n. 5: Disposizioni in materia di sicurezza, immigrazione, finanza locale, funzione pubblica e lingue minoritarie.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=5&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 13,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=5&lista=0&fx=",
+     "sha256": "2e9a52fe094aceca154576a90a5d3c49f528b0f8297119c1ae645f9e7a274bdb"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2025-006",
+   "short": "L.R. 6/2025",
+   "title": "L.R. 18 aprile 2025, n. 6: Disposizioni urgenti in materia di misure di conservazione specifiche delle Zone di protezione speciale (ZPS). Modifiche alla legge regionale 14 giugno 2007, n. 14 (Legge comunitaria 2006).",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=6&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 13,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=6&lista=0&fx=",
+     "sha256": "a3b4ad7eb4dde3731840bbe17b05739ea6927f60dd35091fb33d3ce714c0139e"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2025-007",
+   "short": "L.R. 7/2025",
+   "title": "L.R. 3 giugno 2025, n. 7: Disposizioni multisettoriali.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=7&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 173,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=7&lista=0&fx=",
+     "sha256": "54655896f24bdaf482e26f352c91e5816fc2582d4e64291674554675c768d83b"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2025-008",
+   "short": "L.R. 8/2025",
+   "title": "L.R. 4 luglio 2025, n. 8: Interventi volti a favorire il recupero, la riqualificazione o il riuso del patrimonio immobiliare privato.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=8&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 12,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=8&lista=0&fx=",
+     "sha256": "f42b04b5eae462f7eb757d23ecab613c073355dddfca2b86abb1e199bb6e707f"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2025-009",
+   "short": "L.R. 9/2025",
+   "title": "L.R. 4 luglio 2025, n. 9: Modifiche alla legge regionale 11 novembre 2009, n. 19 (Codice regionale dell'edilizia).",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=9&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 20,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=9&lista=0&fx=",
+     "sha256": "ae211cc61c5c94e593017a2dc5d583cddf04a5da45a96786c7aad3c95eeec57c"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2025-010",
+   "short": "L.R. 10/2025",
+   "title": "L.R. 14 luglio 2025, n. 10: Misure per la competitività delle imprese attraverso l'ottenimento e il mantenimento di certificazioni.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=10&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 10,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=10&lista=0&fx=",
+     "sha256": "c81a63389b2a4f449879ad9191e4d00e8c9674a7f0d3d094b00e46e28be51e64"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2025-011",
+   "short": "L.R. 11/2025",
+   "title": "L.R. 1 agosto 2025, n. 11: Rendiconto generale della Regione autonoma Friuli Venezia Giulia per l'esercizio finanziario 2024.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=11&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 8,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=11&lista=0&fx=",
+     "sha256": "d18ecd507f53ce446d1deca2512a518173b0a52cbe5d6571a549abdb23af4643"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2025-012",
+   "short": "L.R. 12/2025",
+   "title": "L.R. 6 agosto 2025, n. 12: Assestamento del bilancio per gli anni 2025-2027 ai sensi dell'articolo 6 della legge regionale 10 novembre 2015, n. 26.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=12&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 26,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=12&lista=0&fx=",
+     "sha256": "f5a3753b798448d7203b6f97b5aa8f3ed85e48e2e747b14258d34092cbea8c99"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2025-013",
+   "short": "L.R. 13/2025",
+   "title": "L.R. 17 ottobre 2025, n. 13: Misure finanziarie multisettoriali 2025.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=13&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 26,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=13&lista=0&fx=",
+     "sha256": "d333a08b3e67c00664fcfa7b6be03f149b5af0640d1970c28ad254061b2806de"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2025-014",
+   "short": "L.R. 14/2025",
+   "title": "L.R. 14 novembre 2025, n. 14: Disposizioni in materia di innovazione sociale per lo sviluppo e l'attrattività del territorio regionale.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=14&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 48,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=14&lista=0&fx=",
+     "sha256": "b2e833bf838251dad68f19117c12f959bfdceaca7df05f706af6ded33c0368d2"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2025-015",
+   "short": "L.R. 15/2025",
+   "title": "L.R. 14 novembre 2025, n. 15: Disciplina delle nomine e delle designazioni di competenza regionale e del rinnovo degli organi amministrativi.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=15&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 24,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=15&lista=0&fx=",
+     "sha256": "b3200e105e9ce81da050119c630f312fec1a455b5c6d93147de90c142226e7a2"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2025-016",
+   "short": "L.R. 16/2025",
+   "title": "L.R. 24 novembre 2025, n. 16: Disciplina organica per la promozione, la valorizzazione e il sostegno delle manifestazioni di rievocazione storica del Friuli Venezia Giulia.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=16&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 10,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=16&lista=0&fx=",
+     "sha256": "62ed4906d426a91aacb9e2e369e21471337c34bb7eb6bd9542d76a7e843c428e"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2025-017",
+   "short": "L.R. 17/2025",
+   "title": "L.R. 9 dicembre 2025, n. 17: Codice regionale del commercio e turismo nella Regione Friuli Venezia Giulia.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=17&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 147,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=17&lista=0&fx=",
+     "sha256": "1ebc6914c46a5fb63f8b1a41dd8ce1de2f2fbb792edeec97a6b7687e6688beb8"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2025-018",
+   "short": "L.R. 18/2025",
+   "title": "L.R. 29 dicembre 2025, n. 18: Legge collegata alla manovra di bilancio 2026-2028.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=18&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 15,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=18&lista=0&fx=",
+     "sha256": "02f6081f3831c173962e6de4d25d19bb1572e126bc1bff6835d39bb2f3bf3ba1"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2025-019",
+   "short": "L.R. 19/2025",
+   "title": "L.R. 29 dicembre 2025, n. 19: Legge di stabilità 2026.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=19&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 28,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=19&lista=0&fx=",
+     "sha256": "09c9d7cb1a5c2d22e3ff891a3dac5fc8d366478edd9dcc052fed69f8dd8bcccf"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2025-020",
+   "short": "L.R. 20/2025",
+   "title": "L.R. 29 dicembre 2025, n. 20: Bilancio di previsione per gli anni 2026-2028.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=20&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 2,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2025&legge=20&lista=0&fx=",
+     "sha256": "87bbbd3c8e97a20c107ae4d285a364893ed918a3c007900428cd9db09f43bdd9"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2026-001",
+   "short": "L.R. 1/2026",
+   "title": "L.R. 23 gennaio 2026, n. 1: Modifiche alla legge regionale 11 agosto 2010, n. 14 (Norme per il sostegno all'acquisto dei carburanti per autotrazione ai privati cittadini residenti in Regione e di promozione per la mobilità individuale ecologica e il suo sviluppo).",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2026&legge=1&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 22,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2026&legge=1&lista=0&fx=",
+     "sha256": "5f7ad47c788280d1e8f12063e5b676c2e2a3905c04c26d82c972608a94546021"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2026-002",
+   "short": "L.R. 2/2026",
+   "title": "L.R. 3 febbraio 2026, n. 2: Misure urgenti e straordinarie in tema di tutela della salute.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2026&legge=2&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 2,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2026&legge=2&lista=0&fx=",
+     "sha256": "0ed651fb6b5f7ca399aa0b3bf601971f9f8bf73c8443610ceed990d0767d19cf"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2026-003",
+   "short": "L.R. 3/2026",
+   "title": "L.R. 5 marzo 2026, n. 3: Disposizioni urgenti in materia di autonomie locali e funzione pubblica e altre disposizioni di settore.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2026&legge=3&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 26,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2026&legge=3&lista=0&fx=",
+     "sha256": "0be15d3572fc534dbab0a98e82b92665602221bfe10ec2ead8f2fa85ded48f56"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2026-004",
+   "short": "L.R. 4/2026",
+   "title": "L.R. 9 marzo 2026, n. 4: Disciplina urbanistica degli insediamenti logistici.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2026&legge=4&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 8,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2026&legge=4&lista=0&fx=",
+     "sha256": "3e0719b6e5fecec88ecfa2710711aad7c954a1001160163966762b8bba904838"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2026-005",
+   "short": "L.R. 5/2026",
+   "title": "L.R. 9 giugno 2026, n. 5: Disposizioni multisettoriali per l'anno 2026.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2026&legge=5&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 179,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2026&legge=5&lista=0&fx=",
+     "sha256": "a02815021de2db0b35c5adbbd472b14e7592841c98fda0327cb4898abe1ebfe9"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2026-006",
+   "short": "L.R. 6/2026",
+   "title": "L.R. 26 giugno 2026, n. 6: Disposizioni in materia di politiche abitative regionali.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2026&legge=6&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 37,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2026&legge=6&lista=0&fx=",
+     "sha256": "c6cf2682f7f5b44240defc50b182b9934f234b2f30297bba182bb9d859bb8f5d"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2026-007",
+   "short": "L.R. 7/2026",
+   "title": "L.R. 14 luglio 2026, n. 7: Principi e norme fondamentali del sistema Regione-Autonomie locali, istituzione e ordinamento delle Province del Friuli Venezia Giulia e soppressione degli Enti di decentramento regionale di cui alla legge regionale 21/2019.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2026&legge=7&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 80,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2026&legge=7&lista=0&fx=",
+     "sha256": "4ec1c99da80a24fa697970d4b877d63f55b255be6967e5b77f59b17ce58bcc0c"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2026-008",
+   "short": "L.R. 8/2026",
+   "title": "L.R. 30 luglio 2026, n. 8: Rendiconto generale della Regione autonoma Friuli Venezia Giulia per l'esercizio finanziario 2025.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2026&legge=8&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 8,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2026&legge=8&lista=0&fx=",
+     "sha256": "7725fb420ec42f20ba989d60cb9410130f13ee6f8f252a4942c3b99f3f54447c"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2026-009",
+   "short": "L.R. 9/2026",
+   "title": "L.R. 6 agosto 2026, n. 9: Assestamento del bilancio per gli anni 2026-2028 ai sensi dell'articolo 6 della legge regionale 10 novembre 2015, n. 26.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2026&legge=9&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 21,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2026&legge=9&lista=0&fx=",
+     "sha256": "a532eac615c5cfa6fb86745d9e6422d382dea79fdfdc60ea1a2625de571d1bdd"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2026-010",
+   "short": "L.R. 10/2026",
+   "title": "L.R. 25 settembre 2026, n. 10: Norme sulle modalità di presentazione dei progetti di legge, nonché sulla pubblicazione dei testi legislativi in internet e nel Bollettino ufficiale della Regione.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2026&legge=10&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 10,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2026&legge=10&lista=0&fx=",
+     "sha256": "1c3cf8ae84b0fb71de934e0a048eea8b6c0b43c31a2c6b55176d9cbf8a5b0be5"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2026-011",
+   "short": "L.R. 11/2026",
+   "title": "L.R. 16 ottobre 2026, n. 11: Riforma del governo del territorio.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2026&legge=11&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 56,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2026&legge=11&lista=0&fx=",
+     "sha256": "f1af66e2c687465a2aa91468b580f0c51f4ad00a51c712367c7575211a44f30c"
+    }
+   ]
+  },
+  {
+   "slug": "lr-2026-012",
+   "short": "L.R. 12/2026",
+   "title": "L.R. 28 ottobre 2026, n. 12: Misure finanziarie multisettoriali 2026.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2026&legge=12&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 20,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2026&legge=12&lista=0&fx=",
+     "sha256": "d340c7cab17a9a7528a65db68c290cdce113a0c8cba660506c1a5b5f71b06b18"
+    }
+   ]
   }
  ]
 }
