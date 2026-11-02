@@ -1,0 +1,4 @@
+Art. 9 ter
+(Disposizioni speciali per la consegna di beni mobili provinciali)
+1. Il Commissario liquidatore, a decorrere dall'1 settembre 2017, consegna attraverso la trasmissione degli elenchi aggiornati dai propri uffici, i beni mobili già trasferiti con i piani di subentro e non ancora verificati e presi in carico ovvero per i quali non siano ancora stati sottoscritti i verbali di consegna, alla Regione e agli altri enti subentranti.
+2. La verifica della corrispondenza tra gli elenchi di cui al comma 1 e lo stato di fatto per la successiva iscrizione nelle pertinenti scritture inventariali, viene effettuata per i beni destinati alla Regione dal Consegnatario dei beni mobili regionali e per gli altri enti subentranti dagli uffici competenti dei medesimi, entro ventiquattro mesi dal termine di cui all'articolo 8, comma 6. Dei beni non rinvenuti viene dato atto in appositi verbali.
