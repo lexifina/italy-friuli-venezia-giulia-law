@@ -1,0 +1,11 @@
+{
+  "path": "it-36",
+  "code": "IT-36",
+  "name": "Friuli-Venezia Giulia",
+  "level": "region",
+  "parent": "it",
+  "repo": "https://github.com/lexifina/italy-friuli-venezia-giulia-law",
+  "build": "built: statute and regional laws (18 acts, 18 versions) from LEXVIEW, the Consiglio regionale del Friuli Venezia Giulia's law database (current text only)",
+  "language": "it",
+  "sources": 1
+}
