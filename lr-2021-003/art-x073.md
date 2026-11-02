@@ -1,0 +1,1 @@
+2. I procedimenti di cui all' articolo 80 della legge regionale 3/2015 , in corso alla data di entrata in vigore della presente legge, sono conclusi ai sensi delle disposizioni di cui all' articolo 80 della legge regionale 3/2015 , come sostituito dal comma 1.

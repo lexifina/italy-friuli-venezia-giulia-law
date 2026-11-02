@@ -1,0 +1,1 @@
+2. Il Comitato tecnico di valutazione di cui all' articolo 15 della legge regionale 26/2005 , costituito con deliberazione della Giunta regionale n. 1398 di data 26 luglio 2016, continua ad esercitare le proprie funzioni fino al 26 luglio 2021.
