@@ -1,0 +1,10 @@
+Art. 14 bis
+(Iscrizione, modificazione e cancellazione d'ufficio)
+1. Qualsiasi pubblica amministrazione che, nell'esercizio delle proprie funzioni, riscontri l'esistenza, la modificazione o la perdita di uno o più requisiti di cui al capo I del presente titolo, ai fini dell'adozione dei provvedimenti di competenza, è tenuta a segnalarlo all'ufficio dell'Albo competente per territorio.
+1 bis. L'ufficio dell'Albo che riscontri direttamente dal Registro delle imprese la modificazione o la perdita dei requisiti di cui al capo I del presente titolo, dispone d'ufficio l'aggiornamento dell'Albo senza ulteriori verifiche.
+2. La Commissione, acquisita la documentazione dall'ufficio dell'Albo, dispone eventuali ispezioni e controlli, anche avvalendosi della collaborazione dei Comuni competenti per territorio, e adotta il provvedimento entro il termine di sessanta giorni dalla data di ricevimento della segnalazione da parte dell'ufficio dell'Albo. Il provvedimento è notificato alle amministrazioni competenti e all'impresa artigiana interessata, nel termine di quindici giorni dall'adozione ed è impugnabile ai sensi dell'articolo 16.
+2 bis. L'efficacia dell'iscrizione, modifica e cancellazione dall'A.I.A. disposta d'ufficio decorre:
+a) per l'iscrizione all'A.I.A., dalla data di inizio dell'attività con i requisiti di qualifica artigiana oppure, qualora non sia determinabile, dalla data dell'accertamento;
+b) per la modifica all'iscrizione all'A.I.A., dalla data dell'evento modificativo oppure, qualora non sia determinabile, dalla data dell'accertamento;
+c) per la cancellazione dall'A.I.A., dalla data di cessazione dell'attività oppure dalla data della perdita dei requisiti artigiani, nel rispetto delle condizioni di cui all'articolo 14 ter, comma 7, oppure, qualora non siano determinabili, la cancellazione d'ufficio decorre dalla data dell'accertamento.
+3. Il termine di sessanta giorni di cui al comma 2 può essere sospeso, per una sola volta e per un massimo di trenta giorni, al fine di acquisire eventuali integrazioni della documentazione.
