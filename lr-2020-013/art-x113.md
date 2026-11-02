@@ -1,0 +1,1 @@
+2. L' articolo 20 bis della legge regionale 38/1995 , come sostituito dal comma 1, si applica anche alle procedure di recupero del credito in corso alla data di entrata in vigore della presente legge.
