@@ -1,0 +1,4 @@
+Art. 3 bis
+(Opere della Regione)
+1. È rinnovata la dichiarazione di pubblica utilità delle opere di cui all'articolo 4 della legge regionale 22 aprile 1994, n. 4, e di quelle comunque di competenza della Direzione regionale delle foreste, per le quali alla data dell'1 gennaio 1997, il procedimento di espropriazione non sia stato concluso col negozio di cessione volontaria del bene o con l'emissione del decreto di espropriazione. È fatta salva l'efficacia degli atti pregressi dei procedimenti di espropriazione medesimi.
+2. Per le opere di cui al comma 1 il termine per l'ultimazione dei lavori e delle espropriazioni ed il termine delle occupazioni d'urgenza sono fissati di diritto al 31/12/2002. Per la definizione delle procedure inerenti le opere di viabilità forestale finanziate con i fondi FIO i sedimi possono essere asserviti a servitù per pubblica utilità.
