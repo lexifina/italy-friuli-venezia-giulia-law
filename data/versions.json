@@ -1,0 +1,523 @@
+{
+ "country": "IT-36",
+ "acts": [
+  {
+   "slug": "lr-1964-002",
+   "short": "L.R. 2/1964",
+   "title": "L.R. 9 settembre 1964, n. 2: Determinazione delle indennità di carica spettanti al Presidente del Consiglio Regionale, al Presidente della Giunta Regionale ed agli Assessori e determinazione dell' indennità di presenza dei Consiglieri.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1964&legge=2&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 4,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1964&legge=2&lista=0&fx=",
+     "sha256": "322d2a0677c995c02eeb07f1c30b76c21170ffc08fbdc23089b0d4ff364c0f1f"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1965-005",
+   "short": "L.R. 5/1965",
+   "title": "L.R. 21 aprile 1965, n. 5: Servizio di Tesoreria della Regione Friuli - Venezia Giulia.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1965&legge=5&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 8,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1965&legge=5&lista=0&fx=",
+     "sha256": "5fc860cdc616aac78eb7dccd08cd8553513dafe584d46d61c48dc534510303e0"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1965-010",
+   "short": "L.R. 10/1965",
+   "title": "L.R. 12 luglio 1965, n. 10: Acquisto da parte della Regione Friuli - Venezia Giulia di cartelle fondiarie, di nuova emissione, della Sezione autonoma del Credito fondiario della Cassa di Risparmio di Gorizia.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1965&legge=10&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 2,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1965&legge=10&lista=0&fx=",
+     "sha256": "a2fd8bda202f79d613998e3761c08c44117dce6daee0907cca423869be6e46f4"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1965-014",
+   "short": "L.R. 14/1965",
+   "title": "L.R. 13 agosto 1965, n. 14: Acquisto di obbligazioni dell' Istituto di Credito per il finanziamento a medio termine alle piccole e medie imprese situate nel territorio della Provincia di Udine.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1965&legge=14&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 3,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1965&legge=14&lista=0&fx=",
+     "sha256": "bd792ee41902803fe75a03e38ab263452bcbeef17c9c46afa8860e16d9c9abbf"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1965-018",
+   "short": "L.R. 18/1965",
+   "title": "L.R. 31 agosto 1965, n. 18: Intervento della Regione nella spesa per le opere pubbliche di interesse agrario e forestale.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1965&legge=18&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 4,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1965&legge=18&lista=0&fx=",
+     "sha256": "54003e61fe6dc746288a87112639afda4532b8de2fb5c1cca156f1b1d9c2cc90"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1965-020",
+   "short": "L.R. 20/1965",
+   "title": "L.R. 14 ottobre 1965, n. 20: Autorizzazione all' acquisto di beni immobili per uffici, enti ed istituti, dipendenti dalla Regione.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1965&legge=20&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 3,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1965&legge=20&lista=0&fx=",
+     "sha256": "c9bffd69f0c4f2542e305678503e49f2dc7d77232a971ef119fb0a3a3c9658e4"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1965-023",
+   "short": "L.R. 23/1965",
+   "title": "L.R. 29 ottobre 1965, n. 23: Sovvenzioni, contributi, sussidi e spese dirette, per finalità istituzionali.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1965&legge=23&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 4,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1965&legge=23&lista=0&fx=",
+     "sha256": "7811926740288346d86365b3154a4fb9cdefe6dea57687871e214498e22749ab"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1965-031",
+   "short": "L.R. 31/1965",
+   "title": "L.R. 17 dicembre 1965, n. 31: Istituzione del Comitato tecnico - consultivo regionale per la finanza.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1965&legge=31&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 6,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1965&legge=31&lista=0&fx=",
+     "sha256": "20362121186e09a3ca18a12c1692b2cc498815ecde7008a40beeec3bb2db2028"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1966-014",
+   "short": "L.R. 14/1966",
+   "title": "L.R. 15 luglio 1966, n. 14: Agevolazioni per l' attuazione del riordino fondiario e l' esecuzione di opere comuni a servizio di più fondi.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1966&legge=14&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 4,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1966&legge=14&lista=0&fx=",
+     "sha256": "1a80c17470dcd88c066bf6635541aebd67b1dffbfb5cfa0b71a43efa19d53399"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1966-016",
+   "short": "L.R. 16/1966",
+   "title": "L.R. 19 luglio 1966, n. 16: Contributi straordinari per manifestazioni ed opere a celebrazione di speciali solenni ricorrenze.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1966&legge=16&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 7,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1966&legge=16&lista=0&fx=",
+     "sha256": "3275e67dd2a6b01b81ae70ad9179f2b0e932c30b4168f395576a5b3862fe006e"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1966-018",
+   "short": "L.R. 18/1966",
+   "title": "L.R. 5 agosto 1966, n. 18: Autorizzazione alla costituzione di una Società finanziaria per lo sviluppo economico della Regione Friuli - Venezia Giulia.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1966&legge=18&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 7,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1966&legge=18&lista=0&fx=",
+     "sha256": "eb0743a4285a570b320969c9a2710fc80d3729a91058023093b827f761598fb2"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1966-027",
+   "short": "L.R. 27/1966",
+   "title": "L.R. 1 settembre 1966, n. 27: Norme di integrazione della legge statale 29 giugno 1939, n. 1497, per la tutela del patrimonio speleologico della Regione Friuli - Venezia Giulia.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1966&legge=27&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 4,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1966&legge=27&lista=0&fx=",
+     "sha256": "e4ee9350df3b6bf503859c0e08d23c5737a575ae9cfdf6c55fa296b0ea0a51c7"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1967-008",
+   "short": "L.R. 8/1967",
+   "title": "L.R. 5 giugno 1967, n. 8: Modificazioni alla legge regionale 9 settembre 1964, n. 2.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1967&legge=8&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 4,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1967&legge=8&lista=0&fx=",
+     "sha256": "97ec80ba47844d3062b36c653db473af16d0e755ae9636137f3b34c53258146f"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1968-018",
+   "short": "L.R. 18/1968",
+   "title": "L.R. 25 marzo 1968, n. 18: Contributi straordinari per manifestazioni ed opere a celebrazione di speciali solenni ricorrenze.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1968&legge=18&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 6,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1968&legge=18&lista=0&fx=",
+     "sha256": "1c95a9d6bd23cf7fe1ef705016573ceb64d899c69a6e6c1e3e4ead826ec24fe3"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1968-030",
+   "short": "L.R. 30/1968",
+   "title": "L.R. 22 agosto 1968, n. 30: Modificazioni all' ordinamento dell' Amministrazione regionale - Istituzione dell' Assessorato dell' urbanistica e del Servizio di vigilanza sulle cooperative, passaggio del Servizio dei trasporti alla Presidenza della Giunta regionale e nuove disposizioni sull' Ufficio legislativo e legale.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1968&legge=30&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 24,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1968&legge=30&lista=0&fx=",
+     "sha256": "edbb6654eb1dac5ec832f2af42523894d7ca11e9af5edc194df35f51c6eb2d8e"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1968-032",
+   "short": "L.R. 32/1968",
+   "title": "L.R. 5 novembre 1968, n. 32: Subentro della Regione allo Stato nelle Stazioni sperimentali agrarie consorziali di Udine e di Gorizia.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1968&legge=32&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 4,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1968&legge=32&lista=0&fx=",
+     "sha256": "bc8137c2b76a032b8c2ec0bd51d5a04bd8c4e12b7f6b1e2677f001512a5f07c5"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1968-040",
+   "short": "L.R. 40/1968",
+   "title": "L.R. 23 dicembre 1968, n. 40: Contributi a Centri e Istituti di documentazione operanti nella Regione Friuli - Venezia Giulia.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1968&legge=40&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 5,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1968&legge=40&lista=0&fx=",
+     "sha256": "89935e4649e6def08f2ac17a63fca737fb2bc8893de60bd92f24d0b28483bc09"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1969-011",
+   "short": "L.R. 11/1969",
+   "title": "L.R. 2 luglio 1969, n. 11: Interventi regionali per lo sviluppo delle attività culturali e contributi per la conservazione, la valorizzazione e l' incremento del patrimonio bibliografico, storico ed artistico e per lo sviluppo dell' istruzione universitaria e per la ricerca scientifica nella Regione Friuli - Venezia Giulia.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1969&legge=11&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 22,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1969&legge=11&lista=0&fx=",
+     "sha256": "42ccfaff884374692e3ed92dfe59223393d679e60681f72b7669b77cb0bb2080"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1969-029",
+   "short": "L.R. 29/1969",
+   "title": "L.R. 14 agosto 1969, n. 29: Modifiche ed integrazioni alla legge regionale 18 ottobre 1967, n. 22, concernente: << Esercizio di funzioni amministrative in materia di opere pubbliche, di urbanistica e di edilizia popolare - Istituzione di uffici e organi tecnici regionali >>.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1969&legge=29&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 28,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1969&legge=29&lista=0&fx=",
+     "sha256": "3932cd8c96ea337e8daca5cecd9454a63d0160960dabb27307cafb51853d640c"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1969-032",
+   "short": "L.R. 32/1969",
+   "title": "L.R. 19 agosto 1969, n. 32: Interventi per studi e ricerche di carattere tecnologico nel territorio regionale.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1969&legge=32&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1969&legge=32&lista=0&fx=",
+     "sha256": "9c09ee3b50dc050521141cf71437cb0bb7644ad1ff6368d280fe24c731378eeb"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1970-003",
+   "short": "L.R. 3/1970",
+   "title": "L.R. 23 gennaio 1970, n. 3: Provvedimenti per agevolare la progettazione delle opere pubbliche di sistemazione idraulico - forestale, di bonifica integrale e montana e per l' esecuzione di opere di miglioramento fondiario.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1970&legge=3&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 4,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1970&legge=3&lista=0&fx=",
+     "sha256": "c382512b90aa7530d1c619cc58f6a82d4191acdc4a3230c9b5d3975883b952c5"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1970-008",
+   "short": "L.R. 8/1970",
+   "title": "L.R. 27 marzo 1970, n. 8: Integrazione e rifinanziamento della legge regionale 20 luglio 1967, n. 17, concernente contributi finanziari perequativi sui mutui contratti per l' esecuzione di opere pubbliche.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1970&legge=8&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 5,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1970&legge=8&lista=0&fx=",
+     "sha256": "9dc1b7d5b21a3d3d49d3f6189de690a4890da38f8189c2ba708da1de4f820488"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1970-025",
+   "short": "L.R. 25/1970",
+   "title": "L.R. 6 luglio 1970, n. 25: Contributi per la costituzione di un << fondo rischi >> a favore dei Consorzi provinciali di garanzia fidi fra le piccole industrie della regione.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1970&legge=25&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 6,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1970&legge=25&lista=0&fx=",
+     "sha256": "bad24af69869713730c0d2180f421c1e63c52cf011e66cc9698ab937dcae69f4"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1970-039",
+   "short": "L.R. 39/1970",
+   "title": "L.R. 23 novembre 1970, n. 39: Interventi straordinari in alcuni settori dell' economia regionale.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1970&legge=39&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 10,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1970&legge=39&lista=0&fx=",
+     "sha256": "86063407b56039caea821e9a41024aff98371273859cf4e8a34c925ccbd99291"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1971-006",
+   "short": "L.R. 6/1971",
+   "title": "L.R. 21 gennaio 1971, n. 6: Semplificazioni di procedure per la erogazione di spese in occasione di convegni, congressi e concorsi di interesse regionale.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1971&legge=6&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1971&legge=6&lista=0&fx=",
+     "sha256": "11b508cccd6d3f154ab92c80649da0304f5545373e5811bf00944aa3a07220c2"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1971-019",
+   "short": "L.R. 19/1971",
+   "title": "L.R. 12 maggio 1971, n. 19: Norme per la protezione del patrimonio ittico e per l' esercizio della pesca nelle acque interne del Friuli - Venezia Giulia.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1971&legge=19&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 40,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1971&legge=19&lista=0&fx=",
+     "sha256": "7887fcd4e1ef773414bbd82c586427e72ce077be658b723d8864660dcc588f08"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1971-022",
+   "short": "L.R. 22/1971",
+   "title": "L.R. 16 giugno 1971, n. 22: Riconoscimento dell' insediamento abitativo di Erto e Casso, formatosi nel territorio del Comune di Maniago e scissione del Comune di Erto e Casso.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1971&legge=22&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 3,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1971&legge=22&lista=0&fx=",
+     "sha256": "09ae5921f0387ef59ecfaf0a75f6d5e6b8d6c966069d07bfc78177f1cb9b87be"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1971-028",
+   "short": "L.R. 28/1971",
+   "title": "L.R. 23 luglio 1971, n. 28: Indennità una tantum al personale con funzioni di concetto, esecutive ed ausiliarie, addetto all' Ufficio di cui al Titolo V della legge costituzionale 31 gennaio 1963, n. 1.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1971&legge=28&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 2,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1971&legge=28&lista=0&fx=",
+     "sha256": "814c4c1128afb36abeb79c69f7a4fd18cdcabe34f38cc9f7e92b2403af042fd9"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1971-044",
+   "short": "L.R. 44/1971",
+   "title": "L.R. 4 ottobre 1971, n. 44: Modifiche ed integrazioni alla legge regionale 30 dicembre 1967, n. 29, concernente << provvedimenti per lo sviluppo delle colture pregiate >>.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1971&legge=44&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 2,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1971&legge=44&lista=0&fx=",
+     "sha256": "d4a060d30dfb541f2f782337a6ac833ac28b5aae71876919bc0fbee53a87912d"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1971-047",
+   "short": "L.R. 47/1971",
+   "title": "L.R. 10 novembre 1971, n. 47: Spese per il funzionamento della Delegazione di cui al Titolo V dello Statuto regionale.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1971&legge=47&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1971&legge=47&lista=0&fx=",
+     "sha256": "b53a6e9be09f91012833ff18748a69e5f6f54e1de087a56d112ef9cb09c662db"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1971-057",
+   "short": "L.R. 57/1971",
+   "title": "L.R. 22 dicembre 1971, n. 57: Disposizioni speciali in materia di finanza regionale.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1971&legge=57&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 25,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1971&legge=57&lista=0&fx=",
+     "sha256": "553418242a72826345fdd7c9a5a0588acdfcd0f0f729bfd7a78155a7838e923b"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1971-059",
+   "short": "L.R. 59/1971",
+   "title": "L.R. 22 dicembre 1971, n. 59: Interventi per la difesa e lo sviluppo del settore forestale.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1971&legge=59&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 14,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1971&legge=59&lista=0&fx=",
+     "sha256": "43803c3bbf407a6ffb51c16b117485ce042f104b2556423434a4bd74c947194b"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1971-067",
+   "short": "L.R. 67/1971",
+   "title": "L.R. 28 dicembre 1971, n. 67: Modifiche ed integrazioni alla legge regionale 29 dicembre 1965, n. 33, sul fondo di solidarietà regionale per interventi diretti ad agevolare la prevenzione dei danni da grandine, gelo e brina ed a ripristinare l' efficienza produttiva delle aziende colpite da calamità naturali o da eccezionali avversità atmosferiche.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1971&legge=67&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 12,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1971&legge=67&lista=0&fx=",
+     "sha256": "40ac2b70eecb0ac3515d3de01773e9f8c3a3da33bc70c3392686cd744b5db591"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1972-009",
+   "short": "L.R. 9/1972",
+   "title": "L.R. 4 aprile 1972, n. 9: Rifinanziamento della legge regionale 20 luglio 1967, n. 17, come integrata dalla legge regionale 27 marzo 1970, n. 8, concernente contributi finanziari perequativi sui mutui contratti per l' esecuzione di opere pubbliche.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1972&legge=9&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 2,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1972&legge=9&lista=0&fx=",
+     "sha256": "3d88e27e161024e73d7fe7ffd3c7108709de17ab2e2df8caaf2458cd80b52776"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1972-011",
+   "short": "L.R. 11/1972",
+   "title": "L.R. 6 aprile 1972, n. 11: Intervento a sostegno dell' attività della Federazione regionale delle Casse rurali ed artigiane del Friuli - Venezia Giulia.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1972&legge=11&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 3,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1972&legge=11&lista=0&fx=",
+     "sha256": "a7580c16a524d7cb154451f2c221d707ac27ff7a5b0392e8a2a17429e83a50d6"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1972-018",
+   "short": "L.R. 18/1972",
+   "title": "L.R. 10 aprile 1972, n. 18: Provvedimenti in materia di trasporti.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1972&legge=18&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 5,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1972&legge=18&lista=0&fx=",
+     "sha256": "dd228294d7a9aa54e513ade828f533f0a6a2f8484509f3e13ceb8a98ddb43eb6"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1972-055",
+   "short": "L.R. 55/1972",
+   "title": "L.R. 27 novembre 1972, n. 55: Spese di manutenzione delle opere pubbliche di bonifica integrale e montana.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1972&legge=55&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 2,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1972&legge=55&lista=0&fx=",
+     "sha256": "2e8280a41d27874cf59df3cfbfa0ff4600b864197f269d79993627cd1e525a28"
+    }
+   ]
+  }
+ ]
+}
