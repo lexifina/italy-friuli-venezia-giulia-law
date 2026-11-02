@@ -1,0 +1,2 @@
+34. Le entrate derivanti dall' articolo 11 della legge regionale 20/2007 , come sostituito dal comma 33, affluiscono al Titolo n. 3 (Entrate extratributarie) e alla Tipologia n. 2 (Proventi derivanti dall'attività di controllo e repressione delle irregolarità e degli illeciti).
+35. Ai sensi dell' articolo 4, comma 3, della legge regionale 26/2015 , sono disposte le variazioni relative alle Missioni e ai Programmi dello stato di previsione della spesa del bilancio pluriennale per gli anni 2016-2018 di cui all'allegata Tabella C.
