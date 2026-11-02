@@ -1,0 +1,5 @@
+Art. 46 bis
+(Incentivi per funzioni tecniche)
+1. L'Amministrazione regionale, fatto salvo quanto previsto dal comma 2, è autorizzata a riconoscere gli incentivi per funzioni tecniche di cui all'articolo 45 del decreto legislativo 36/2023 in relazione alle quote calcolate sul complessivo valore aggiudicato dei contratti quadro e degli appalti su delega di competenza della Centrale unica di committenza regionale, nella misura percentuale massima prevista dall'articolo 45, comma 8, del decreto legislativo 36/2023.
+2. I soggetti di cui all'articolo 43 che si avvalgono della Centrale unica di committenza regionale, per adesione a contratti quadro o aggiudicazione di appalti su delega, versano alla Regione Autonoma Friuli Venezia Giulia la quota di loro spettanza ai sensi dell'articolo 45, comma 8, del decreto legislativo 36/2023, a titolo di compartecipazione agli incentivi per funzioni tecniche relative alle attività svolte dalla Centrale unica di committenza regionale.
+3. Con regolamento regionale sono definiti i criteri e le modalità del versamento di cui al comma 2.
