@@ -1,0 +1,3 @@
+Art. 6 bis
+(Anticipo dell'indennità di fine mandato)
+1. I consiglieri regionali che abbiano già esercitato il mandato per otto anni possono chiedere la corresponsione di un anticipo dell'indennità di fine mandato in misura non superiore al 50 per cento rispetto al trattamento di cui avrebbero diritto in caso di cessazione dal mandato l'ultimo giorno del mese precedente quello di effettuazione della richiesta. L'anticipazione può essere ottenuta una sola volta. Al termine del mandato consiliare, l'ammontare dell'anticipo è detratto dall'indennità di fine mandato calcolata ai sensi dell'articolo 6.
