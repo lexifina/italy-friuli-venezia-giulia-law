@@ -1,0 +1,10 @@
+2.
+Al comma 4 dell'articolo 6 della legge regionale 57/1971 le parole <<secondo il tariffario di cui all'Allegato A del decreto del Presidente della Regione 9 agosto 2017 n. 0181/Pres.>> sono sostituite dalle seguenti: <<secondo il regolamento adottato ai sensi del comma 1 dell'articolo 14 della legge regionale 15 ottobre 2009, n. 17 (Disciplina delle concessioni e conferimento di funzioni in materia di demanio idrico regionale)>>.
+3.
+L'articolo 6 ter della legge regionale 57/1971 è sostituito dal seguente:
+<<Art. 6 ter
+(Disposizioni in materia di stima)
+1. Le valutazioni di stima devono essere redatte secondo il criterio del più probabile valore di mercato.
+2. In deroga al comma 1, i beni immobili regionali ubicati in zone classificate di svantaggio socioeconomico ai sensi dell'articolo 40 della legge regionale 20 dicembre 2002, n. 33 (Istituzione dei Comprensori montani del Friuli Venezia Giulia), nonché in ulteriori luoghi che presentano particolari criticità nello scenario immobiliare locale, individuati attraverso apposito regolamento predisposto dalla Giunta regionale previo parere della Commissione consiliare competente, possono essere posti in vendita al loro valore catastale. Per gli immobili la cui rendita catastale è pari a zero è fissato un valore minimo di vendita pari al 60 per cento del valore di mercato.
+3. In deroga ai commi 1 e 2, il prezzo di vendita e il canone di occupazione delle porzioni di fabbricato o altre tipologie di opere insistenti su beni immobili regionali di cui sia stata accertata la regolarità urbanistico-edilizia sono determinati, indipendentemente dal valore del soprassuolo, sulla base del solo valore dell'area di sedime sulla quale le stesse insistono, secondo quanto stabilito dalle Tariffe unitarie per la determinazione del prezzo di vendita dei beni sdemanializzati di cui all'Allegato A della legge regionale 15 ottobre 2009, n. 17 (Disciplina delle concessioni e conferimento di funzioni in materia di demanio idrico regionale).
+4. Le stime di cui al presente articolo hanno validità di dodici mesi.>>.
