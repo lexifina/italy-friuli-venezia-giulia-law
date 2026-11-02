@@ -1,0 +1,5 @@
+7.
+L'articolo 10 della legge regionale 21/1992 è sostituito dal seguente:
+<<Art. 10
+(Interventi conseguenti all'attività ispettiva)
+1. Le risultanze dell'attività ispettiva di cui all'articolo 8 sono comunicate all'Assessore regionale alla sanità e alle politiche sociali. Qualora tali risultanze evidenzino il verificarsi delle fattispecie di cui all'articolo 3 bis, comma 7, del decreto legislativo 502/1992, come inserito dall'articolo 3, comma 3, del decreto legislativo 229/1999, la Regione risolve il contratto del Direttore generale dichiarandone la decadenza e provvedendo alla sua sostituzione.>>.
