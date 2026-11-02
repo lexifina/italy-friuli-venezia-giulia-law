@@ -1,0 +1,9 @@
+13. L'Amministrazione regionale è autorizzata a sostenere la costituzione dell'associazione "Centro studi David Maria Turoldo", promossa dal Comune di Sedegliano e avente come finalità la realizzazione e la divulgazione di studi e ricerche sulla figura e l'opera dell'autore, nonché la gestione della sua casa natale. A tale fine è assegnato al Comune di Sedegliano un contributo straordinario di 20.000 euro per l'anno 2018.
+14. Per le finalità di cui al comma 13 è destinata la spesa di 20.000 euro per l'anno 2018 a valere sulla Missione n. 5 (Tutela e valorizzazione dei beni e attività culturali) - Programma n. 2 (Attività culturali e interventi diversi nel settore culturale) - Titolo n. 1 (Spese correnti) dello stato di previsione della spesa del bilancio per gli anni 2018-2020, con riferimento alla corrispondente variazione prevista dalla Tabella G di cui al comma 29.
+15. Alla legge regionale 25 settembre 2015, n. 23 (Norme regionali in materia di beni culturali), sono apportate le seguenti modifiche:
+a)
+l'articolo 5 è sostituito dal seguente:
+<< Art. 5
+(Sistema museale regionale)
+1. L'interazione e la cooperazione tra gli istituti museali e i luoghi della cultura delle amministrazioni pubbliche e di altri soggetti pubblici e privati presenti nel territorio del Friuli Venezia Giulia si realizzano nell'ambito del Sistema museale regionale.
+2. Fanno parte del Sistema museale regionale i musei pubblici non statali e i musei privati del Friuli Venezia Giulia, singolarmente o aggregati in reti costituite ai sensi dell'articolo 7, che svolgono la loro funzione culturale, di ricerca ed educativa a servizio della comunità, che risultano in possesso degli standard minimi previsti dai livelli uniformi di qualità per i musei, necessari per essere accreditati al Sistema museale nazionale.>>;
