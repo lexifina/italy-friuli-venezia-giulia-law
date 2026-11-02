@@ -1,0 +1,2 @@
+2. Le disposizioni di cui al comma 1 si applicano alla Commissione regionale per i ricorsi contro la non idoneità alla pratica sportiva agonistica costituita con decreto del Presidente della Regione 19 dicembre 2024, n. 0170/Pres.
+3. Per le finalità di cui all'articolo 4 bis della legge regionale 62/1980, come inserito dal comma 1, si provvede a valere sullo stanziamento della Missione n. 13 (Tutela della salute) - Programma n. 7 (Ulteriori spese in materia sanitaria) - Titolo n. 1 (Spese correnti) dello stato di previsione della spesa del bilancio per gli anni 2025-2027.
