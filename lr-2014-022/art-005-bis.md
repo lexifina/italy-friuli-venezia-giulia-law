@@ -1,0 +1,3 @@
+Art. 5 bis
+(Contrasto alla solitudine negli ambienti di lavoro)
+1. La Regione riconosce l'ambiente di lavoro in quanto luogo ove l'adulto trascorre una parte significativa della propria esistenza e dove poter intervenire, previo accordo con le Rappresentanze dei datori di lavoro e dei lavoratori, con protocolli operativi per la realizzazione di progetti che prevedano azioni di rilevazione e monitoraggio del fenomeno della solitudine e per la diffusione della conoscenza delle iniziative per il suo contrasto.
