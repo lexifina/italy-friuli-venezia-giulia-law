@@ -1,0 +1,4 @@
+Art. 41 bis
+(Servizi ferroviari in connessione con territori contermini)
+1. La Regione, ove debbano essere adottati provvedimenti concernenti la programmazione dei servizi ferroviari in connessione con territori contermini procede, se necessario, mediante la stipulazione di intese con le Amministrazioni interessate.
+2. Le intese, senza oneri aggiuntivi a carico degli Enti affidanti e dei viaggiatori, attengono agli obblighi dei rispettivi gestori in merito a specifiche forme di collaborazione da attuare al fine di assicurare la continuità dei servizi, alla disponibilità dei titoli di viaggio nelle rispettive reti di vendita, alle informazioni ai viaggiatori, all'accesso con i titoli emessi dai rispettivi gestori a tutti i servizi regionali sviluppati sulle relazioni servite, agli standard qualitativi e agli altri elementi utili a definire il regolare svolgimento dei servizi.

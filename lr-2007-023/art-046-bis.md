@@ -1,0 +1,3 @@
+Art. 46 bis
+(Proventi derivanti dall'esercizio delle funzioni in materia di motorizzazione e circolazione su strada)
+1. Al fine di garantire la piena attuazione di quanto previsto dall' articolo 9, comma 5, del decreto legislativo 111/2004 , in ordine alla spettanza alla Regione dei proventi e delle spese derivanti dall'esercizio delle funzioni in materia di motorizzazione e circolazione su strada, l'Amministrazione regionale istituisce due collegamenti telematici denominati "Servizio revisioni Regione FVG" e "Servizio rinnovo validità patente Regione FVG", che prevedono la modalità di introito diretto e immediato dei diritti della motorizzazione a favore della Regione autonoma Friuli Venezia Giulia.

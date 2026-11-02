@@ -1,0 +1,4 @@
+Art. 37 bis
+(Servizi con trenini turistici in regime di autorizzazione)
+1. Gli enti locali disciplinano autonomamente, ai sensi dell'articolo 10 del decreto del Ministro dei trasporti 15 marzo 2007, n. 55 (Norme relative all'individuazione dei criteri di assimilazione ai fini della circolazione e della guida ed all'accertamento dei requisiti tecnici di idoneità dei trenini turistici), i servizi di trasporto di persone su strada effettuati con trenini turistici aventi finalità turistico-ricreative e che si svolgono esclusivamente nell'ambito del proprio territorio.
+2. Gli enti pubblici possono utilizzare per l'acquisto dei complessi indicati all'articolo 1 del decreto ministeriale 55/2007, i benefici acquisiti nell'ambito di misure per lo sviluppo e la valorizzazione del territorio montano, di cui alla legge regionale 20 febbraio 2008, n. 4 (Norme per lo sviluppo e la valorizzazione del territorio montano).
