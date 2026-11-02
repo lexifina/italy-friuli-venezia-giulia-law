@@ -1,0 +1,8 @@
+Art. 4
+(Locazione degli alloggi)
+1. Gli alloggi acquisiti dal Comune ai sensi dell'articolo 3, comma 1, lettera b), possono essere assegnati in locazione in regime di edilizia sovvenzionata a soggetti in possesso dei relativi requisiti e gestiti, in deroga all'articolo 47, terzo comma, della legge regionale 75/1982, come modificato dall'articolo 60 della legge regionale 18/1993, direttamente dal Comune.
+2. Con il regolamento di cui al comma 6 dell'articolo 3 vengono disciplinati i criteri, i punteggi e le modalità delle assegnazioni in locazione, con priorità per i residenti da almeno 5 anni nel Comune di Monfalcone, gli obblighi degli assegnatari, i criteri e le modalità di revoca delle assegnazioni degli alloggi.
+3. Il canone di locazione degli alloggi è determinato dal Comune in base al decreto del Presidente della Giunta regionale di cui all'articolo 65 della legge regionale 75/1982, come da ultimo modificato dall'articolo 7 della legge regionale 31/1995.
+4. Gli alloggi assegnati in locazione, in deroga agli articoli 69 e seguenti della legge regionale 75/1982 e successive modificazioni ed integrazioni, possono essere ceduti in proprietà agli assegnatari che siano inquilini da almeno cinque anni, in possesso dei requisiti previsti per l'accesso ai contributi di edilizia agevolata.
+5. Il prezzo di cessione degli alloggi di cui al comma 4 è quantificato con le modalità di cui all'articolo 70 della legge regionale 75/1982, come da ultimo modificato dall'articolo 8 della legge regionale 31/1995.
+6. Le modalità di cessione degli alloggi sono disciplinate dal regolamento di cui al comma 6 dell'articolo 3. >>.
