@@ -1,0 +1,4 @@
+Art. 7 bis
+(Iniziative del CAI del Friuli Venezia Giulia a favore delle istituzioni scolastiche)
+1. Il CAI FVG realizza iniziative di arricchimento e integrazione dell'offerta formativa delle istituzioni scolastiche, con specifico riguardo ai programmi didattici aventi ad oggetto lo studio del territorio regionale, di quello montano in particolare, la divulgazione di conoscenze e lo sviluppo di competenze didattiche in campo naturalistico, l'educazione alla cura e alla fruizione delle risorse ambientali.
+2. Per le finalità di cui al comma 1 l'Amministrazione regionale è autorizzata a concedere al CAI FVG un contributo. La domanda per la concessione del contributo è presentata entro l'1 marzo al Servizio competente in materia di istruzione, corredata del preventivo di spesa e della relazione illustrativa delle attività. Con il decreto di concessione del contributo sono stabiliti i termini e le modalità di rendicontazione.
