@@ -1,0 +1,3 @@
+Art. 113 bis
+1. Il lavoro straordinario può essere autorizzato solo per fronteggiare situazioni di lavoro eccezionali e pertanto non può essere utilizzato come fattore di programmazione del tempo di lavoro e di copertura dell' orario di lavoro.
+2. Il lavoro straordinario prestato per fronteggiare stati di emergenza dichiarati tali ai sensi dell' articolo 9, secondo comma, della legge regionale 31 dicembre 1986, n. 64, può essere autorizzato previo confronto con le rappresentanze sindacali e non concorre né ai limiti individuali, né al monte ore complessivo annualmente fissato d' intesa con le rappresentanze sindacali.
