@@ -1,0 +1,1 @@
+2. Gli oneri derivanti dall'applicazione del disposto di cui all' articolo 8 della legge regionale 20/2005 , come sostituito dal comma 1, fanno carico all'unità di bilancio 8.2.1.1140 e al capitolo 8465 dello stato di previsione della spesa del bilancio pluriennale per gli anni 2010-2012 e del bilancio per l'anno 2010.
