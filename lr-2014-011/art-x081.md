@@ -1,0 +1,1 @@
+2. Gli oneri derivanti dall'applicazione del disposto di cui all' articolo 03 della legge regionale 31/2005 , come aggiunto dal comma 1, fanno carico all'unità di bilancio 1.6.1.1036 e al capitolo 6256 dello stato di previsione della spesa del bilancio pluriennale 2014-2016 e del bilancio per l'anno 2014.
