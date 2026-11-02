@@ -1,0 +1,7 @@
+Art. 13 ter
+(Piano di utilizzazione del demanio a uso diportistico)
+1. In attuazione dell'articolo 13 bis, comma 2, la Regione predispone il Piano di utilizzazione del demanio a uso diportistico, che ha natura ricognitoria e programmatoria, non incide sulle scelte pianificatorie operate dagli strumenti urbanistici ed è lo strumento che identifica le aree del demanio marittimo in relazione alle quali l'Amministrazione regionale rilascia le concessioni a uso diportistic0.
+2. Il Piano di cui al comma 1 individua le aree del demanio marittimo riservate all'uso diportistico da destinare a fini esclusivamente privati, ai fini commerciali, produttivi, turistico ed economici e a enti senza scopo di lucro (enti pubblici, associazioni senza fini di lucro, associazione sportive).
+3. Il Piano di Utilizzazione è adottato dalla Giunta regionale, sentiti la competente Autorità marittima, gli Enti locali e le Amministrazioni statali interessati, nonché le associazioni regionali di categoria del settore turistico che si esprimono entro trenta giorni dalla richiesta.
+4. Il Piano di Utilizzazione adottato è sottoposto al parere del Consiglio delle autonomie locali; sul Piano di Utilizzazione viene, altresì, sentita la competente Commissione consiliare.
+5. Il Piano di Utilizzazione è approvato, su conforme deliberazione della Giunta regionale, dal Presidente della Regione ed entra in vigore il giorno successivo alla sua pubblicazione sul Bollettino ufficiale della Regione Friuli Venezia Giulia.
