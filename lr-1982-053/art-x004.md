@@ -1,0 +1,2 @@
+<< Art. 8 ter
+L' amministrazione regionale, che in applicazione dell' articolo 3, secondo comma, del DPR 18 dicembre 1979, n. 839, e dell' articolo 16, quinto comma, della legge regionale 22 dicembre 1980, n. 70, provvede al pagamento dei mutui già contratti dal soppresso Ente nazionale per lavoratori rimpatriati e profughi per la costruzione delle proprie strutture immobiliari, procederà alla cancellazione delle ipoteche, connesse con tali mutui, gravanti sugli alloggi concessi o da concedere in riscatto, ad avvenuta estinzione dei mutui suddetti. >>.
