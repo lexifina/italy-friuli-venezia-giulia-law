@@ -1,0 +1,7 @@
+aa) all'articolo 62 sono apportate le seguenti modifiche:
+1)
+al comma 14 le parole << non si applicano agli interventi il cui progetto, alla data di entrata in vigore della presente legge, abbia ottenuto il provvedimento di valutazione di impatto ambientale >> sono sostituite dalle seguenti: << si applicano alle istanze presentate ai sensi dell'articolo 25 dopo l'entrata in vigore del regolamento di cui all'articolo 14, comma 1, lettera b), escluse quelle che alla stessa data abbiano iniziato il procedimento di valutazione di impatto ambientale o di assoggettabilità alla valutazione di impatto ambientale >>;
+2)
+dopo il comma 15 è aggiunto il seguente:
+<<15 bis. Nelle more dell'adeguamento previsto dalle Norme di attuazione del Piano regionale di tutela delle acque, in materia di deflusso minimo vitale, relativamente alle derivazioni d'acqua esistenti, il deflusso minimo vitale rimane definito in misura pari al contributo unitario di quattro litri al secondo per chilometro quadrato di bacino sotteso, laddove non diversamente stabilito nei provvedimenti concessori e autorizzativi.>>.
+2. Entro novanta giorni dalla data di entrata in vigore della presente legge, con decreto del Direttore centrale della struttura regionale competente in materia di ambiente, pubblicato sul sito istituzionale della Regione, sono individuate le modeste attività produttive o commerciali di cui all' articolo 37, comma 1 bis, della legge regionale 11/2015 , come inserito dal comma 1, lettera q).
