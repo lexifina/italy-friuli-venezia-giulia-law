@@ -1,0 +1,8 @@
+37. Per le finalità di cui all' articolo 29 bis della legge regionale 16/2014 , come inserito dal comma 36, è destinata la spesa complessiva di 750.000 euro per gli anni 2020-2022, suddivisa in ragione di 250.000 euro per ciascuno degli anni 2020, 2021 e 2022, a valere sulla Missione n. 5 (Tutela e valorizzazione dei beni e attività culturali) - Programma n. 2 (Attività culturali e interventi diversi nel settore culturale) - Titolo n. 1 (Spese correnti) dello stato di previsione della spesa del bilancio per gli anni 2020-2022, con riferimento alla corrispondente variazione prevista dalla Tabella F di cui al comma 40.
+38. Al comma 9 dell'articolo 7 della legge regionale 28 dicembre 2018, n. 29 (Legge di stabilità 2019), sono apportate le seguenti modifiche:
+a)
+la parola << straordinario >> è soppressa;
+b)
+dopo le parole << sino all'importo massimo >> è inserita la seguente: << annuo >>.
+39. Per le finalità di cui all' articolo 7, comma 9, della legge regionale 29/2018 , come modificato dal comma 38, è destinata la spesa di 200.000 euro per l'anno 2020, a valere sulla Missione n. 5 (Tutela e valorizzazione dei beni e attività culturali) - Programma n. 2 (Attività culturali e interventi diversi nel settore culturale) - Titolo n. 1 (Spese correnti) dello stato di previsione della spesa del bilancio per gli anni 2020-2022, con riferimento alla corrispondente variazione prevista dalla Tabella F di cui al comma 40.
+40. Ai sensi dell' articolo 4, comma 3, della legge regionale 26/2015 , sono disposte le variazioni relative alle Missioni e ai Programmi dello stato di previsione della spesa del bilancio per gli anni 2020-2022 di cui all'allegata Tabella F.
