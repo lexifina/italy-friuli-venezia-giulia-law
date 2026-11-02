@@ -1,0 +1,5 @@
+j)
+l'articolo 31 è sostituito dal seguente:
+<<Art. 31
+(Accesso ai dati dell'anagrafe degli animali di affezione diversi dai cani e dai gatti)
+1. Ai cittadini, singoli e associati, è garantito il diritto di accesso ai dati registrati nell'anagrafe di cui all'articolo 29, ai sensi della legge regionale 7/2000, nel rispetto della normativa vigente in materia di protezione dei dati personali.>>;

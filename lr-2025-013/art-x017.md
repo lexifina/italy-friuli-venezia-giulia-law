@@ -1,0 +1,6 @@
+i)
+l'articolo 30 è sostituito dal seguente:
+<<Art. 30
+(Identificazione degli animali di affezione diversi dai cani e dai gatti)
+1. L'identificazione degli animali di affezione diversi dai cani e dai gatti è disciplinata secondo quanto previsto dall'articolo 27.
+2. Qualora le caratteristiche etologiche dell'animale lo rendano indispensabile, i veterinari possono utilizzare dispositivi di identificazione diversi dal microchip.>>;

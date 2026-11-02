@@ -1,0 +1,5 @@
+f)
+l'articolo 28 è sostituito dal seguente:
+<<Art. 28
+(Accesso ai dati dell'anagrafe canina e dell'anagrafe felina)
+1. Ai cittadini, singoli e associati, è garantito il diritto di accesso ai dati registrati nel SINAC-FVG, ai sensi della legge regionale 20 marzo 2000, n. 7 (Testo unico delle norme in materia di procedimento amministrativo e di diritto di accesso), nel rispetto della normativa vigente in materia di protezione dei dati personali.>>;
