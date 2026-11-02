@@ -1,0 +1,3 @@
+Art. 2 quater
+1. La Regione è autorizzata ad aderire al Consorzio per la gestione del laboratorio di biologia marina secondo quanto previsto dalla legge regionale 28 ottobre 1980, n. 58.
+2. A tal fine il Consorzio di cui al comma 1 dovrà apportare le necessarie modifiche statutarie.
