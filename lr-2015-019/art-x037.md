@@ -1,0 +1,1 @@
+2. Il Comitato costituito ai sensi dell' articolo 12 della legge regionale 21/2006 nella composizione di cui al decreto del Presidente della Regione 21 novembre 2013, n. 0126/Pres. (Costituzione Comitato tecnico (Fondo regionale per l'audiovisivo)), resta in carica fino alla scadenza prevista nel decreto medesimo.
