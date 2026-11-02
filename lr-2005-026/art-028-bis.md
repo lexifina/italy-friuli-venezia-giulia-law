@@ -1,0 +1,12 @@
+Art. 28 bis
+(Interventi regionali diretti mediante soluzioni a carattere informatico)
+1. Per le finalità di cui all'articolo 1, e in particolare per lo sviluppo dell'innovazione orientato alle necessità concrete del sistema economico e della pubblica amministrazione, l'Amministrazione regionale realizza direttamente, tramite la Direzione centrale organizzazione, personale e sistemi informativi, progetti e iniziative a carattere innovativo aventi come obiettivi:
+a) la predisposizione di strumenti e servizi utili a sostenere lo sviluppo della società dell' informazione in regione, anche al fine di:
+1) ammodernare la pubblica amministrazione, promuovendo e sviluppando sistemi informativi interoperabili sia attraverso la predisposizione di programmi informatici di programmazione e conduzione di flussi di dati e operazioni finalizzata a semplificare la gestione dei procedimenti dell'Amministrazione regionale, sia attraverso la predisposizione di sportelli informatici idonei a gestire i settori delle attività produttive, della salute, del lavoro e delle politiche sociali, anche attraverso internet;
+2) progettare e sviluppare programmi e servizi innovativi da mettere a disposizione dei cittadini e delle imprese, tramite internet prevedendo la diffusione di tecnologie innovative atte a facilitare l'utilizzo di funzioni per il commercio elettronico, la realizzazione di portali interattivi per lo scambio di dati e informazioni, la costituzione e la evoluzione di un data base regionale esteso (datawarehouse) e a dare valore giuridico alle transazioni in linea;
+b) lo studio, la progettazione e lo sviluppo di programmi software innovativi, fruibili anche da altri enti pubblici o dai cittadini, per:
+1) le analisi organizzative delle strutture amministrative e delle opzioni per l'utilizzo di strumenti di telelavoro;
+2) la semplificazione amministrativa mediante la predisposizione di uno strumento informatico di gestione delle pratiche amministrative;
+3) la gestione e la formazione delle risorse umane attraverso strumenti di formazione digitalizzata a distanza (FAD);
+4) l'accesso al patrimonio informatico e informativo tramite l'uso di programmi evoluti di analisi e rappresentazione dei data base.
+2. Con il piano triennale, previsto dall'Accordo di servizi quadro tra la Regione autonoma Friuli Venezia Giulia e Insiel SpA, sono definiti i requisiti e le modalità di attuazione degli interventi di cui al comma 1.

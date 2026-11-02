@@ -1,0 +1,12 @@
+Art. 9 bis
+(Sviluppo e promozione del commercio elettronico)
+1. L'Amministrazione regionale, al fine di favorire lo sviluppo e l'ammodernamento delle imprese, è autorizzata a concedere alle stesse contributi per facilitarne l'accesso al commercio elettronico a valere sulla Programmazione comunitaria POR FESR 2007-2013.
+2. Le funzioni amministrative relative alla concessione dei contributi di cui al comma 1 sono delegate alle Camere di commercio.
+3. Ai fini di cui al comma 1, per commercio elettronico si intende lo svolgimento di attività commerciali e promozionali dei propri prodotti o servizi per via elettronica.
+4. I contributi possono essere assegnati in misura non superiore al 50 per cento della spesa ammissibile per le seguenti iniziative:
+a) acquisizione di strumenti e programmi destinati alla creazione e alla promozione di siti orientati al commercio elettronico;
+b) acquisizione di consulenze in materia di commercio elettronico;
+c) assistenza alla gestione dei siti di commercio elettronico;
+d) promozione del sito elettronico.
+5. I contributi di cui al comma 1 sono concessi nel rispetto della disciplina comunitaria in materia di aiuti di Stato.
+6. Con regolamento regionale sono definiti le modalità e i criteri per la concessione dei contributi di cui al comma 1.
