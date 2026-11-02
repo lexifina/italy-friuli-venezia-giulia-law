@@ -1,0 +1,1 @@
+2. Con deliberazione della Giunta regionale, da emanarsi entro sei mesi dalla data di entrata in vigore della presente legge, vengono stabiliti i tempi per l'attuazione di quanto previsto dall' articolo 20 bis della legge regionale 28/2002 come introdotto dal comma 1, lettera c).
