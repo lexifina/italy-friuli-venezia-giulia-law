@@ -1,0 +1,1 @@
+11. Ai sensi dell' articolo 4, comma 3, della legge regionale 26/2015 , sono disposte le variazioni relative alle Missioni e ai Programmi dello stato di previsione della spesa del bilancio per gli anni 2020-2022 di cui all'allegata Tabella K.
