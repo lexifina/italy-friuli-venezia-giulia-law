@@ -1,0 +1,6 @@
+Art. 6 quater
+(Divise per cori e bande alpini)
+1. L'Amministrazione regionale è autorizzata a concedere un contributo alle Sezioni territoriali dell'Associazione Nazionale Alpini (ANA) del Friuli Venezia Giulia volto all'acquisto di divise per i rispettivi cori e bande alpini, finalizzato al rinnovo delle stesse per assicurare un'adeguata uniformità delle dotazioni sul territorio regionale. Il contributo può essere concesso, per il tramite delle Sezioni che ne fanno richiesta, anche per l'acquisto delle divise dei rispettivi Gruppi di appartenenza.
+2. Le Sezioni territoriali dell'Associazione Nazionale Alpini (ANA) del Friuli Venezia Giulia di cui al comma 1 presentano la domanda di contributo al Servizio competente in materia di polizia locale e sicurezza, entro il 30 giugno di ogni anno, corredata di un elenco dei beni da acquistare e del preventivo di spesa.
+3. Il contributo è concesso con la procedura a sportello, ai sensi dell'articolo 36 della legge regionale 7/2000, fino a esaurimento delle risorse.
+4. Con il decreto di concessione è disposta l'erogazione in via anticipata del 70 per cento del contributo e sono fissate le modalità di rendicontazione della spesa e di erogazione del saldo del contributo.
