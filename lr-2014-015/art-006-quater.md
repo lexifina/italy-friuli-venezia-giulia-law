@@ -1,0 +1,4 @@
+Art. 6 quater
+(Monitoraggio dinamico degli impianti sportivi regionali)
+1. Al fine di promuovere gli investimenti in materia di impiantistica sportiva e di monitorare l'efficacia degli interventi realizzati con il sostegno regionale, l'Amministrazione regionale promuove la raccolta, l'aggiornamento e la divulgazione delle informazioni relative agli impianti sportivi della regione.
+2. Per lo svolgimento delle attività di cui al comma 1, l'Amministrazione regionale è autorizzata ad avvalersi del Comitato regionale del CONI tramite la stipula di specifiche convenzioni approvate con deliberazione della Giunta regionale, nelle quali sono individuate le attività specifiche per le quali l'Amministrazione regionale intende avvalersi del Comitato regionale del CONI e le risorse per il finanziamento delle stesse.>>;
