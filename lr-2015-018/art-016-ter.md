@@ -1,0 +1,3 @@
+Art. 16 ter
+(Conversione degli incentivi pluriennali)
+1. La Direzione centrale infrastrutture, mobilità, pianificazione territoriale, lavori pubblici ed edilizia è autorizzata a convertire gli incentivi pluriennali in quote annuali costanti per opere pubbliche e relativi investimenti, già concessi agli enti locali, in contributi in conto capitale, anche per la realizzazione di opere diverse da quella per la quale gli incentivi sono stati concessi, qualora l'opera iniziale non sia più prioritaria rispetto a esigenze sopravvenute, a condizione che l'importo della spesa ammissibile per le opere diverse non superi l'importo della spesa ammissibile dell'opera originaria.

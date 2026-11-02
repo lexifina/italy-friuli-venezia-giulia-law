@@ -1,0 +1,3 @@
+Art. 16 bis
+(Rivalutazione Istat della spesa ammissibile)
+1. Nei casi in cui, a causa del lungo periodo trascorso dal momento della progettazione dell'opera per la quale gli incentivi sono stati già concessi, l'Ente beneficiario chieda un aggiornamento della spesa prevista per l'intervento, sulla quale commisurare il contributo convertito ai sensi dell'articolo 16, alla spesa ammissibile può essere applicata la rivalutazione monetaria in base agli indici I.S.T.A.T dei prezzi al consumo per le famiglie di operai e impiegati, nei limiti della disponibilità derivante dalla somma delle annualità concesse.
