@@ -1,0 +1,3 @@
+Art. 39 bis
+(Norma di sanatoria per i beneficiari di contributo decaduti)
+1. Coloro i quali, avendo richiesto l'autorizzazione assessorile a vendere l'alloggio oggetto di contributo ai sensi dell'articolo 39 della presente legge, come da ultimo modificato dall' articolo 4 della legge regionale 24 luglio 1995, n. 31 , hanno proceduto all'alienazione dello stesso prima del rilascio dell'autorizzazione medesima, successivamente intervenuta, ovvero dopo i termini stabiliti con il provvedimento di autorizzazione, non sono tenuti - in via di sanatoria - alla restituzione dei contributi percepiti disposta con il provvedimento di revoca.

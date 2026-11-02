@@ -1,0 +1,7 @@
+Art. 25 bis
+Tempo di accertamento e riferimento dei requisiti
+1. Salvo diverse disposizioni contenute nelle singole leggi di finanziamento, i requisiti di cui al presente Capo vengono accertati:
+a) per gli interventi di edilizia agevolata a cura dei privati, all' atto in cui viene emesso il provvedimento di concessione del contributo regionale e con riferimento, salvo che per il reddito, alla data della domanda;
+b) per gli interventi di edilizia convenzionata a cura delle cooperative, all' atto di erogazione del contributo e con riferimento, salvo che per il reddito, alla data della domanda;
+c) per gli interventi di edilizia convenzionata a cura degli Istituti autonomi per le case popolari e delle imprese, all' atto della liquidazione finale o di frazionamento del contributo, con riferimento alla data di pubblicazione del bando di prenotazione;
+d) per gli interventi di edilizia sovvenzionata, alla data di pubblicazione del bando.

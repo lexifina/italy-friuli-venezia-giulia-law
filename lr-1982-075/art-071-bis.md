@@ -1,0 +1,4 @@
+Art. 71 bis
+(Riacquisizione di alloggi venduti)
+1. Le ATER che possiedano almeno i due terzi delle quote condominiali di comproprietà di stabili da sottoporre ad interventi di recupero, che impongano di acquisire la disponibilità delle unità immobiliari interessate, possono riacquistare a trattativa privata ed in qualunque tempo gli eventuali alloggi ceduti.
+2. In tal caso, qualora il riacquisto dell'alloggio avvenga alle condizioni di cui all'articolo 71, quarto comma, all'alienante, se in possesso dei requisiti per l'accesso all'edilizia sovvenzionata ed in presenza di un reddito non superiore a quello previsto dall'articolo 61, primo comma, lettera e), può essere assegnato altro alloggio in locazione. Le ATER sono in alternativa autorizzate a permutare l'alloggio da acquistare con altro di edilizia sovvenzionata, con eventuale conguaglio da calcolarsi ai sensi dell'articolo 70.
