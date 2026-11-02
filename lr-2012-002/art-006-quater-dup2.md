@@ -1,0 +1,4 @@
+Art. 6 quater.1
+(Interventi di partecipazione in fondi immobiliari)
+1. In attuazione dell'articolo 2, comma 1, lettera g bis), ai fini della modernizzazione e dello sviluppo del sistema ricettivo nel territorio regionale, sono attivati interventi finanziari in forma di partecipazione in fondi immobiliari chiusi per la realizzazione di progetti che contribuiscono alla valorizzazione del patrimonio turistico-alberghiero e alla crescita della competitività dei gestori alberghieri.
+2. Con deliberazione della Giunta regionale è data attuazione alle norme di cui al presente articolo con particolare riferimento alle modalità di individuazione dei fondi immobiliari e di selezione dei gestori, alla determinazione delle linee strategiche di investimento e alla tipologia delle aree destinatarie degli investimenti in virtù del potenziale di attrattività territoriale.

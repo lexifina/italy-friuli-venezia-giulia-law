@@ -1,0 +1,4 @@
+Art. 5 bis
+(Interventi per il salvataggio e la ristrutturazione delle attività produttive)
+1. In attuazione dell'articolo 2, comma 1, lettera f), ai fini del salvataggio e della ristrutturazione delle attività produttive nei settori industriale, artigiano, commerciale, turistico e dei servizi, che versano in situazione di crisi nel territorio regionale, l'Amministrazione regionale è autorizzata ad assegnare a FVG Plus SpA, di cui alla legge regionale 4 marzo 2022, n. 2 (FVG Plus SpA), risorse finanziarie da destinare all'attivazione di interventi finanziari in forma di prestiti e garanzie in conformità alla disciplina vigente in materia di attività economiche.
+2. Gli interventi sono attivati nel rispetto della normativa europea in materia di aiuti di Stato, anche con riferimento agli orientamenti riguardanti gli aiuti alle imprese in difficoltà in base a criteri e modalità stabiliti con regolamento regionale previa attivazione delle procedure di notificazione.
