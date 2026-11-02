@@ -1,0 +1,8 @@
+CAPO V bis
+Svolgimento dei referendum abrogativi e propositivi
+Art. 24 bis
+(Svolgimento dei referendum abrogativi e propositivi)
+1. I referendum di cui ai capi II e V si svolgono una volta all'anno, in una domenica tra aprile e giugno, e sono indetti dal Presidente della Regione, con decreto da emanarsi entro il 28 febbraio.
+2. I referendum si effettuano su tutte le richieste ammesse dalla Commissione di cui all'articolo 4 bis entro il 31 dicembre dell'anno precedente.
+3. Non è ammesso, in un'unica tornata, lo svolgimento di più di cinque referendum.
+4. Se sono state ammesse più richieste, si tiene conto dell'ordine di presentazione delle stesse e i referendum eccedenti i primi cinque vengono differiti all'anno successivo.

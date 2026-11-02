@@ -1,0 +1,3 @@
+Art. 17 bis
+(Proposte di aggregazione comunale nel territorio in cui è tradizionalmente presente la minoranza slovena)
+1. Qualora la proposta di fusione coinvolga Comuni che rientrano nel territorio in cui è tradizionalmente presente la minoranza slovena, definito in base all' articolo 4 della legge 23 febbraio 2001, n. 38 (Norme a tutela della minoranza linguistica slovena della regione Friuli-Venezia Giulia), il Consiglio regionale, prima di adottare la deliberazione di cui all'articolo 17, comma 9, acquisisce il parere del Comitato istituzionale paritetico per i problemi della minoranza slovena di cui all' articolo 3 della legge 38/2001 , che si esprime entro sessanta giorni dalla richiesta. Decorso tale termine, si prescinde dal parere.
