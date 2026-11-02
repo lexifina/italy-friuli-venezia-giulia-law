@@ -1,0 +1,6 @@
+Art. 1 ter
+(Altre emergenze)
+1. Con le disponibilità del Fondo, previa autorizzazione della Giunta regionale su proposta dell'Assessore regionale alle risorse agricole, naturali e forestali, possono essere concessi interventi a titolo di indennizzo anche per danni alle produzioni e per perdite derivanti o causate da eventi diversi da quelli di cui all'articolo 1, comma 2, purché i danni o le perdite indennizzate non siano oggetto di altro tipo di indennizzo o risarcimento che comportino sovra compensazione.
+1 bis. Gli interventi di cui al comma 1 possono prevedere anche iniziative rivolte alla razionalizzazione e all'efficientamento delle produzioni.
+2. Gli interventi di cui al comma 1 vengono attuati ai sensi del regolamento (UE) n. 1408/2013 della Commissione del 18 dicembre 2013, relativo all'applicazione degli articoli 107 e 108 del trattato sul funzionamento dell'Unione europea agli aiuti de minimis nel settore agricolo o del regolamento (UE) n. 717/2014 della Commissione del 27 giugno 2014, relativo all'applicazione degli articoli 107 e 108 del trattato sul funzionamento dell'Unione europea agli aiuti de minimis nel settore della pesca e dell'acquacoltura.
+2 bis. Gli interventi di cui al comma 1 possono essere concessi a organismi associativi collettivi, in nome e per conto dei singoli associati.
