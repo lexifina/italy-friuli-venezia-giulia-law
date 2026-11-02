@@ -1,0 +1,10 @@
+Art. 10 bis
+Contributi per spese di ospitalità presso strutture convittuali
+1. ARDIS concede un contributo forfettario per l'abbattimento delle spese di alloggio in favore dei nuclei familiari residenti in regione con studenti iscritti alle scuole secondarie di secondo grado che alloggiano in strutture convittuali ubicate sul territorio regionale, inclusi convitti nazionali e educandati statali di cui agli articoli 203 e 204 del decreto legislativo 297/1994 e convitti annessi alle scuole statali e paritarie appartenenti al sistema scolastico regionale.
+2. Ai fini della concessione del contributo di cui al comma 1 le linee guida di cui all'articolo 32 bis stabiliscono:
+a) l'importo forfettario del contributo;
+b) il limite massimo dell'ISEE, ai fini dell'ammissibilità del contributo.
+2 bis. A decorrere dall'1 gennaio 2025, i genitori in possesso di certificato di stato vedovile o di dichiarazione sostitutiva di certificazione resa in base all'articolo 46 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445 (Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa), per un periodo massimo di tre anni dal verificarsi della condizione di vedovanza, nonché le madri con figli minori a carico, inserite in un percorso personalizzato di protezione e sostegno all'uscita da situazione di violenza, possono presentare domanda di contributo di cui al comma 1 anche in assenza di attestazione ISEE.
+2 ter. A decorrere dall'1 gennaio 2026 la domanda di contributo può essere presentata anche in assenza di certificazione ISEE, qualora lo studente per il quale viene richiesto sia in possesso di certificazione di disabilità ai sensi della legge 104/1992.
+3. Qualora le risorse disponibili siano inferiori al fabbisogno complessivo, il contributo è proporzionalmente ridotto in misura uguale per tutti i beneficiari.
+3 bis. Il contributo di cui al comma 1 non è cumulabile con analoghi contributi pubblici erogati per le medesime finalità.

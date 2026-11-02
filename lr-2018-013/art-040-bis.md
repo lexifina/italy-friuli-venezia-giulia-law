@@ -1,0 +1,6 @@
+CAPO VI bis
+INTERVENTI A FAVORE DELLE SCUOLE SU TEMATICHE DI RILEVANTE INTERESSE IN AMBITO SCOLASTICO ED EDUCATIVO
+Art. 40 bis
+(Convenzioni)
+1. Al fine di giungere alla realizzazione di interventi a favore delle scuole su tematiche di rilevante interesse in ambito scolastico ed educativo con particolare riferimento ai percorsi di scoperta imprenditoriale e del territorio, all'insegnamento delle lingue e alla eventuale sperimentazione di modelli di insegnamento plurilinguistici, individuate dal Piano di interventi per lo sviluppo dell'offerta formativa di cui all'articolo 33, l'Amministrazione regionale è autorizzata a stipulare convenzioni con l'Ufficio scolastico regionale per il Friuli Venezia Giulia e con le scuole del sistema scolastico regionale in rete, anche in collaborazione con ARDIS, le Università regionali e con gli altri enti pubblici aventi comprovate competenze nelle aree tematiche oggetto della convenzione.
+2. Con deliberazione della Giunta regionale, su proposta dell'Assessore regionale competente in materia di istruzione, sono approvati gli schemi delle convenzioni di cui al comma 1 unitamente alle proposte progettuali. Gli schemi di convenzione contengono i termini di realizzazione degli interventi e l'individuazione delle risorse disponibili.

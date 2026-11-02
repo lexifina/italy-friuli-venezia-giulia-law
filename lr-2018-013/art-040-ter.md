@@ -1,0 +1,4 @@
+Art. 40 ter
+(Convenzioni con le fondazioni bancarie e altri soggetti pubblici o privati senza scopo di lucro)
+1. Al fine di potenziare l'offerta formativa delle scuole del sistema scolastico regionale e di favorire la realizzazione di interventi su tematiche di interesse in ambito scolastico ed educativo mediante un utilizzo ottimale delle risorse pubbliche e private, l'Amministrazione regionale è autorizzata a stipulare convenzioni con le fondazioni bancarie regionali e con altri soggetti del territorio pubblici o privati senza scopo di lucro.
+2. Con deliberazione della Giunta regionale, su proposta dell'Assessore regionale competente in materia di istruzione, sono approvati gli schemi delle convenzioni di cui al comma 1 contenenti l'indicazione degli ambiti tematici e delle tipologie di interventi delle scuole singole o in rete da sostenere in maniera complementare e coordinata da parte dei sottoscrittori.
