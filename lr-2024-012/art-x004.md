@@ -1,0 +1,17 @@
+4. Alla legge regionale 1 dicembre 2017, n. 42 (Disposizioni regionali per la gestione delle risorse ittiche nelle acque interne), sono apportate le seguenti modifiche:
+a)
+la lettera c) del comma 1 dell'articolo 8 è sostituita dalla seguente:
+<<c) il Revisore unico dei conti.>>;
+b)
+l'articolo 14 è sostituito dal seguente:
+<<Art. 14
+(Revisore unico dei conti)
+1. Con deliberazione della Giunta regionale sono nominati il Revisore unico dei conti e il Revisore supplente scelti tra gli iscritti nel registro dei revisori legali.
+2. Il Revisore unico dei conti dura in carica cinque anni e può essere confermato per una sola volta, anche non consecutiva.
+3. Il Revisore unico dei conti esercita la funzione di controllo e, in particolare, svolge i seguenti compiti:
+a) verifica la regolare tenuta della contabilità e la corrispondenza del conto consuntivo alle risultanze delle scritture contabili;
+b) esprime parere sul bilancio preventivo annuale e pluriennale;
+c) accerta almeno ogni semestre la consistenza di cassa.
+4. Il Revisore unico dei conti può in qualsiasi momento chiedere informazioni al Direttore generale e procedere ad atti di ispezione e controllo.
+5. Il Revisore unico dei conti, qualora riscontri gravi irregolarità nella gestione, riferisce immediatamente alla Giunta regionale tramite l'Assessore competente in materia di risorse ittiche.
+6. Il trattamento economico spettante al Revisore unico dei conti e al Revisore supplente è a carico dell'ETPI ed è stabilito nella deliberazione di nomina.>>.
