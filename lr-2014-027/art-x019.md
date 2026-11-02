@@ -1,0 +1,2 @@
+24. Nello stato di previsione della spesa del bilancio pluriennale per gli anni 2015-2017 e del bilancio per l'anno 2015 sono introdotte le variazioni alle unità di bilancio e ai capitoli di cui alla annessa Tabella M.
+25. Nello stato di previsione della spesa del bilancio pluriennale per gli anni 2015-2017 e del bilancio per l'anno 2015 sono introdotte le variazioni alle unità di bilancio e ai capitoli di cui all'annessa Tabella M1 relativa al riallineamento dei contributi pluriennali in vista dell'armonizzazione.
