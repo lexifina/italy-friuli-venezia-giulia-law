@@ -1,0 +1,7 @@
+SEZIONE II
+Agevolazioni territoriali e di categoria
+Art. 3 bis
+(Computo del periodo di riferimento ai fini del regime "de minimis")
+1. Qualora la legge regionale stabilisca riduzioni dell'aliquota IRAP oppure altre forme di agevolazioni fiscali sottoposte al regime "de minimis", ai fini della verifica del rispetto del massimale pertinente e delle regole sul cumulo nel triennio di riferimento:
+a) per gli aiuti fiscali i cui presupposti per la fruizione si sono verificati sino al periodo di imposta in corso alla data del 31 dicembre 2017 compreso, il beneficio deve intendersi concesso alla chiusura del periodo di imposta considerato, ancorché il contribuente si sia avvalso della riduzione di aliquota in sede di acconto;
+b) per gli aiuti fiscali i cui presupposti per la fruizione si verificano dal periodo di imposta successivo a quello in corso alla data del 31 dicembre 2017, il beneficio deve intendersi concesso, in ossequio a quanto disposto dall'articolo 10 del decreto ministeriale 31 maggio 2017, n. 115 (Regolamento recante la disciplina per il funzionamento del Registro nazionale degli aiuti di Stato, ai sensi dell' articolo 52, comma 6, della legge 24 dicembre 2012, n. 234 e successive modifiche e integrazioni), alla data di registrazione dell'aiuto fiscale nel Registro nazionale aiuti, da effettuarsi nell'esercizio finanziario successivo a quello di presentazione della dichiarazione fiscale nella quale l'aiuto è dichiarato.
