@@ -1,0 +1,3 @@
+Art. 2 bis
+(Funzioni sanzionatorie dirette)
+1. Le funzioni per l'applicazione delle sanzioni amministrative di natura pecuniaria e accessoria spettanti alla Regione Friuli Venezia Giulia in materia di pesca nelle acque interne sono esercitate dalla Regione tramite l'Ente Tutela Pesca del Friuli Venezia Giulia, al bilancio del quale fanno capo gli introiti delle sanzioni stesse. Conseguentemente ogni riferimento di leggi nazionali e regionali e loro regolamenti riguardanti la materia delle sanzioni amministrative per la pesca in acque interne del Friuli Venezia Giulia si intende attribuito all'Ente Tutela Pesca del Friuli Venezia Giulia.
