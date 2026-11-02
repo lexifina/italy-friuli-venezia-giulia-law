@@ -1,0 +1,1 @@
+2. Gli oneri derivanti dall'applicazione del disposto di cui all'articolo 54 della legge regionale 7/2010, come sostituito dal comma 1, fanno carico all'unità di bilancio 8.6.1.1149 e al capitolo 5793 dello stato di previsione della spesa del bilancio pluriennale per gli anni 2010-2012 e del bilancio per l'anno 2010.

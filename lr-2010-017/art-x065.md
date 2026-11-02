@@ -1,0 +1,5 @@
+d)
+prima dell'articolo 28 è inserito il seguente:
+<<Art. 28 ante
+(Fissazione termini)
+1. I termini di presentazione dei progetti relativi a interventi la cui realizzazione è stata affidata in delegazione amministrativa intersoggettiva ai Consorzi di bonifica nel corso degli anni 2007 e 2008 sono fissati al 31 dicembre 2013.>>.

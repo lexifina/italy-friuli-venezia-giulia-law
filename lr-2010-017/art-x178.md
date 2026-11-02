@@ -1,0 +1,1 @@
+2. Gli oneri derivanti dall'applicazione del disposto di cui al comma 1 fanno carico all'unità di bilancio 5.1.2.1090 e al capitolo 5675 dello stato di previsione della spesa del bilancio pluriennale per gli anni 2010-2012 e del bilancio per l'anno 2010.

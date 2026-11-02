@@ -1,0 +1,1 @@
+2. I procedimenti relativi alle autorizzazioni di cui all'articolo 5 bis, comma 1, come inserito dal comma 1, lettera a), pendenti alla data dell'1 novembre 2010, sono conclusi dalla Direzione centrale competente in materia di salute.
