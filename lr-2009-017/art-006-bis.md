@@ -1,0 +1,5 @@
+Art. 6 bis
+(Affidamento e subingresso nella concessione)
+1. Il concessionario, previa autorizzazione dell'Amministrazione regionale, può affidare ad altri soggetti la gestione parziale delle attività oggetto della concessione.
+2. Nei casi previsti all'articolo 14, comma 2, lettera a), il concessionario, previa autorizzazione dell'Amministrazione regionale, per il miglior perseguimento delle finalità di pubblico interesse che motivano la gratuità della concessione, può affidare a soggetti senza scopo di lucro la gestione totale o parziale delle attività oggetto della concessione stessa.
+3. Il concessionario, previa autorizzazione dell'Amministrazione regionale, può sostituire altri nel godimento della concessione.
