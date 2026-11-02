@@ -1,0 +1,1 @@
+2. I regolamenti regionali adottati in attuazione della normativa richiamata dall'articolo 14 bis, comma 1, della legge regionale 26/2005, come inserito dal comma 1, sono adeguati entro sessanta giorni dall'entrata in vigore della presente legge.
