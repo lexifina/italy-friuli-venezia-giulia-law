@@ -1,0 +1,7 @@
+2. Gli accordi di programma vigenti, a suo tempo stipulati ai sensi dell'articolo 10 della legge regionale 9 marzo 1988, n. 10, si intendono riferiti all'articolo 6 della legge regionale 7/1981, come sostituito dal comma 1.
+3. La Regione trasferisce alle Province, ai sensi dell'articolo 6, comma 4, della legge regionale 7/1981, come sostituito dal comma 1, i mezzi finanziari iscritti negli stanziamenti del bilancio regionale corrispondenti agli interventi da realizzare che sono previsti negli accordi di programma vigenti, a suo tempo stipulati con le Province.
+4. Sono abrogati:
+a) l'articolo 5 della legge regionale 19 agosto 1996, n. 31, come modificato dall'articolo 1, comma 1, della legge regionale 29/1999;
+b) al comma 14 dell'articolo 1 della legge regionale 8 aprile 1997, n. 10, le parole <<e con le modalità>>;
+c) i commi 15, 18 e 19 dell'articolo 1 della legge regionale 10/1997.
+5. In relazione al disposto di cui ai commi 1 e 2, nell'ambito dell'unità previsionale di base 1.2.7.2.10 dello stato di previsione della spesa del bilancio pluriennale per gli anni 2002-2004 e del bilancio per l'anno 2002 la denominazione del capitolo 850 del documento tecnico allegato ai bilanci medesimi è così sostituita: <<Finanziamento straordinario di investimenti pubblici per opere e infrastrutture nell'ambito di speciali accordi di programma da stipularsi con le Province ai sensi dell'articolo 6 della legge regionale 7/1981, come sostituito dall'articolo 1, comma 1, della legge regionale 13 maggio 2002, n. 13 - ricorso al mercato finanziario>>.
