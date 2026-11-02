@@ -1,0 +1,4 @@
+3.
+Il comma 1 dell'articolo 54 della legge regionale 12/2002 è sostituito dal seguente:
+<<1. Al fine di promuovere l'artigianato artistico, tradizionale e dell'abbigliamento su misura nei centri urbani, l'Amministrazione regionale è autorizzata a concedere alle imprese artigiane, operanti in tali settori, incentivi in forma di contributo in conto capitale.>>.
+4. Gli oneri derivanti dal disposto di cui al comma 1 dell'articolo 54 della legge regionale 12/2002, come sostituito dal comma 3, fanno carico all'unità previsionale di base 13.1.63.2.338 dello stato di previsione della spesa del bilancio pluriennale per gli anni 2003-2005 e del bilancio per l'anno 2003, con riferimento al capitolo 8653 del documento tecnico allegato ai bilanci medesimi, nella cui denominazione dopo le parole <<artigianato artistico>> sono inserite le seguenti: <<, tradizionale e dell'abbigliamento su misura>>.

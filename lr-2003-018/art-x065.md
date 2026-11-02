@@ -1,0 +1,1 @@
+2. Le domande di iscrizione all'albo di guida speleologica-maestro di speleologia, di cui all'articolo 130 della legge regionale 2/2002, come sostituito dal comma 1, devono essere presentate entro il termine perentorio di tre mesi dalla data di entrata in vigore della presente legge.
