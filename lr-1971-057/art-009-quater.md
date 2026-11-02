@@ -1,0 +1,5 @@
+CAPO II quater
+Utilizzo di beni immobili di terzi
+Art. 9 quater
+(Utilizzo di beni immobili di terzi)
+1. Qualora l'Amministrazione regionale, per il perseguimento delle proprie finalità istituzionali, abbia la necessità di utilizzare beni immobili di terzi, la Direzione regionale competente in materia di patrimonio, provvede, su richiesta degli uffici interessati, a stipulare un contratto di concessione, locazione, affitto o comodato secondo le esigenze indicate, previa deliberazione della Giunta regionale qualora l'utilizzo dei predetti beni immobili di terzi richieda una ricerca sul mercato.
