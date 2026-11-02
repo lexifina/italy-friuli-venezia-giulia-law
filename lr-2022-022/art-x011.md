@@ -1,0 +1,20 @@
+31. Per le finalità previste dall' articolo 15 ter della legge regionale 13/2018 , come inserito dal comma 30, è destinata la spesa complessiva di 180.000 euro, suddivisa in ragione di 60.000 euro per ciascuno degli anni 2023, 2024 e 2025, a valere sulla Missione n. 4 (Istruzione e diritto allo studio) - Programma n. 7 (Diritto allo studio) - Titolo n. 1 (Spese correnti) dello stato di previsione della spesa del bilancio per gli anni 2023-2025, con riferimento alla corrispondente variazione prevista dalla Tabella G di cui al comma 86.
+32.
+Dopo il comma 3 dell'articolo 36 bis della legge regionale 13/2018 , sono aggiunti i seguenti:
+<<3 bis. Per il raggiungimento delle finalità di cui al comma 1, l'Amministrazione regionale sostiene la formazione dei docenti delle scuole, gli studi e le ricerche e realizza monitoraggi e analisi degli interventi regionali in materia.
+3 ter. Per lo svolgimento delle attività di cui al comma 3 bis l'Amministrazione regionale è autorizzata ad avvalersi della collaborazione di soggetti pubblici o privati con cui stipula apposite convenzioni. I soggetti privati sono selezionati nella piena osservanza dei principi comunitari di parità di trattamento, non discriminazione, proporzionalità, mutuo riconoscimento e trasparenza.>>.
+33. Per le finalità previste dall' articolo 36 bis della legge regionale 13/2018 , come modificato dal comma 32, è destinata la spesa di 60.000 euro per l'anno 2023 a valere sulla Missione n. 4 (Istruzione e diritto allo studio), Programma n. 6 (Servizi ausiliari all'istruzione) - Titolo n. 1 (Spese correnti) dello stato di previsione della spesa del bilancio per gli anni 2023-2025, con riferimento alla corrispondente variazione prevista dalla Tabella G di cui al comma 86.
+34.
+Dopo l' articolo 36 quater della legge regionale 13/2018 è inserito il seguente:
+<<Art. 36 quinquies
+(Promozione attività musicale nelle scuole)
+1. Al fine di sostenere e rafforzare le iniziative volte alla promozione dell'attività didattica musicale nelle scuole primarie del Friuli Venezia Giulia, l'Amministrazione regionale è autorizzata a concedere, per il tramite di ANBIMA Fvg e di USCI Fvg, contributi alle bande musicali e ai cori del Friuli Venezia Giulia per lo svolgimento di corsi di educazione musicale nelle classi delle scuole primarie del sistema scolastico regionale, in convenzione o accordo con i singoli istituti scolastici.
+2. Con deliberazione della Giunta regionale è effettuato il riparto delle risorse da assegnare ad ANBIMA Fvg e ad USCI Fvg.
+3. ANBIMA Fvg e USCI Fvg effettuano il riparto delle risorse assegnate a favore delle bande musicali e dei cori del Friuli Venezia Giulia sulla base dei criteri di cui ai successivi commi.
+4. Il contributo è richiesto dalla singola banda musicale o dal singolo coro ad ANBIMA Fvg e ad USCI Fvg entro il 31 ottobre di ogni anno.
+5. Il riparto è effettuato da ANBIMA Fvg e da USCI Fvg entro trenta giorni dalla data di scadenza di presentazione delle domande sulla base delle risorse spettanti a ciascuna banda musicale e a ciascun coro.
+6. A ciascuna banda musicale o coro è concesso un contributo nella misura massima di 3.000 euro. Qualora le risorse disponibili siano inferiori al fabbisogno complessivo il contributo è proporzionalmente ridotto in misura uguale per tutti i beneficiari.
+7. Fino al 5 per cento dell'ammontare complessivo del contributo viene riservato per le attività amministrative di riparto e di rendicontazione.
+8. Sono ammissibili a finanziamento le spese per noleggio di strumenti e attrezzature musicali, materiale di consumo e materiale didattico, compensi e prestazioni di collaborazione per docenze.
+9. I contributi previsti per le finalità di cui al comma 1 sono cumulabili con altre forme contributive concesse da soggetti pubblici e privati per le medesime attività, purché il totale dei benefici economici non superi il totale delle spese complessivamente sostenute per la realizzazione dei corsi di educazione musicale.
+10. ANBIMA Fvg e USCI Fvg rendicontano le spese sostenute dalle bande musicali e dai cori secondo le modalità e i termini indicati nel decreto di concessione.>>.
