@@ -1,0 +1,3 @@
+3.
+Il comma 1 dell'articolo 19 della legge regionale 12/2021 è sostituito dal seguente:
+<<1. Al fine di garantire un'adeguata e aggiornata conoscenza dei servizi attivi sul territorio regionale e rispondenti ai principi di cui alla presente legge, presso la Direzione centrale regionale competente in materia di politiche sociali è istituito l'elenco regionale delle strutture antiviolenza, suddiviso in cinque sezioni relative ai Centri antiviolenza, alle Case rifugio, alle Case di semiautonomia, ai Centri per autori di violenza e agli sportelli antiviolenza e altri servizi di supporto alle donne.>>.
