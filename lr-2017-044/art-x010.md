@@ -1,0 +1,15 @@
+b)
+dopo l'articolo 17 è inserito il seguente:
+<<Art. 17 bis
+(Principi organizzativi del Servizio sociale dei Comuni)
+1. Con regolamento approvato dall'Assemblea di cui all'articolo 20 è disciplinata l'organizzazione del Servizio sociale dei Comuni nel rispetto delle disposizioni del presente articolo e degli ulteriori standard stabiliti dalla Regione, al fine di assicurare sul territorio regionale uniformità nei livelli minimi di offerta e omogeneità di risposta ai bisogni della popolazione.
+2. Il Servizio sociale dei Comuni garantisce l'informazione, l'orientamento e l'accesso agli interventi e ai servizi del sistema integrato con la presenza diffusa sul territorio della gestione associata del servizio di Segretariato sociale e del Servizio sociale professionale.
+3. Il Servizio sociale dei Comuni garantisce sul territorio della gestione associata una presenza numerica di operatori professionali adeguata agli standard stabiliti dalla Regione. In particolare è prevista la presenza di almeno un assistente sociale ogni 3.000 abitanti, che le Unioni territoriali intercomunali garantiscono con utilizzo degli spazi assunzionali disponibili e con ricorso ad affidamenti esterni.
+4. Ai fini del comma 3, l'Assemblea di cui all'articolo 20, in sede di programmazione delle risorse assegnate dalla Regione a valere sul Fondo sociale regionale ai sensi dell'articolo 39, comma 3, destina in via prioritaria la quota di risorse utile al conseguimento degli standard previsti, dandone comunicazione alla Regione.
+5. Il Servizio sociale dei Comuni è diretto da un Responsabile, con compiti di coordinamento e raccordo funzionale, organizzativo e gestionale del Servizio ed è articolato in modo da assicurare:
+a) il supporto alla pianificazione e la progettazione locale del sistema integrato, mediante attività di elaborazione, monitoraggio, controllo e valutazione delle attività, degli interventi e dei servizi sociali;
+b) il presidio professionale e il coordinamento delle attività, degli interventi e dei servizi sociali per aree di utenza, con particolare riguardo a minori e famiglia, soggetti a rischio di esclusione sociale e persone con disabilità o non autosufficienti;
+c) il presidio amministrativo e finanziario-contabile delle attività, degli interventi e dei servizi sociali;
+d) il supporto informativo alle attività di cui alla lettera a) e il soddisfacimento dei fabbisogni informativi locali, regionali e nazionali, ottimizzando l'impiego dei sistemi informativi in uso.
+6. Il supporto tecnico all'Assemblea e alla Commissione di cui all'articolo 20 è assicurato da un ufficio di direzione, programmazione e controllo, presieduto dal Responsabile del Servizio sociale dei Comuni e composto dai referenti delle articolazioni previste ai sensi del comma 5.
+7. Costituiscono requisiti per la nomina a Responsabile del Servizio sociale dei Comuni: il possesso del diploma di laurea almeno quadriennale o l'iscrizione alla sezione A dell'albo professionale dell'Ordine degli assistenti sociali, nonché l'aver svolto attività direttiva o di coordinamento per un periodo non inferiore a cinque anni nel settore socioassistenziale.>>.
