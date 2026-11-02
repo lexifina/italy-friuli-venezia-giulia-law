@@ -1,0 +1,77 @@
+2. Per le finalità previste dall' articolo 39 della legge regionale 13/2014 , come sostituito dal comma 1, è destinata, relativamente alle spese di parte corrente, la spesa complessiva di 68.510 euro, suddivisa in ragione di 20.000 euro per l'anno 2019, di 40.980 euro per l'anno 2020 e di 7.530 euro per l'anno 2021, a valere sulla Missione n. 1 (Servizi istituzionali, generali e di gestione) - Programma n. 8 (Statistica e sistemi informativi) - Titolo n. 1 (Spese corrente) dello stato di previsione della spesa del bilancio per gli anni 2019-2021 e, relativamente alle spese in conto capitale, la spesa di 30.126 euro per l'anno 2021 a valere sulla Missione n. 1 (Servizi istituzionali, generali e di gestione) - Programma n. 8 (Statistica e sistemi informativi) - Titolo n. 2 (Spese in conto capitale) dello stato di previsione della spesa del bilancio per gli anni 2019-2021, con riferimento alla corrispondente variazione prevista dalla Tabella E di cui al comma 40.
+3.
+Alla Tabella R " Concertazione investimenti di sviluppo UTI e comuni non in UTI - anni 2019-2021 ", relativa all' articolo 10, comma 69, della legge regionale 28 dicembre 2018, n. 29 (Legge di stabilità 2019), per l'intervento di investimento di edilizia scolastica " Intervento Istituto Bachmann di Tarvisio " riportato al numero progressivo 108, l'ente beneficiario viene modificato da UTI del Friuli centrale a Comune di Tarvisio.
+4. In via transitoria, i titolari delle domande presentate per iniziative di acquisto e contestuale recupero di cui all' articolo 18, comma 1, della legge regionale 19 febbraio 2016, n. 1 (Riforma organica delle politiche abitative e riordino delle Ater), in data antecedente all'entrata in vigore del regolamento di attuazione delle disposizioni introdotte dall' articolo 8 della legge regionale 29 aprile 2019, n. 6 (Misure urgenti per il recupero della competitività regionale), non già oggetto di archiviazione, possono modificare l'iniziativa indicata nella domanda medesima in iniziativa di acquisto, anche se già intervenuto, su specifica istanza da presentare entro il termine perentorio di novanta giorni dalla data di entrata in vigore della presente legge.
+5. Il contributo per le domande interessate dalla modifica di cui al comma 4 è concesso ed erogato con le modalità e per l'importo previsto per le iniziative di solo acquisto, purché alla data di acquisizione della proprietà l'immobile possieda i requisiti di abitabilità o agibilità.
+6.
+Prima del comma 73 bis dell'articolo 7 della legge regionale 10 novembre 2017, n. 37 (Disposizioni urgenti in materia di programmazione e contabilità), è inserito il seguente:
+<<73.1 Con riferimento agli interventi previsti ai commi da 36 a 42 e da 71 a 74 sono altresì ammessi a contributo lavori ulteriori, accessori e di completamento, finalizzati agli interventi sugli immobili individuati dalle norme citate.>>.
+7. Per le finalità di cui all'articolo 7, comma 73.1, come inserito dal comma 6, si provvede a valere sullo stanziamento della Missione n. 5 (Tutela e valorizzazione dei beni e attività culturali) - Programma n. 2 (Attività culturali e interventi diversi nel settore culturale) - Titolo n. 2 (Spese in conto capitale) dello stato di previsione della spesa del bilancio per gli anni 2019-2021.
+8. All' articolo 5 della legge regionale 28 dicembre 2017, n. 45 (Legge di stabilità 2018), sono apportate le seguenti modifiche:
+a)
+al comma 8 le parole << relativa all'esecuzione di tali opere o di studi di fattibilità tecnico-economica finalizzati al recupero, ove già individuato >> sono sostituite dalle seguenti: << , di redazione di studi di fattibilità tecnico-economica e per ulteriori spese tecniche, generali e di collaudo necessarie all'esecuzione di tali opere >>;
+b)
+al comma 9 dopo le parole << Direzione centrale infrastrutture e territorio >> sono inserite le seguenti: << , entro il 30 settembre di ogni anno. Rimangono valide tutte le domande pervenute entro il termine del 30 settembre 2019 >>;
+c)
+dopo il comma 9 è aggiunto il seguente:
+<<9 bis. Le domande presentate dopo il termine previsto al comma 9 sono archiviate.>>;
+d)
+al comma 10 le parole << di progettazione >> sono soppresse;
+e)
+il comma 11 è sostituito dal seguente:
+<<11. Le domande di contributo, contenenti l'indicazione del costo per gli incarichi e l'impegno dell'Ente all'affidamento degli stessi entro il termine di cui al comma 10, sono corredate di una relazione illustrativa relativa allo stato delle aree e degli edifici per i quali si chiede il finanziamento.>>;
+f)
+dopo il comma 13 è inserito il seguente:
+<<13 bis. Nel caso di interventi finanziati con fondi regionali da realizzarsi a cura degli Enti locali, le spese destinate a garantire la sicurezza degli utenti e gli apprestamenti necessari a dare continuità allo svolgimento dei servizi pubblici che risultino pregiudicati a causa dell'esecuzione dei lavori, trovano copertura nel quadro economico dell'opera, nei limiti strettamente necessari alla messa in esercizio delle strutture.>>.
+9. Per le finalità previste dall' articolo 5, comma 8, della legge regionale 45/2017 , come modificato dal comma 8, lettera a), si provvede a valere sullo stanziamento della Missione n. 8 (Assetto del territorio ed edilizia abitativa) - Programma n. 1 (Urbanistica e assetto del territorio) - Titolo n. 1 (Spese correnti) dello stato di previsione della spesa del bilancio per gli anni 2019-2021.
+10.
+Al comma 3 dell'articolo 50 della legge regionale 31 maggio 2002, n. 14 (Disciplina organica dei lavori pubblici), le parole << , inquadrato in categoria D >> sono soppresse.
+11. L'Amministrazione regionale è autorizzata a concedere alla parrocchia di San Lorenzo martire di Forgaria nel Friuli un finanziamento per il completamento della ricostruzione del campanile della chiesa di San Nicolò distrutto dagli eventi sismici del 1976, in Forgaria nel Friuli.
+12. Per conseguire il finanziamento di cui al comma 11 il legale rappresentante della parrocchia interessata presenta domanda alla Direzione centrale infrastrutture e territorio, Servizio lavori pubblici, infrastrutture di trasporto e comunicazione, entro sessanta giorni dalla data di entrata in vigore della presente legge.
+13. Per l'istruttoria della domanda, la concessione e l'erogazione del finanziamento di cui al comma 11 trovano applicazione, in quanto compatibili, le disposizioni procedurali relative alle opere di cui all' articolo 75, terzo comma, della legge regionale 23 dicembre 1977, n. 63 (Norme procedurali e primi interventi per l'avvio dell'opera di risanamento e di ricostruzione delle zone colpite dal sisma, nei settori dell'urbanistica, dell'edilizia e delle opere pubbliche), e successive modifiche e integrazioni.
+14. Per la finalità prevista dal comma 11 è destinata la spesa di 110.680,98 euro per l'anno 2019 a valere sulla Missione n. 8 (Assetto del territorio ed edilizia abitativa) - Programma n. 1 (Urbanistica e assetto del territorio) - Titolo n. 2 (Spese in conto capitale) dello stato di previsione della spesa del bilancio per gli anni 2019-2021, con riferimento alla corrispondente variazione prevista dalla Tabella A1 di cui all'articolo 1, comma 2.
+15. L'Amministrazione regionale, al fine di favorire la realizzazione di lavori pubblici, è autorizzata a confermare il finanziamento decennale costante di 80.000 euro annui e il contributo in conto capitale di 413.165,52 euro, destinati con decreto 20 ottobre 2009, n. 2130/ALP/4 ai lavori di restauro e ricomposizione della torre dell'orologio del castello di Gemona del Friuli, già concessi e interamente erogati con decreto n. 2588 del 2004, autorizzando il Comune di Gemona all'utilizzo delle economie contributive conseguite nella realizzazione dell'opera, per i lavori di valorizzazione di via Altaneto, volti a consentire una più estesa praticabilità e visitabilità del compendio del castello anche in termini di attrattività turistica.
+16. Per le finalità previste dal comma 15 il Comune inoltra al Servizio edilizia della Direzione centrale infrastrutture e territorio, entro sessanta giorni dalla data di entrata in vigore della presente legge, un'istanza corredata di una relazione illustrativa contenente il quadro economico aggiornato riferito all'intervento originario e quello relativo all'intervento autorizzato dal comma 15, nonché di un cronoprogramma comprensivo delle fasi di progettazione e di esecuzione dei nuovi lavori. Con il decreto di conferma del contributo sono fissati i termini di esecuzione dell'intervento e di rendicontazione della spesa.
+17.
+Al comma 16 dell'articolo 5 della legge regionale 9 agosto 2018, n. 20 (Assestamento del bilancio per gli anni 2018-2020), dopo le parole << per gli anni 2018-2019 >> sono inserite le seguenti: << -2020 >>.
+18. Per le finalità previste dall' articolo 5, comma 16, della legge regionale 20/2018 , come modificato dal comma 17, si provvede a valere sullo stanziamento della Missione n. 8 (Assetto del territorio ed edilizia abitativa) - Programma n. 1 (Urbanistica e assetto del territorio) - Titolo n. 2 (Spese in conto capitale) dello stato di previsione della spesa del bilancio per gli anni 2019-2021.
+19. All' articolo 12 della legge regionale 15 ottobre 2009, n. 17 (Disciplina delle concessioni e conferimento di funzioni in materia di demanio idrico regionale), sono apportate le seguenti modifiche:
+a)
+dopo il comma 1.1 quater è inserito il seguente:
+<<1.1 quinquies. In seguito a positiva valutazione di incidenza ecologica da parte dell'autorità competente, le fattispecie di cui al comma 1.1 sono autorizzate nelle aree di cui al comma 1 interessate, anche parzialmente, da attività militari che utilizzino veicoli a motore.>>;
+b)
+al comma 1.2 dopo le parole << superiori a 50 chilometri. >> è aggiunto il seguente periodo: << Nelle autorizzazioni di cui al comma 1.1 quinquies i canoni sono aumentati del 20 per cento. >>.
+20.
+( ABROGATO )
+21. L'Amministrazione regionale è autorizzata a concedere contributi finalizzati a interventi edilizi di particolare pregio architettonico in zone A e B0 o in aree o singoli edifici alle stesse assimilate entro la misura massima dell'80 per cento del costo complessivo dell'intervento, ferma restando la disciplina in materia di aiuti di Stato.
+22. Con apposito regolamento sono definiti i criteri e le modalità di assegnazione del finanziamento, nonché la costituzione di apposita Commissione per la valutazione degli interventi finanziabili, la cui composizione è definita con deliberazione della Giunta regionale, con la presenza necessaria di un membro designato dalla locale Soprintendenza. Il parere favorevole della Commissione ha effetto di variante rispetto alla strumentazione urbanistica comunale qualora vi sia il previo parere favorevole del Sindaco del Comune in cui ricade l'intervento proposto, su conforme determinazione del Consiglio comunale. In tale caso l'intervento opera in deroga alle eventuali prescrizioni tipologico-architettoniche o di abaco previste dal regolamento edilizio comunale.
+23. Per le finalità previste dal comma 21 è destinata la spesa di 6 milioni di euro per l'anno 2019 e a valere sulla Missione n. 8 (Assetto del territorio ed edilizia abitativa) - Programma n. 1 (Urbanistica e assetto del territorio) - Titolo n. 2 (Spese in conto capitale) dello stato di previsione della spesa del bilancio per gli anni 2019-2021, con riferimento alla corrispondente variazione prevista dalla Tabella E di cui al comma 40.
+24. Per le finalità di cui al comma 22 si provvede a valere sullo stanziamento della Missione n. 10 (Trasporti e diritto alla mobilità) - Programma n. 5 (Viabilità e infrastrutture stradali) - Titolo n. 1 (Spese correnti) dello stato di previsione della spesa del bilancio per gli anni 2019-2021.
+25.
+( ABROGATO )
+26.
+( ABROGATO )
+26 bis.
+( ABROGATO )
+26 ter.
+( ABROGATO )
+27.
+( ABROGATO )
+28.
+( ABROGATO )
+29.
+( ABROGATO )
+30.
+( ABROGATO )
+31.
+( ABROGATO )
+32.
+( ABROGATO )
+33. Al fine di consentire al Comune di Duino Aurisina di perfezionare la convenzione con il Consorzio di sviluppo industriale monfalconese per la delegazione amministrativa intersoggettiva diretta alla realizzazione di opere infrastrutturali a favore dello sviluppo produttivo, prodotti ittici, in particolare mitili, e turistico del Villaggio del Pescatore per le quali il Comune ha già ottenuto il finanziamento PO FEAMP di 450.000 euro, l'Amministrazione regionale è autorizzata a concedere al Comune di Duino Aurisina le risorse necessarie per provvedere alla copertura dei costi relativi alle spese proprie per le attività tecniche e di stazione appaltante non coperte all'interno del quadro economico dell'opera.
+34. Ai fini di cui al comma 33 il Comune di Duino Aurisina presenta alla struttura regionale competente in materia di infrastrutture e territorio, entro quarantacinque giorni dalla data di entrata in vigore della presente legge, l'istanza volta a ottenere il contributo corredata di una relazione illustrativa e di un preventivo di spesa per i costi da sostenere. Con il provvedimento di concessione sono stabilite le modalità di rendicontazione.
+35. Per le finalità di cui al comma 33 è destinata la spesa di 47.000 euro per l'anno 2019 a valere sulla Missione n. 8 (Assetto del territorio ed edilizia abitativa) - Programma n. 1 (Urbanistica e assetto del territorio) - Titolo n. 1 (Spese correnti) dello stato di previsione della spesa del bilancio per gli anni 2019-2021, con riferimento alla corrispondente variazione prevista dalla Tabella E di cui al comma 40.
+36. L'Amministrazione regionale è autorizzata a concedere all'Università di Udine, Dipartimento politecnico di ingegneria e architettura, un contributo per la prosecuzione delle attività di ricerca sulla resilienza ai terremoti svolta dal laboratorio SPRINT in partnership con l'Unesco.
+37. La domanda per la concessione del contributo di cui al comma 36 è presentata entro trenta giorni dalla data di entrata in vigore della presente legge alla Direzione centrale competente in materia di protezione civile, corredata della descrizione delle attività da realizzare, del preventivo di spesa e della richiesta di eventuale anticipo fino all'intero importo del contributo. Il contributo è concesso entro sessanta giorni dalla data di presentazione della domanda. Con il decreto di concessione del contributo sono stabiliti i termini di rendicontazione e la concessione di anticipi su eventuale richiesta del beneficiario.
+38. La rendicontazione è effettuata con le modalità di cui all' articolo 43 della legge regionale 7/2000 esclusivamente in relazione all'utilizzo delle somme percepite a titolo di contributo. Sono ammissibili a rendiconto le spese sostenute dall'1 gennaio dell'anno in cui è concesso il contributo.
+39. Per le finalità di cui al comma 36 è destinata la spesa complessiva di 30.000 euro, suddivisa in ragione di 15.000 euro per ciascuno degli anni 2019 e 2020, a valere sulla Missione n. 11 (Soccorso civile) - Programma n. 2 (Interventi a seguito di calamità naturali) - Titolo n. 1 (Spese correnti) dello stato di previsione della spesa del bilancio per gli anni 2019-2021, con riferimento alla corrispondente variazione prevista dalla Tabella E di cui al comma 40.
+40. Ai sensi dell' articolo 4, comma 3, della legge regionale 26/2015 , sono disposte le variazioni relative alle Missioni e ai Programmi dello stato di previsione della spesa del bilancio per gli anni 2019-2021 di cui all'allegata Tabella E.
