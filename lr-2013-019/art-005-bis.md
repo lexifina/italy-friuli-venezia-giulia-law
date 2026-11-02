@@ -1,0 +1,7 @@
+Art. 5 bis
+(Proroga degli organi comunali in caso di avvio del processo per la fusione di comuni)
+1. In deroga a quanto previsto dall'articolo 5, comma 1, l'elezione del sindaco e del consiglio comunale non si svolge nei comuni per i quali alla data del 24 febbraio dell'anno di scadenza del mandato il Consiglio regionale abbia deliberato il referendum consultivo per la fusione del comune con comuni contigui, in seguito all'iniziativa presentata ai sensi dell'articolo 17, comma 5, della legge regionale 7 marzo 2003, n. 5 (Articolo 12 dello Statuto della Regione Autonoma Friuli Venezia Giulia. Norme relative alla richiesta, indizione e svolgimento dei referendum abrogativo, propositivo e consultivo e all'iniziativa popolare delle leggi regionali). Il referendum consultivo previsto dall' articolo 17, comma 8 sexies, della legge regionale 5/2003 deve aver luogo entro il 31 luglio dell'anno di scadenza del mandato.
+2. La legge provvedimento prevista dall' articolo 20 della legge regionale 5/2003 dispone la nascita del nuovo comune al 1° gennaio dell'anno successivo e gli organi dei comuni previsti al comma 1 restano in carica fino al 31 dicembre dell'anno di scadenza del mandato.
+3. Nel caso in cui non si giunga alla fusione dei comuni si procede al rinnovo degli organi dei comuni previsti al comma 1 in una domenica compresa tra il 1° ottobre e il 15 dicembre dell'anno di scadenza del mandato.
+3 bis.
+( ABROGATO )
