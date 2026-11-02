@@ -1,0 +1,3 @@
+Art. 150 bis
+(Istituzione del primo registro degli istruttori accreditati)
+1. In sede di prima applicazione delle disposizioni relative al registro degli istruttori accreditati di cui all'articolo 145, possono richiedere l'iscrizione al registro coloro che sono in possesso del titolo abilitante all'esercizio dell'attività di soccorritore, pattugliatore e coordinatore di stazione che abbiano svolto attività formativa come istruttori in almeno un corso per soccorritori, pattugliatori o coordinatori di stazione nei quattro anni precedenti la data di istituzione del registro degli istruttori accreditati, allegando alla richiesta una dichiarazione sostitutiva di certificazione e di atto di notorietà da cui risulti il possesso dei requisiti richiesti.
