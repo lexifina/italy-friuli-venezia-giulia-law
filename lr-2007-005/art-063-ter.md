@@ -1,0 +1,12 @@
+Art. 63 ter
+(Validità temporale e salvaguardia degli strumenti urbanistici generali comunali e loro varianti di cui all'articolo 63 bis)
+1. Gli strumenti urbanistici generali e le loro varianti formati ai sensi dell'articolo 63 bis hanno durata indeterminata ed entrano in vigore, a seconda dei casi, il giorno successivo alla pubblicazione sul Bollettino Ufficiale della Regione:
+a) della deliberazione di approvazione del Consiglio comunale di cui all'articolo 63 bis, comma 14;
+b) dell'estratto della deliberazione della Giunta regionale di conferma di ese-cutività di cui all'articolo 63 bis, comma 16;
+c) dell'avviso del decreto del Presidente della Regione di cui all'articolo 63 bis, comma 18.
+2. Agli strumenti urbanistici generali formati ai sensi dell'articolo 63 bis si applica l'articolo 20 in materia di salvaguardia, nel termine massimo di due anni. Il Consiglio comunale, in sede di adozione delle direttive di cui all'articolo 63 bis, comma 8, può prevedere che sia adottata analoga sospensione per gli interventi che siano in contrasto con le direttive suddette. In tal caso alla deliberazione del Consiglio comunale deve essere allegato idoneo elaborato grafico con l'indicazione delle aree soggette a regime di salvaguardia.
+2 bis. La sospensione di cui al comma 2 per le direttive adottate ai sensi dell'articolo 63 bis, comma 8, può essere prorogata di un anno.
+3. Ai PRPC si applica la salvaguardia di cui al comma 2.
+4. La salvaguardia non trova applicazione relativamente ai contenuti previsti dall'articolo 63 bis, comma 7, lettera a), numero 2).
+5. Agli strumenti urbanistici generali formati ai sensi dell'articolo 63 bis si applica l'articolo 23 in materia di decadenza dei vincoli.
+6. Nelle aree assoggettate a PRPC, nelle quali i vincoli e i limiti edificatori posti dalle norme di piano perdano efficacia per mancata adozione entro cinque anni dall'entrata in vigore del piano medesimo dei relativi piani attuativi, precedentemente all'adozione delle varianti di cui all'articolo 23 è consentita l'adozione di PRPC, purché tali strumenti prevedano le attrezzature e i servizi necessari alle esigenze dei soggetti insediabili nelle aree interessate o sia dimostrato il soddisfacimento di tali esigenze dai servizi e dalle attrezzature pubbliche eventualmente esistenti, con l'osservanza delle prescrizioni di zona e degli indici edilizi previsti dalle norme di attuazione dello strumento urbanistico generale.

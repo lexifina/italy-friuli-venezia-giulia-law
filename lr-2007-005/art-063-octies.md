@@ -1,0 +1,3 @@
+Art. 63 octies
+(Aggiornamento dello studio geologico relativo allo strumento urbanistico comunale)
+1. Nei casi in cui, sul territorio comunale, si verifichi una calamità naturale che, per gravità ed estensione, comporti la necessità di adottare una variante dello strumento urbanistico comunale o intervenga una modificazione dell'assetto della sicurezza idrogeologica del territorio stesso, il Comune provvede ad aggiornare lo studio geologico di cui all' articolo 16, comma 2, della legge regionale 16/2009 , anche in conformità alle previsioni del Piano per l'assetto idrogeologico (PAI) e del Piano di gestione del rischio alluvioni (PGRA).

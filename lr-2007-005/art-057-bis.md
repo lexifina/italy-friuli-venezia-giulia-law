@@ -1,0 +1,7 @@
+Art. 57 bis
+(Procedura per il riconoscimento del valore di piano paesaggistico del PCS dei parchi naturali regionali)
+1. Al fine del riconoscimento del valore di piano paesaggistico al piano di conservazione e sviluppo (PCS) dei parchi naturali regionali di cui alla legge regionale 30 settembre 1996, n. 42 (Norme in materia di parchi e riserve naturali regionali), l'Ente Parco conforma o adegua il PCS alle previsioni del PPR ai sensi degli articoli 14, comma 3, e 17 della legge regionale 42/1996 ed entro i termini stabiliti dal PPR. La partecipazione dei competenti organi ministeriali al procedimento è assicurata in applicazione dell'articolo 57 ter.
+1 bis. Le varianti di cui al comma 1 sono sottoposte alla verifica di assoggettabilità alla valutazione ambientale strategica e alla valutazione di incidenza secondo quanto disposto dal decreto legislativo 3 aprile 2006, n. 152 (Norme in materia ambientale), dal decreto del Presidente della Repubblica 8 settembre 1997, n. 357 (Regolamento recante attuazione della direttiva 92/43/CEE relativa alla conservazione degli habitat naturali e seminaturali, nonché della flora e della fauna selvatiche), e dalla disciplina regionale di settore.
+2. Il PCS dei parchi naturali regionali con valore di piano paesaggistico diviene efficace il giorno successivo a quello della sua pubblicazione nel Bollettino ufficiale della Regione, ai sensi dell' articolo 144 del decreto legislativo 42/2004 .
+3.
+( ABROGATO )

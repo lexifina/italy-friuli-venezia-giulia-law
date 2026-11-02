@@ -1,0 +1,4 @@
+Art. 57 ter
+(Conformazione o adeguamento degli strumenti urbanistici al PPR)
+1. I Comuni conformano o adeguano i propri strumenti urbanistici alle previsioni del PPR, ai sensi dell' articolo 145, comma 4, del decreto legislativo 42/2004 , secondo le procedure disciplinate dalla normativa regionale in materia di urbanistica, entro i termini e con le modalità stabiliti dal PPR. I predetti termini sono rideterminati in applicazione delle disposizioni di cui all' articolo 103 della legge 24 aprile 2020, n. 27 (Misure di potenziamento del Servizio sanitario nazionale e di sostegno economico per famiglie, lavoratori e imprese connesse all'emergenza epidemiologica da COVID-19. Proroga dei termini per l'adozione di decreti legislativi).
+2. La partecipazione degli organi ministeriali al procedimento di conformazione o adeguamento è disciplinata dal PPR.
