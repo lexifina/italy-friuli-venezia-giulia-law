@@ -1,0 +1,4 @@
+Art. 6 bis
+(Integrazione regionale al Fondo per il reddito di libertà per le donne vittime di violenza)
+1. L'Amministrazione regionale è autorizzata a incrementare le risorse del Fondo per il reddito di libertà per le donne vittime di violenza istituito dall' articolo 105 bis del decreto legge 19 maggio 2020, n. 34 (Misure urgenti in materia di salute, sostegno al lavoro e all'economia, nonché di politiche sociali connesse all'emergenza epidemiologica da COVID-19), convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77 .
+2. Le risorse sono trasferite ai sensi dell'articolo 2, comma 2, del decreto del Presidente del Consiglio dei ministri 17 dicembre 2020, all'Istituto Nazionale della Previdenza Sociale (INPS), quale ente erogatore del reddito di libertà, secondo le modalità procedurali dallo stesso stabilite.
