@@ -1,0 +1,5 @@
+Art. 47 bis
+(Dotazione minima comunale di colonnine di ricarica per alimentazione auto elettriche)
+1. Ogni Comune con popolazione superiore ai 5.000 abitanti deve dotarsi di almeno una colonnina di ricarica a uso pubblico per alimentazione auto elettriche, fatto salvo il caso in cui sul territorio comunale vi sia già un impianto privato funzionante e a uso pubblico.
+2. I Comuni devono adeguarsi a quanto disposto dal comma 1 entro quattro anni dall'entrata in vigore della legge regionale 17 luglio 2015, n. 19 (Disposizioni di riordino e semplificazione in materia di attività produttive e di risorse agricole e forestali).
+2 bis. La realizzazione delle infrastrutture di ricarica dei veicoli elettrici su suolo pubblico è soggetta ad autorizzazione alla costruzione e all'occupazione del suolo pubblico ai sensi dell' articolo 57, comma 14 bis del decreto legge 16 luglio 2020, n. 76 (Misure urgenti per la semplificazione e l'innovazione digitale), convertito con modificazioni dalla legge 11 settembre 2020, n. 120 .
