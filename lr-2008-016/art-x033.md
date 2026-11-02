@@ -1,0 +1,3 @@
+7. Al comma 1 dell'articolo 74 della legge regionale 9/2007 sono aggiunte al termine le parole: <<La medesima sanzione si applica per la violazione del divieto di cui all'articolo 35, comma 2, lettera c). >>.
+8. Le entrate derivanti dal disposto di cui all'articolo 74, comma 1, della legge regionale 9/2007, come modificato dal comma 7, sono accertate e riscosse nell'unità di bilancio 3.2.121 dello stato di previsione dell'entrata del bilancio pluriennale per gli anni 2008-2010 e del bilancio per l'anno 2008.
+9. Al comma 4 dell'articolo 98 della legge regionale 9/2007 le parole <<comma 2>> sono sostituite dalle seguenti: <<comma 4>>.

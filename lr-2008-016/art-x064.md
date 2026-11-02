@@ -1,0 +1,8 @@
+3.
+La lettera a) del comma 2 dell'articolo 34 della legge regionale 23/2007, è sostituita dalla seguente:
+<<a) gli agenti e ufficiali di Pubblica Sicurezza, gli appartenenti all'Arma dei Carabinieri, della Polizia di Stato, della Polizia Penitenziaria, del Corpo della Guardia di Finanza, del Corpo Forestale dello Stato e della Regione e della Polizia Locale, in divisa o dotati di tessera di riconoscimento rilasciata dai rispettivi comandi, sia per le finalità di servizio che per garantire la sicurezza dei trasportati; per gli appartenenti alla Polizia Locale la circolazione è limitata ai servizi di trasporto svolti nell'ambito del territorio comunale, ovvero del territorio dei comuni associati per il servizio di Polizia Locale; l'attuazione delle disposizioni avviene secondo le priorità definite dalla Giunta regionale;>>.
+4. Gli oneri derivanti dal disposto di cui all'articolo 34, comma 2, lettera a), della legge regionale 23/2007, come sostituita dal comma 3, fanno carico all'unità di bilancio 3.7.1.1067 dello stato di previsione della spesa del bilancio pluriennale per gli anni 2008-2010 e del bilancio per l'anno 2008.
+5. Al comma 3 dell'articolo 63 della legge regionale 23/2007 le parole <<commi 1 e 3, del decreto legislativo 111/2004>> sono sostituite dalle seguenti: <<comma 1, del decreto legislativo 111/2004, trasferiti in proprietà o in possesso alla Regione>>.
+6. Al comma 3 dell'articolo 63 della legge regionale 23/2007 il conferimento in regime di concessione d'uso va interpretato nel senso di conferimento ai fini della gestione, nonché manutenzione straordinaria, ristrutturazione, potenziamento e nuova costruzione.
+6 bis.
+( ABROGATO )
