@@ -1,0 +1,5 @@
+Art. 59 quinquies
+(Controllo interno di ragioneria)
+1. Sugli atti inerenti i procedimenti di spesa adottati mediante l'utilizzo di sistemi informatici ai sensi degli articoli 59 ter e 59 quater, la Direzione centrale risorse economiche e finanziarie, secondo modalità e criteri stabiliti dalla Giunta regionale, dispone controlli a campione per verificare la regolarità degli atti ai sensi del capo VII.
+2. Le liquidazioni di spesa disposte con procedure informatiche ai sensi degli articoli 59 ter e 59 quater riportano, fino ad avvenuta operatività della gestione informatizzata dei flussi documentali, gli estremi della documentazione e degli accertamenti idonei a comprovare atti adeguati ad attestare il diritto del creditore.
+3. Il regolamento di cui al comma 1 dell'articolo 59 quater disciplina le modalità e i criteri con cui si effettua il controllo, anche a campione, per verificare la regolarità delle procedure di liquidazione delle spese, nonché applicando tecnologie atte a garantire l'evidenza dei singoli aggiornamenti degli archivi informatici.>>;
