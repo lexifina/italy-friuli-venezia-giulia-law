@@ -1,0 +1,7 @@
+Art. 16 bis
+(Compensi agli amministratori dei Consorzi)
+1. Il numero dei componenti degli organi dei Consorzi di bonifica, siano essi rappresentanti dei consorziati che degli enti locali, a cui può essere attribuito un compenso e il rimborso delle spese sostenute per l'espletamento del loro incarico, non può essere superiore a tre.
+2. Gli ulteriori componenti partecipano agli organi dei Consorzi di bonifica a titolo gratuito.
+3. I Consorzi di bonifica possono prevedere per i componenti di cui al comma 2 un rimborso spese, anche forfetario, con provvedimento motivato dal Consiglio dei delegati.
+4. Il provvedimento di cui al comma 3 è soggetto all'assenso preventivo dell'Assessore regionale alle risorse agricole, naturali e forestali.
+5. I Consorzi di bonifica provvedono alle modifiche statutarie derivanti dalle disposizioni di cui ai commi precedenti nel termine di novanta giorni dall'entrata in vigore della legge regionale 5 dicembre 2008, n. 16 "Norme urgenti in materia di ambiente, territorio, edilizia, urbanistica, attività venatoria, ricostruzione, adeguamento antisismico, trasporti, demanio marittimo e turismo

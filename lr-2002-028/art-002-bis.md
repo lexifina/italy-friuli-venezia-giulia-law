@@ -1,0 +1,4 @@
+Art. 2 bis
+(Rideterminazione dei comprensori di bonifica)
+1. Al fine di intervenire nei territori carsici della provincia di Gorizia e di Trieste che sono la naturale continuazione del sistema idrogeologico già in parte di competenza del Consorzio di bonifica Pianura Isontina, l'area della provincia di Trieste (Comuni di Duino Aurisina, Sgonico, Monrupino, Trieste, San Dorligo della Valle e Muggia) e l'intero territorio dei Comuni di San Floriano del Collio, Gorizia, Savogna d'Isonzo, Sagrado, Fogliano Redipuglia, Doberdò del Lago e Ronchi dei Legionari sono inseriti nel comprensorio di bonifica del Consorzio di bonifica Pianura Isontina.
+2. È fatta salva la possibilità di modificare i perimetri dei comprensori di bonifica individuati ai sensi del comma 1 con la procedura di cui all'articolo 2, comma 2.
