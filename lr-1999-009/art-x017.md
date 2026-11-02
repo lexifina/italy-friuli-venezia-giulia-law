@@ -1,0 +1,1 @@
+2. Agli articoli 39, 83, 87, 95, 120 e 135 della legge regionale 75/1982, all'articolo 61 della legge regionale 17 giugno 1993, n. 45, ed all'articolo 200 della legge regionale 28 aprile 1994, n. 5, le competenze attribuite alla Direzione regionale dell'edilizia e dei servizi tecnici si intendono riferite alle Direzioni provinciali dei servizi tecnici competenti per territorio.

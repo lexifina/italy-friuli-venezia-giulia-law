@@ -1,0 +1,1 @@
+2. Per le finalità di cui all'articolo 12 della legge regionale 10/1995, come da ultimo sostituito dal comma 1, le Amministrazioni comunali interessate inoltrano apposita istanza alle Direzioni regionali competenti entro il termine del 30 giugno 1999.
