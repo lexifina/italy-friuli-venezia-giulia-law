@@ -1,0 +1,2 @@
+All' art. 7 della legge regionale 10 marzo 1979, n. 9, il terzo comma viene sostituito dal seguente:
+<< L' Assessore alle finanze, su conforme deliberazione della Giunta regionale, è autorizzato a disporre, con propri decreti da registrare alla Corte dei conti, l' iscrizione ai capitoli di spesa, istituiti in attuazione del precedente art. 3, dei rispettivi rientri di cui al primo comma del presente articolo, accertati sul precitato capitolo 710 dello stato di previsione dell' entrata. >>.
