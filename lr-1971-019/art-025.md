@@ -1,0 +1,2 @@
+Art. 25
+( ABROGATO )
