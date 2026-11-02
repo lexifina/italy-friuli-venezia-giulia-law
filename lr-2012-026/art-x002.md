@@ -1,0 +1,4 @@
+2. I termini dei procedimenti di durata superiore a centottanta giorni previsti in leggi regionali sono automaticamente ridotti a centottanta giorni, fatto salvo quanto previsto dall'articolo 5, comma 7, della legge regionale 7/2000, come sostituito dal comma 1.
+3. I termini di conclusione dei procedimenti superiori a novanta giorni, previsti in atti diversi dalle leggi regionali, sono adeguati a quanto previsto dall'articolo 5, commi 2 e 3, della legge regionale 7/2000, come sostituito dal comma 1, entro centottanta giorni dall'entrata in vigore della presente legge.
+4. Decorso inutilmente il termine per l'adeguamento di cui al comma 3, i termini di conclusione dei procedimenti sono ridotti a novanta giorni.
+5. Ai procedimenti in corso alla data di entrata in vigore della presente legge e a quelli non conclusi entro il termine di adeguamento di cui al comma 3, continuano ad applicarsi i termini previgenti.
