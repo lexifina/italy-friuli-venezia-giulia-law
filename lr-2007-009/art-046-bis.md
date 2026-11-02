@@ -1,0 +1,5 @@
+Art. 46 bis
+(Boschi vetusti)
+1. In conformità all'articolo 3, comma 2, del decreto legislativo 3 aprile 2018, n. 34 (Testo unico in materia di foreste e filiere forestali), la Regione identifica i boschi vetusti di elevato valore biologico e naturalistico da destinare alla libera evoluzione per approfondire la conoscenza e la divulgazione scientifica delle dinamiche naturali, nonché per elaborare specifici sistemi di gestione.
+2. L'identificazione dei boschi di cui al comma 1 è finalizzata a consentire lo studio delle dinamiche delle foreste attraverso l'effettuazione di ricerche di lungo periodo dei processi naturali ed ecologici, il monitoraggio di lungo termine, la realizzazione di inventari ecologici, la misurazione e conservazione della biodiversità con riferimento anche alle risorse genetiche e l'analisi della risposta della dinamica forestale ai cambiamenti ambientali.
+3. Le modalità per il riconoscimento dello status di bosco vetusto sono definite con deliberazione della Giunta regionale, anche avvalendosi del supporto tecnico-scientifico delle Università regionali e dell'ERSA.
