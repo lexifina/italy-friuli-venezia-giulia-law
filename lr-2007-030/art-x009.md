@@ -1,0 +1,1 @@
+2. Gli oneri derivanti dal comma 2 dell'articolo 56 bis, come introdotto dal comma 1, previsti in 500.000 euro per ciascuno degli anni 2008, 2009 e 2010, fanno carico all'unità di bilancio 8.5.1.1146 dello stato di previsione della spesa del bilancio pluriennale per gli anni 2008-2010 e del bilancio per l'anno 2008.
