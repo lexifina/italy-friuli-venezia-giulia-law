@@ -1,0 +1,17 @@
+c)
+dopo il comma 1 dell'articolo 23 è inserito il seguente:
+<<1 bis. Con regolamento regionale sono disciplinate le disposizioni attuative relative ai requisiti di cui all'articolo 22 bis, le modalità di presentazione alla Regione della domanda di accreditamento e di aggiornamento dello stesso da parte dei soggetti di cui all'articolo 22 bis, la documentazione necessaria, la procedura di accertamento del possesso dei requisiti e di rilascio dell'accreditamento da parte del responsabile della struttura competente, nonché le fattispecie di sospensione e revoca dell'accreditamento di cui all'articolo 25 bis.>>;
+d)
+dopo il comma 2 dell'articolo 24 è aggiunto il seguente:
+<<2 bis. I soggetti accreditati ai sensi dell'articolo 22 sono iscritti nella sezione Prima dell'elenco di cui al comma 1, i soggetti accrediti ai sensi dell'articolo 22 bis sono inseriti nella sezione Seconda del medesimo elenco.>>;
+e)
+dopo l'articolo 25 è inserito il seguente:
+<<Art. 25 bis
+(Sospensione e revoca dell'accreditamento per i soggetti di cui all'articolo 22 bis)
+1. I soggetti di cui all'articolo 22 bis sono tenuti al rispetto del principio di leale collaborazione, correttezza e trasparenza nei confronti dell'Amministrazione regionale e degli obblighi stabiliti con il regolamento di cui all'articolo 23, comma 1 bis, inerente il mantenimento dei requisiti di accreditamento.
+2. La sospensione dell'accreditamento concesso ai soggetti di cui all'articolo 22 bis è prevista per un periodo di tre mesi in caso di ripetuti comportamenti dilatori o non collaborativi dei soggetti accreditati.
+3. La revoca dell'accreditamento è prevista nelle ipotesi di:
+a) perdita di uno o più requisiti di accreditamento;
+b) accertamento di un'infrazione sanzionabile con la sospensione, qualora sia già stata irrogata la sanzione della sospensione per tre volte nel corso dei trentasei mesi precedenti.
+4. La revoca dell'accreditamento comporta la cancellazione dell'ente dall'elenco di cui all'articolo 24, comma 2 bis.
+5. La sospensione e la revoca dell'accreditamento sono disposte con decreto del responsabile della struttura regionale competente.>>;
