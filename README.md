@@ -8,7 +8,7 @@ The text is in Italian, exactly as the source prints it.
 
 ## What this repository holds
 
-37 acts with 37 versions so far: the regional laws in force, added in parts of about fifty. The Statute of Autonomy (legge costituzionale 31 gennaio 1963, n. 1) is a constitutional law of the Italian State and is not included. Laws LEXVIEW marks as repealed in full, laws all of whose articles are repealed, and the few laws whose page a second, independent reader could not confirm letter for letter are left out; regulations are not included.
+61 acts with 61 versions so far: the regional laws in force, added in parts of about fifty. The Statute of Autonomy (legge costituzionale 31 gennaio 1963, n. 1) is a constitutional law of the Italian State and is not included. Laws LEXVIEW marks as repealed in full, laws all of whose articles are repealed, and the few laws whose page a second, independent reader could not confirm letter for letter are left out; regulations are not included.
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
@@ -49,6 +49,30 @@ The text is in Italian, exactly as the source prints it.
 | `lr-1972-011/` | L.R. 6 aprile 1972, n. 11: Intervento a sostegno dell' attività della Federazione regionale delle Casse rurali ed artigiane del Friuli - Venezia Giulia. | 1 | oldest version available: 2 November 2026 |
 | `lr-1972-018/` | L.R. 10 aprile 1972, n. 18: Provvedimenti in materia di trasporti. | 1 | oldest version available: 2 November 2026 |
 | `lr-1972-055/` | L.R. 27 novembre 1972, n. 55: Spese di manutenzione delle opere pubbliche di bonifica integrale e montana. | 1 | oldest version available: 2 November 2026 |
+| `lr-1973-007/` | L.R. 20 gennaio 1973, n. 7: Modifiche alla legge regionale 27 aprile 1972, n. 22, relativa all' istituzione di un sistema informativo elettronico di interesse r | 1 | oldest version available: 2 November 2026 |
+| `lr-1973-013/` | L.R. 26 febbraio 1973, n. 13: Rifinanziamento della legge regionale 20 luglio 1967, n. 17, come integrata dalla legge regionale 27 marzo 1970, n. 8, concernente | 1 | oldest version available: 2 November 2026 |
+| `lr-1973-026/` | L.R. 16 aprile 1973, n. 26: Provvidenze a favore delle abitazioni rurali. | 1 | oldest version available: 2 November 2026 |
+| `lr-1973-032/` | L.R. 4 maggio 1973, n. 32: Contributi per favorire lo sviluppo di attività economiche nella regione. | 1 | oldest version available: 2 November 2026 |
+| `lr-1973-037/` | L.R. 4 maggio 1973, n. 37: Provvedimenti a favore delle cooperative di trasformazione di prodotti agricoli. | 1 | oldest version available: 2 November 2026 |
+| `lr-1973-038/` | L.R. 4 maggio 1973, n. 38: Provvedimenti regionali a sollievo dei maggiori oneri tributari, incidenti sulla esecuzione di opere pubbliche o di pubblica utilità. | 1 | oldest version available: 2 November 2026 |
+| `lr-1973-039/` | L.R. 4 maggio 1973, n. 39: Norme integrative in materia urbanistica, norme di adattamento della legislazione urbanistica nazionale e disposizioni varie. | 1 | oldest version available: 2 November 2026 |
+| `lr-1973-049/` | L.R. 20 agosto 1973, n. 49: Modificazioni all' ordinamento dell' Amministrazione regionale. | 1 | oldest version available: 2 November 2026 |
+| `lr-1973-054/` | L.R. 5 novembre 1973, n. 54: Modificazioni alle leggi regionali 9 settembre 1964, n. 2, e 5 giugno 1967, n. 8, e norme riguardanti le spese di funzionamento dei | 1 | oldest version available: 2 November 2026 |
+| `lr-1974-004/` | L.R. 5 marzo 1974, n. 4: Rifinanziamento della legge regionale 18 aprile 1969, n. 3 - Spese riservate. | 1 | oldest version available: 2 November 2026 |
+| `lr-1974-016/` | L.R. 26 aprile 1974, n. 16: Interventi regionali per la celebrazione del 30 anniversario della lotta di liberazione. | 1 | oldest version available: 2 November 2026 |
+| `lr-1974-025/` | L.R. 29 maggio 1974, n. 25: Erogazione di spese per iniziative di particolare valore morale o sociale. | 1 | oldest version available: 2 November 2026 |
+| `lr-1974-029/` | L.R. 6 luglio 1974, n. 29: Spese per agevolare l' esercizio delle funzioni di cui al DPR 23 gennaio 1965, n. 78. | 1 | oldest version available: 2 November 2026 |
+| `lr-1974-035/` | L.R. 30 luglio 1974, n. 35: Interventi integrativi per l' agevolazione di mutui contratti per l' esecuzione di opere pubbliche di interesse regionale. | 1 | oldest version available: 2 November 2026 |
+| `lr-1974-038/` | L.R. 8 agosto 1974, n. 38: Finanziamenti straordinari per lo sviluppo delle attività economiche, sociali, culturali e turistiche della regione. | 1 | oldest version available: 2 November 2026 |
+| `lr-1974-041/` | L.R. 13 agosto 1974, n. 41: Modifiche e rifinanziamento della legge regionale 16 gennaio 1973, n. 3, concernente << Provvidenze per favorire la costituzione ed | 1 | oldest version available: 2 November 2026 |
+| `lr-1975-001/` | L.R. 14 gennaio 1975, n. 1: Adempimenti regionali previsti dal decreto legge 8 luglio 1974, n. 264, convertito con modificazioni nella legge 17 agosto 1974, n. | 1 | oldest version available: 2 November 2026 |
+| `lr-1975-013/` | L.R. 25 febbraio 1975, n. 13: Norme amministrative riguardanti le procedure per erogare i contributi nel settore dell' agricoltura e foreste. | 1 | oldest version available: 2 November 2026 |
+| `lr-1975-018/` | L.R. 28 marzo 1975, n. 18: Istituzione del Comitato regionale per il coordinamento dell' attività degli enti mutualistici con la programmazione regionale e con | 1 | oldest version available: 2 November 2026 |
+| `lr-1975-022/` | L.R. 13 maggio 1975, n. 22: Provvedimenti straordinari per il credito e gli incentivi nei settori produttivi. | 1 | oldest version available: 2 November 2026 |
+| `lr-1975-028/` | L.R. 9 giugno 1975, n. 28: Concessione in comodato alla Regione di beni immobili di proprietà dell'Ente Gioventù Italiana. | 1 | oldest version available: 2 November 2026 |
+| `lr-1975-036/` | L.R. 18 giugno 1975, n. 36: Acquisto di immobili per la costituzione di una fascia di rispetto attorno all' esedra ed al lato ovest del corpo principale di Vill | 1 | oldest version available: 2 November 2026 |
+| `lr-1975-037/` | L.R. 19 giugno 1975, n. 37: Integrazione dell' articolo 12 della legge regionale 13 maggio 1975, n. 22, recante << Provvedimenti straordinari per il credito e g | 1 | oldest version available: 2 November 2026 |
+| `lr-1975-039/` | L.R. 21 giugno 1975, n. 39: Rifinanziamento e modifiche della legge regionale 29 maggio 1974, n. 25: << Erogazione di spese per iniziative di particolare valore | 1 | oldest version available: 2 November 2026 |
 
 ## Source
 

@@ -13,6 +13,9 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | Consiglio regionale del Friuli Venezia Giulia, LEXVIEW (banca dati delle leggi regionali) | <https://lexview-int.regione.fvg.it/FontiNormative/xml/index.aspx> | 2026-11-02 | L. 633/1941 art. 5 (official acts are not protected; this record relies on that exemption). Site note legali: download for personal, non-commercial use; reproduction for other ends needs prior authorisation. LEXVIEW itself: electronic reproduction allowed citing the source, the non-authentic character and free of charge. |
 | Consiglio regionale del Friuli Venezia Giulia, LEXVIEW (banca dati delle leggi regionali) | <https://lexview-int.regione.fvg.it/FontiNormative/xml/index.aspx> | 2026-11-02 | L. 633/1941 art. 5 (official acts are not protected; this record relies on that exemption). Site note legali: download for personal, non-commercial use; reproduction for other ends needs prior authorisation. LEXVIEW itself: electronic reproduction allowed citing the source, the non-authentic character and free of charge. |
 | Consiglio regionale del Friuli Venezia Giulia, LEXVIEW (banca dati delle leggi regionali) | <https://lexview-int.regione.fvg.it/FontiNormative/xml/index.aspx> | 2026-11-02 | L. 633/1941 art. 5 (official acts are not protected; this record relies on that exemption). Site note legali: download for personal, non-commercial use; reproduction for other ends needs prior authorisation. LEXVIEW itself: electronic reproduction allowed citing the source, the non-authentic character and free of charge. |
+| Consiglio regionale del Friuli Venezia Giulia, LEXVIEW (banca dati delle leggi regionali) | <https://lexview-int.regione.fvg.it/FontiNormative/xml/index.aspx> | 2026-11-02 | L. 633/1941 art. 5 (official acts are not protected; this record relies on that exemption). Site note legali: download for personal, non-commercial use; reproduction for other ends needs prior authorisation. LEXVIEW itself: electronic reproduction allowed citing the source, the non-authentic character and free of charge. |
+| Consiglio regionale del Friuli Venezia Giulia, LEXVIEW (banca dati delle leggi regionali) | <https://lexview-int.regione.fvg.it/FontiNormative/xml/index.aspx> | 2026-11-02 | L. 633/1941 art. 5 (official acts are not protected; this record relies on that exemption). Site note legali: download for personal, non-commercial use; reproduction for other ends needs prior authorisation. LEXVIEW itself: electronic reproduction allowed citing the source, the non-authentic character and free of charge. |
+| Consiglio regionale del Friuli Venezia Giulia, LEXVIEW (banca dati delle leggi regionali) | <https://lexview-int.regione.fvg.it/FontiNormative/xml/index.aspx> | 2026-11-02 | L. 633/1941 art. 5 (official acts are not protected; this record relies on that exemption). Site note legali: download for personal, non-commercial use; reproduction for other ends needs prior authorisation. LEXVIEW itself: electronic reproduction allowed citing the source, the non-authentic character and free of charge. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -57,20 +60,44 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lr-1972-011` | L.R. 6 aprile 1972, n. 11: Intervento a sostegno dell' attività della Federazione regionale delle Casse rurali ed artigiane del Friuli - Venezia Giulia. | 1 | 2026-11-02 to 2026-11-02 |
 | `lr-1972-018` | L.R. 10 aprile 1972, n. 18: Provvedimenti in materia di trasporti. | 1 | 2026-11-02 to 2026-11-02 |
 | `lr-1972-055` | L.R. 27 novembre 1972, n. 55: Spese di manutenzione delle opere pubbliche di bonifica integrale e montana. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-1973-007` | L.R. 20 gennaio 1973, n. 7: Modifiche alla legge regionale 27 aprile 1972, n. 22, relativa all' istituzione di un sistema informativo elettronico di interesse regionale. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-1973-013` | L.R. 26 febbraio 1973, n. 13: Rifinanziamento della legge regionale 20 luglio 1967, n. 17, come integrata dalla legge regionale 27 marzo 1970, n. 8, concernente contributi finanziari perequativi sui mutui contratti per l' esecuzione di opere pubbliche. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-1973-026` | L.R. 16 aprile 1973, n. 26: Provvidenze a favore delle abitazioni rurali. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-1973-032` | L.R. 4 maggio 1973, n. 32: Contributi per favorire lo sviluppo di attività economiche nella regione. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-1973-037` | L.R. 4 maggio 1973, n. 37: Provvedimenti a favore delle cooperative di trasformazione di prodotti agricoli. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-1973-038` | L.R. 4 maggio 1973, n. 38: Provvedimenti regionali a sollievo dei maggiori oneri tributari, incidenti sulla esecuzione di opere pubbliche o di pubblica utilità. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-1973-039` | L.R. 4 maggio 1973, n. 39: Norme integrative in materia urbanistica, norme di adattamento della legislazione urbanistica nazionale e disposizioni varie. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-1973-049` | L.R. 20 agosto 1973, n. 49: Modificazioni all' ordinamento dell' Amministrazione regionale. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-1973-054` | L.R. 5 novembre 1973, n. 54: Modificazioni alle leggi regionali 9 settembre 1964, n. 2, e 5 giugno 1967, n. 8, e norme riguardanti le spese di funzionamento dei Gruppi consiliari. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-1974-004` | L.R. 5 marzo 1974, n. 4: Rifinanziamento della legge regionale 18 aprile 1969, n. 3 - Spese riservate. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-1974-016` | L.R. 26 aprile 1974, n. 16: Interventi regionali per la celebrazione del 30 anniversario della lotta di liberazione. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-1974-025` | L.R. 29 maggio 1974, n. 25: Erogazione di spese per iniziative di particolare valore morale o sociale. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-1974-029` | L.R. 6 luglio 1974, n. 29: Spese per agevolare l' esercizio delle funzioni di cui al DPR 23 gennaio 1965, n. 78. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-1974-035` | L.R. 30 luglio 1974, n. 35: Interventi integrativi per l' agevolazione di mutui contratti per l' esecuzione di opere pubbliche di interesse regionale. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-1974-038` | L.R. 8 agosto 1974, n. 38: Finanziamenti straordinari per lo sviluppo delle attività economiche, sociali, culturali e turistiche della regione. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-1974-041` | L.R. 13 agosto 1974, n. 41: Modifiche e rifinanziamento della legge regionale 16 gennaio 1973, n. 3, concernente << Provvidenze per favorire la costituzione ed il funzionamento di consorzi fra piccole imprese industriali >> e contributi per la promozione delle attività economiche. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-1975-001` | L.R. 14 gennaio 1975, n. 1: Adempimenti regionali previsti dal decreto legge 8 luglio 1974, n. 264, convertito con modificazioni nella legge 17 agosto 1974, n. 386. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-1975-013` | L.R. 25 febbraio 1975, n. 13: Norme amministrative riguardanti le procedure per erogare i contributi nel settore dell' agricoltura e foreste. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-1975-018` | L.R. 28 marzo 1975, n. 18: Istituzione del Comitato regionale per il coordinamento dell' attività degli enti mutualistici con la programmazione regionale e con l' attività degli Enti ospedalieri. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-1975-022` | L.R. 13 maggio 1975, n. 22: Provvedimenti straordinari per il credito e gli incentivi nei settori produttivi. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-1975-028` | L.R. 9 giugno 1975, n. 28: Concessione in comodato alla Regione di beni immobili di proprietà dell'Ente Gioventù Italiana. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-1975-036` | L.R. 18 giugno 1975, n. 36: Acquisto di immobili per la costituzione di una fascia di rispetto attorno all' esedra ed al lato ovest del corpo principale di Villa Manin di Passariano. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-1975-037` | L.R. 19 giugno 1975, n. 37: Integrazione dell' articolo 12 della legge regionale 13 maggio 1975, n. 22, recante << Provvedimenti straordinari per il credito e gli incentivi nei settori produttivi >>. | 1 | 2026-11-02 to 2026-11-02 |
+| `lr-1975-039` | L.R. 21 giugno 1975, n. 39: Rifinanziamento e modifiche della legge regionale 29 maggio 1974, n. 25: << Erogazione di spese per iniziative di particolare valore morale e sociale >>. | 1 | 2026-11-02 to 2026-11-02 |
 
-The build made 37 commits:
+The build made 61 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 37 | first version of an act |
+| 61 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-02.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 37 laws in the record.
-- 37 tags.
+- 61 laws in the record.
+- 61 tags.
 
 ## Dates
 
@@ -82,18 +109,33 @@ When a law gives no date of its own, the default rule applies: Statuto speciale 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `a5a52e5cc4f51d3f4e48f1ad4bdee023c57f04d3192cd8573e3c0c2805bb87d2` (234102 bytes).
+- Corpus: sha256 `15e0752001b7c1540b0ec5f54c962081ccef1f3f591e0cbce4c5495f9d8c05bf` (384080 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-37 versions of 37 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+61 versions of 61 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
 No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
+- Every regional law LEXVIEW publishes is included, found by number year by year (a missing number answers an empty page); laws it marks as repealed in full ("Legge abrogata"), and laws all of whose articles are repealed, are left out. Regulations are not included.
+- Each law is recorded by its text in force on the retrieval day only, as its oldest version available, dated that day and credited to the database as publisher.
+- The editor's notes (note markers, "Note:" lists, notes on the whole law) and the editor's corrections ("Correzioni effettuate d'ufficio") are not copied. Repealed articles stay as printed, "( ABROGATO )".
+- Units: anything before the first article (preambolo), one file per article; headings of titles, chapters and sections go with the next article.
+- A law whose page does not read back letter for letter under a second, independent reader is left out.
+- Every regional law LEXVIEW publishes is included, found by number year by year (a missing number answers an empty page); laws it marks as repealed in full ("Legge abrogata"), and laws all of whose articles are repealed, are left out. Regulations are not included.
+- Each law is recorded by its text in force on the retrieval day only, as its oldest version available, dated that day and credited to the database as publisher.
+- The editor's notes (note markers, "Note:" lists, notes on the whole law) and the editor's corrections ("Correzioni effettuate d'ufficio") are not copied. Repealed articles stay as printed, "( ABROGATO )".
+- Units: anything before the first article (preambolo), one file per article; headings of titles, chapters and sections go with the next article.
+- A law whose page does not read back letter for letter under a second, independent reader is left out.
+- Every regional law LEXVIEW publishes is included, found by number year by year (a missing number answers an empty page); laws it marks as repealed in full ("Legge abrogata"), and laws all of whose articles are repealed, are left out. Regulations are not included.
+- Each law is recorded by its text in force on the retrieval day only, as its oldest version available, dated that day and credited to the database as publisher.
+- The editor's notes (note markers, "Note:" lists, notes on the whole law) and the editor's corrections ("Correzioni effettuate d'ufficio") are not copied. Repealed articles stay as printed, "( ABROGATO )".
+- Units: anything before the first article (preambolo), one file per article; headings of titles, chapters and sections go with the next article.
+- A law whose page does not read back letter for letter under a second, independent reader is left out.
 - Every regional law LEXVIEW publishes is included, found by number year by year (a missing number answers an empty page); laws it marks as repealed in full ("Legge abrogata"), and laws all of whose articles are repealed, are left out. Regulations are not included.
 - Each law is recorded by its text in force on the retrieval day only, as its oldest version available, dated that day and credited to the database as publisher.
 - The editor's notes (note markers, "Note:" lists, notes on the whole law) and the editor's corrections ("Correzioni effettuate d'ufficio") are not copied. Repealed articles stay as printed, "( ABROGATO )".
@@ -139,6 +181,9 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- A model (Claude) wrote the fetch and parse code; it wrote no law text. Every word of law comes from LEXVIEW, the Consiglio regionale del Friuli Venezia Giulia's law database.
+- A model (Claude) wrote the fetch and parse code; it wrote no law text. Every word of law comes from LEXVIEW, the Consiglio regionale del Friuli Venezia Giulia's law database.
+- A model (Claude) wrote the fetch and parse code; it wrote no law text. Every word of law comes from LEXVIEW, the Consiglio regionale del Friuli Venezia Giulia's law database.
 - A model (Claude) wrote the fetch and parse code; it wrote no law text. Every word of law comes from LEXVIEW, the Consiglio regionale del Friuli Venezia Giulia's law database.
 - A model (Claude) wrote the fetch and parse code; it wrote no law text. Every word of law comes from LEXVIEW, the Consiglio regionale del Friuli Venezia Giulia's law database.
 - A model (Claude) wrote the fetch and parse code; it wrote no law text. Every word of law comes from LEXVIEW, the Consiglio regionale del Friuli Venezia Giulia's law database.

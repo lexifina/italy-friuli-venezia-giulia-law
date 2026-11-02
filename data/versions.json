@@ -518,6 +518,342 @@
      "sha256": "2e8280a41d27874cf59df3cfbfa0ff4600b864197f269d79993627cd1e525a28"
     }
    ]
+  },
+  {
+   "slug": "lr-1973-007",
+   "short": "L.R. 7/1973",
+   "title": "L.R. 20 gennaio 1973, n. 7: Modifiche alla legge regionale 27 aprile 1972, n. 22, relativa all' istituzione di un sistema informativo elettronico di interesse regionale.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1973&legge=7&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 2,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1973&legge=7&lista=0&fx=",
+     "sha256": "68147faddefa21bf5fb05228adf46b54b5033c301b857f448c3fa6c79ff1d854"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1973-013",
+   "short": "L.R. 13/1973",
+   "title": "L.R. 26 febbraio 1973, n. 13: Rifinanziamento della legge regionale 20 luglio 1967, n. 17, come integrata dalla legge regionale 27 marzo 1970, n. 8, concernente contributi finanziari perequativi sui mutui contratti per l' esecuzione di opere pubbliche.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1973&legge=13&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1973&legge=13&lista=0&fx=",
+     "sha256": "71c0435118b474b52db38a5721af0f4a484b62e0ac3358816f0a70518ebbb62f"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1973-026",
+   "short": "L.R. 26/1973",
+   "title": "L.R. 16 aprile 1973, n. 26: Provvidenze a favore delle abitazioni rurali.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1973&legge=26&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 2,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1973&legge=26&lista=0&fx=",
+     "sha256": "6bd33b8a43f3fbc1444701b7beb7434257c0f05f6024360246760addcc16ba7d"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1973-032",
+   "short": "L.R. 32/1973",
+   "title": "L.R. 4 maggio 1973, n. 32: Contributi per favorire lo sviluppo di attività economiche nella regione.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1973&legge=32&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 8,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1973&legge=32&lista=0&fx=",
+     "sha256": "b1cbd47b73f7bdff96d708c63724d04f9cac41fa6935fca8e2ec5a8d063f3dac"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1973-037",
+   "short": "L.R. 37/1973",
+   "title": "L.R. 4 maggio 1973, n. 37: Provvedimenti a favore delle cooperative di trasformazione di prodotti agricoli.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1973&legge=37&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 7,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1973&legge=37&lista=0&fx=",
+     "sha256": "8ad3ec7c13c44a7acb298c1ab77b8a6403f7b282e817a5748f088b7384a7ed62"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1973-038",
+   "short": "L.R. 38/1973",
+   "title": "L.R. 4 maggio 1973, n. 38: Provvedimenti regionali a sollievo dei maggiori oneri tributari, incidenti sulla esecuzione di opere pubbliche o di pubblica utilità.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1973&legge=38&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 5,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1973&legge=38&lista=0&fx=",
+     "sha256": "7fa48d5b2a6ee23b36e442405a215fe35cb227d13f68a688ce3d1594842c568b"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1973-039",
+   "short": "L.R. 39/1973",
+   "title": "L.R. 4 maggio 1973, n. 39: Norme integrative in materia urbanistica, norme di adattamento della legislazione urbanistica nazionale e disposizioni varie.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1973&legge=39&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 21,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1973&legge=39&lista=0&fx=",
+     "sha256": "4c57b3ec5b7831b3376714a09aa65c6dba6a2654db6b6904f7587024b2e3e130"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1973-049",
+   "short": "L.R. 49/1973",
+   "title": "L.R. 20 agosto 1973, n. 49: Modificazioni all' ordinamento dell' Amministrazione regionale.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1973&legge=49&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 15,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1973&legge=49&lista=0&fx=",
+     "sha256": "27ffb3bcca8bb23d87782f8fbb767c9434eb3454f8176e570f027d772b433fae"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1973-054",
+   "short": "L.R. 54/1973",
+   "title": "L.R. 5 novembre 1973, n. 54: Modificazioni alle leggi regionali 9 settembre 1964, n. 2, e 5 giugno 1967, n. 8, e norme riguardanti le spese di funzionamento dei Gruppi consiliari.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1973&legge=54&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 4,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1973&legge=54&lista=0&fx=",
+     "sha256": "2628eb7c1abf3c79459c34df21d89f05ca706d29fb78b13f4c81fcb36e7e4ac4"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1974-004",
+   "short": "L.R. 4/1974",
+   "title": "L.R. 5 marzo 1974, n. 4: Rifinanziamento della legge regionale 18 aprile 1969, n. 3 - Spese riservate.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1974&legge=4&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 2,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1974&legge=4&lista=0&fx=",
+     "sha256": "01633e5d6a5f1402cd4ee22ce4856d96155ae46543df8bac6dee34212eef838d"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1974-016",
+   "short": "L.R. 16/1974",
+   "title": "L.R. 26 aprile 1974, n. 16: Interventi regionali per la celebrazione del 30 anniversario della lotta di liberazione.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1974&legge=16&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 12,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1974&legge=16&lista=0&fx=",
+     "sha256": "958b49fb50bf4fdf8e17a4df28847a56aad7702148b1259dcd22ae17c63386d4"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1974-025",
+   "short": "L.R. 25/1974",
+   "title": "L.R. 29 maggio 1974, n. 25: Erogazione di spese per iniziative di particolare valore morale o sociale.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1974&legge=25&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 3,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1974&legge=25&lista=0&fx=",
+     "sha256": "6b418857e4236eb18ec114e4e5d6cebcfbc827d55d918380b04e97ccd243378b"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1974-029",
+   "short": "L.R. 29/1974",
+   "title": "L.R. 6 luglio 1974, n. 29: Spese per agevolare l' esercizio delle funzioni di cui al DPR 23 gennaio 1965, n. 78.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1974&legge=29&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1974&legge=29&lista=0&fx=",
+     "sha256": "2b3ca763e060a0b68dd6790a23dc61dfa4c23330917eedee8cb2772beaeff760"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1974-035",
+   "short": "L.R. 35/1974",
+   "title": "L.R. 30 luglio 1974, n. 35: Interventi integrativi per l' agevolazione di mutui contratti per l' esecuzione di opere pubbliche di interesse regionale.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1974&legge=35&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 9,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1974&legge=35&lista=0&fx=",
+     "sha256": "4ccbfad82eb1400f215f87faba22784799dd855d08c5212b5ea8b6e93b8b4b56"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1974-038",
+   "short": "L.R. 38/1974",
+   "title": "L.R. 8 agosto 1974, n. 38: Finanziamenti straordinari per lo sviluppo delle attività economiche, sociali, culturali e turistiche della regione.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1974&legge=38&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 11,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1974&legge=38&lista=0&fx=",
+     "sha256": "7a10729fd5e4b05524608196e46094c5e9d9606fdc9730ba74623121ab380884"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1974-041",
+   "short": "L.R. 41/1974",
+   "title": "L.R. 13 agosto 1974, n. 41: Modifiche e rifinanziamento della legge regionale 16 gennaio 1973, n. 3, concernente << Provvidenze per favorire la costituzione ed il funzionamento di consorzi fra piccole imprese industriali >> e contributi per la promozione delle attività economiche.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1974&legge=41&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 7,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1974&legge=41&lista=0&fx=",
+     "sha256": "30dc466391adec353abaaa7ddc0c8ea189ea9e63a95a6bd18847579834141ac0"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1975-001",
+   "short": "L.R. 1/1975",
+   "title": "L.R. 14 gennaio 1975, n. 1: Adempimenti regionali previsti dal decreto legge 8 luglio 1974, n. 264, convertito con modificazioni nella legge 17 agosto 1974, n. 386.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1975&legge=1&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 43,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1975&legge=1&lista=0&fx=",
+     "sha256": "0d946d27574fdfeefee96e806b6b690e195e1148648147cfc80817de33c47935"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1975-013",
+   "short": "L.R. 13/1975",
+   "title": "L.R. 25 febbraio 1975, n. 13: Norme amministrative riguardanti le procedure per erogare i contributi nel settore dell' agricoltura e foreste.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1975&legge=13&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 6,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1975&legge=13&lista=0&fx=",
+     "sha256": "32b94ed73fbe82672838d18fce240492fdc3ebf2e2c997861d87e47b7710456c"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1975-018",
+   "short": "L.R. 18/1975",
+   "title": "L.R. 28 marzo 1975, n. 18: Istituzione del Comitato regionale per il coordinamento dell' attività degli enti mutualistici con la programmazione regionale e con l' attività degli Enti ospedalieri.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1975&legge=18&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 7,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1975&legge=18&lista=0&fx=",
+     "sha256": "c3c0847a0771ec3ad7b63c7a5f553f6098dbd6513ad78d81c2b3d7694cef466f"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1975-022",
+   "short": "L.R. 22/1975",
+   "title": "L.R. 13 maggio 1975, n. 22: Provvedimenti straordinari per il credito e gli incentivi nei settori produttivi.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1975&legge=22&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 21,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1975&legge=22&lista=0&fx=",
+     "sha256": "83d329a18776bb4d6c1a1534f7a4e5d9be64477c0d1d79b8c090296d6e18f5f0"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1975-028",
+   "short": "L.R. 28/1975",
+   "title": "L.R. 9 giugno 1975, n. 28: Concessione in comodato alla Regione di beni immobili di proprietà dell'Ente Gioventù Italiana.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1975&legge=28&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 4,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1975&legge=28&lista=0&fx=",
+     "sha256": "ca638ac8f92e97b3ecdf40cfde95a58df17962cf4f3dc55e0bf6788f501ac5ec"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1975-036",
+   "short": "L.R. 36/1975",
+   "title": "L.R. 18 giugno 1975, n. 36: Acquisto di immobili per la costituzione di una fascia di rispetto attorno all' esedra ed al lato ovest del corpo principale di Villa Manin di Passariano.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1975&legge=36&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 2,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1975&legge=36&lista=0&fx=",
+     "sha256": "fc836dc11a13ee7416de6568865c61c18640d3ee35285c644169c4db38231a53"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1975-037",
+   "short": "L.R. 37/1975",
+   "title": "L.R. 19 giugno 1975, n. 37: Integrazione dell' articolo 12 della legge regionale 13 maggio 1975, n. 22, recante << Provvedimenti straordinari per il credito e gli incentivi nei settori produttivi >>.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1975&legge=37&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1975&legge=37&lista=0&fx=",
+     "sha256": "7e9ac1dfcfa18238b1f4c43835ba097c8d820f3fd116a7ddf7a60e8d35fe3236"
+    }
+   ]
+  },
+  {
+   "slug": "lr-1975-039",
+   "short": "L.R. 39/1975",
+   "title": "L.R. 21 giugno 1975, n. 39: Rifinanziamento e modifiche della legge regionale 29 maggio 1974, n. 25: << Erogazione di spese per iniziative di particolare valore morale e sociale >>.",
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1975&legge=39&lista=0&fx=",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=1975&legge=39&lista=0&fx=",
+     "sha256": "86084123c5f56a7f29e796ef6461ba27da3e0b1c7947557becf434822549a69e"
+    }
+   ]
   }
  ]
 }
