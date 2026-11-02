@@ -1,0 +1,4 @@
+Art. 9 bis
+(Associazione Fondo per l'Audiovisivo del Friuli Venezia Giulia)
+1. L'Amministrazione regionale, per sostenere le attività di produzione audiovisiva regionale e sviluppare la cultura cinematografica del territorio, è autorizzata sulla base di apposita convenzione di durata quinquennale a destinare specifici finanziamenti all'Associazione Fondo per l'Audiovisivo del Friuli Venezia Giulia, riconoscendo l'attività svolta da tale soggetto come servizio pubblico per il sostegno delle produzioni audiovisive regionali.
+2. L'Associazione Fondo per l'Audiovisivo del Friuli Venezia Giulia presenta annualmente alla Direzione centrale competente in materia di cultura e alla Direzione centrale competente in materia di attività produttive una relazione sulle attività di finanziamento svolte ai sensi dell'articolo 11, evidenziando i risultati ottenuti rispetto alle finalità previste dal medesimo articolo.
