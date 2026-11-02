@@ -1,0 +1,5 @@
+Art. 17 ter
+(Interventi per la diffusione di servizi di pubblica utilità)
+1. AI fine di incentivare la creazione e l'utilizzo di reti che si affiancano agli sportelli della pubblica amministrazione, l'Amministrazione regionale è autorizzata a erogare contributi a favore dei titolari esercenti le rivendite di generi di monopolio per l'acquisto di strumenti informatici atti a favorire l'accesso dei cittadini ai servizi delle pubbliche amministrazioni quali i servizi erogati nell'ambito del progetto Reti Amiche, di cui alla convenzione siglata tra il Ministero per la pubblica amministrazione e l'innovazione e la Federazione italiana tabaccai del 4 novembre 2008, e altri servizi da erogare tramite il terminale multifunzione.
+2. La Regione è altresì autorizzata ad avvalersi della rete dei rivenditori di generi di monopolio per l'erogazione di pagamento servizi su base regionale.
+3. La Giunta regionale stabilisce, con apposito regolamento, le condizioni, i criteri, le procedure e le modalità per la concessione dei contributi di cui al comma 1. Il regolamento può essere unico per gli interventi di cui al presente articolo e all'articolo 17 bis.

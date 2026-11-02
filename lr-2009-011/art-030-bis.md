@@ -1,0 +1,7 @@
+Capo VIII bis
+Agenzia Lavoro & Sviluppoimpresa
+Art. 30 bis
+(Agenzia Lavoro & SviluppoImpresa)
+1. Al fine di promuovere lo sviluppo economico e occupazionale del Friuli Venezia Giulia, è istituita l'Agenzia Lavoro & SviluppoImpresa di seguito denominata Agenzia, quale ente pubblico non economico funzionale della Regione, avente personalità giuridica di diritto pubblico, dotato di autonomia gestionale, patrimoniale, organizzativa, contabile e finanziaria e sottoposto alla vigilanza e al controllo della Regione.
+2. L'Agenzia è strumento di raccordo tra le esigenze del settore produttivo e imprenditoriale e le attività dei soggetti pubblici e privati competenti in materia di attività produttive e politiche del lavoro.
+3. L'Agenzia ha sede legale a Trieste.
