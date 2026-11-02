@@ -1,0 +1,22 @@
+c)
+l'articolo 16 è sostituito dal seguente:
+<<Art. 16
+(Parere di compatibilità geologica)
+1. La struttura regionale competente in materia di geologia esprime, in conformità alla normativa di settore, il parere di compatibilità geologica volto alla verifica della compatibilità con le condizioni geologiche, geomorfologiche, idrogeologiche, idrauliche, sismiche e valanghive del territorio:
+a) dei nuovi strumenti urbanistici generali;
+b) delle varianti allo strumento urbanistico generale che introducano nuove previsioni insediative o infrastrutturali, oppure prevedano ampliamenti della zonizzazione urbanistica ovvero attengano a modifiche delle norme di attuazione, con incidenza sulle previsioni insediative o infrastrutturali.
+2. I Comuni o altri soggetti competenti, prima dell'adozione degli strumenti urbanistici o delle varianti di cui al comma 1, presentano alla struttura regionale competente in materia di difesa del suolo l'istanza di rilascio del parere di compatibilità idraulica ai fini dell'invarianza idraulica ai sensi dell'articolo 6 del regolamento emanato con decreto del Presidente della Regione 27 marzo 2018, n. 083/Pres. (Disposizioni per l'applicazione del principio dell'invarianza idraulica di cui all'articolo 14, comma 1, lettera k) della legge regionale 29 aprile 2015, n. 11 (Disciplina organica in materia di difesa del suolo e di utilizzazione delle acque)), e alla struttura regionale competente in materia di geologia l'istanza di rilascio del parere di compatibilità geologica, corredata dello studio geologico sottoscritto per la parte di rispettiva competenza, da tecnici laureati abilitati, costituito dai seguenti elaborati:
+a) una relazione geologica che evidenzi la compatibilità tra le previsioni dello strumento urbanistico e le condizioni del territorio sotto il profilo geologico, geomorfologico, idrogeologico, idraulico, sismico e valanghivo;
+b) una cartografia in cui siano considerate le eventuali situazioni di pericolo geologico, geomorfologico, idrogeologico, idraulico, sismico e valanghivo e la destinazione d'uso del territorio interessato dalla variante.
+3. Nello studio geologico di cui al comma 2 che forma parte integrante dello strumento urbanistico o della variante sono recepiti, in generale, gli atti di pianificazione che individuano pericolosità geologiche, geomorfologiche, idrauliche, sismiche e valanghive e, in particolare:
+a) i Piani stralcio per l'assetto idrogeologico (PAI);
+b) il Piano di gestione del rischio alluvioni (PGRA);
+c) la classificazione sismica ai sensi della deliberazione della Giunta regionale 6 maggio 2010, n. 845 e successive modifiche e integrazioni;
+d) la microzonizzazione sismica ai sensi dell'ordinanza della Presidenza del Consiglio dei ministri n. 3907 del 13 novembre 2010 e successive modifiche e integrazioni;
+e) le disposizioni di cui alla legge regionale 14 ottobre 2016, n. 15 (Disposizioni per la tutela e la valorizzazione della geodiversità, del patrimonio geologico e speleologico e delle aree carsiche);
+f) le ulteriori normative di settore.
+4. Entro trenta giorni dalla data di presentazione dell'istanza di cui al comma 2 la struttura regionale competente in materia di geologia può chiedere la presentazione di documentazione integrativa fissando un termine per l'adempimento.
+5. Entro sessanta giorni dalla data di ricezione della documentazione relativa allo strumento urbanistico o alla variante oppure dalla data di ricezione della documentazione integrativa richiesta ai sensi del comma 4, la struttura regionale competente in materia di geologia emette, sulla base dello studio geologico di cui al comma 2, il parere di compatibilità geologica. Tale termine può essere sospeso per un periodo massimo di venti giorni al fine di acquisire i pareri collaborativi delle strutture regionali competenti in materia idraulica e valanghiva.
+6. Gli eventuali vincoli, prescrizioni ed esclusioni, espressi nel parere di compatibilità geologica sono recepiti in sede di adozione dello strumento urbanistico o della variante.
+7. Qualora gli strumenti urbanistici o le varianti o i singoli punti di variante non rientrino nelle fattispecie di cui al comma 1, il parere di compatibilità geologica è sostituito da una dichiarazione asseverata nella quale il professionista estensore dello strumento urbanistico o della variante dichiara l'insussistenza dei presupposti per chiedere il rilascio di tale parere.
+8. Con deliberazione della Giunta regionale sono emanate le linee guida per la redazione dello studio geologico di cui al comma 2.>>;

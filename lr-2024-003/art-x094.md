@@ -1,0 +1,5 @@
+d)
+gli articoli 15 e 17 sono abrogati.
+2. Nelle more dell'emanazione delle linee guida di cui all'articolo 16, comma 8, come sostituito dal comma 1, lettera c), continua ad applicarsi la normativa regionale previgente.
+3. Per le finalità di cui all'articolo 14 bis della legge regionale 16/2009, come inserito dal comma 1, lettera b), è autorizzata la spesa complessiva di 110.000 euro, suddivisa in ragione di 30.000 euro per l'anno 2024, di 50.000 euro per l'anno 2025 e di 30.000 euro per l'anno 2026, a valere sulla Missione n. 9 (Sviluppo sostenibile, tutela del territorio e dell'ambiente) - Programma n. 1 (Difesa del suolo) - Titolo n. 1 (Spese correnti) dello stato di previsione della spesa del bilancio per gli anni 2024-2026.
+4. Agli oneri derivanti dal disposto di cui al comma 3 si provvede mediante rimodulazione di pari importo all'interno della Missione n. 9 (Sviluppo sostenibile, tutela del territorio e dell'ambiente) - Programma n. 1 (Difesa del suolo) - Titolo n. 1 (Spese correnti) dello stato di previsione della spesa del bilancio per gli anni 2024-2026.
