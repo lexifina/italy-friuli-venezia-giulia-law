@@ -1,0 +1,24 @@
+4.
+I commi 2 quater e 2 quinquies dell'articolo 15 della legge regionale 20 febbraio 2015, n. 3 (RilancimpresaFVG - Riforma delle politiche industriali), sono sostituiti dai seguenti:
+<<2 quater. Il Cluster "Maritime, Aerospace, Renewable Energies TECHNOLOGY CLUSTER FVG SCARL", in seguito denominato "M.A.R.E. TC FVG - SCARL.", individuato quale "Distretto dell'innovazione" ai sensi degli articoli 29 e 30 della legge regionale 10 novembre 2005, n. 26 (Disciplina generale in materia di innovazione, ricerca scientifica e sviluppo tecnologico), al fine di sviluppare le potenzialità del cluster delle tecnologie marittime, delle tecnologie aeronautiche e aerospaziali e delle tecnologie per le energie rinnovabili, con riferimento, in particolare, al vettore idrogeno prodotto da fonti rinnovabili, attiva le sinergie tra i soggetti pubblici e privati di cui all'articolo 2, comma 1, lettera j).
+2 quinquies. Il Polo Tecnologico Alto Adriatico Andrea Galvani SCPA, individuato quale "Distretto dell'innovazione" ai sensi degli articoli 29 e 30 della legge regionale 26/2005, al fine di sviluppare le potenzialità del cluster delle scienze della vita, a partire dai settori del biomedicale, delle biotecnologie e della bioinformatica, attiva le sinergie tra i soggetti pubblici e privati di cui all'articolo 2, comma 1, lettera j).>>.
+5. Alla legge regionale 29 novembre 2022, n. 19 (Istituzione dell'Elenco regionale delle scuole non statali di musica del Friuli Venezia Giulia e altre disposizioni in materia di attività didattica musicale di base), sono apportate le seguenti modifiche:
+a)
+dopo il comma 4 dell'articolo 14 è aggiunto il seguente:
+<<4 bis. I requisiti di cui ai commi 2 e 3 sono mantenuti per tutta la durata del progetto.>>;
+b)
+al comma 2 dell'articolo 15 le parole: <<, nell'anno in cui viene presentata l'istanza,>> sono soppresse;
+c)
+al comma 2 dell'articolo 17 le parole <<nell'anno per cui viene presentata la domanda di contributo>> sono sostituite dalle seguenti: <<dalla data di presentazione della domanda e fino al 31 dicembre dell'anno solare di riferimento indicato nel bando>>.
+6.
+Il comma 3 bis dell'articolo 39 della legge regionale 9 agosto 2005, n. 18 (Norme regionali per l'occupazione, la tutela e la qualità del lavoro), è sostituito dal seguente:
+<<3 bis. I criteri e le modalità di concessione degli interventi di cui al comma 3 che abbiano natura contributiva sono disciplinati con regolamento regionale o tramite specifici bandi adottati con atto dirigenziale della Direzione competente in materia di lavoro, previa deliberazione della Giunta regionale che stabilisca indirizzi e criteri generali funzionali al raggiungimento delle finalità dell'incentivo, con eventuale specificazione dell'oggetto del contributo e delle categorie dei potenziali beneficiari.>>.
+7.
+Il comma 59 dell'articolo 7 della legge regionale 30 dicembre 2024, n. 13 (Legge di stabilità 2025), è sostituito dal seguente:
+<<59. Qualora le anticipazioni non siano restituite entro i termini stabiliti dal comma 58, in deroga alle disposizioni di cui all'articolo 49, comma 5, della legge regionale 20 marzo 2000, n. 7 (Testo unico delle norme in materia di procedimento amministrativo e di diritto di accesso), non sono dovuti interessi, fatto salvo il diritto di procedere all'esecuzione forzata del credito, previa iscrizione a ruolo degli importi dovuti.>>.
+8.
+Al comma 3 dell'articolo 36 bis della legge regionale 30 marzo 2018, n. 13 (Interventi in materia di diritto allo studio e potenziamento dell'offerta formativa del sistema scolastico regionale), dopo le parole <<del Friuli Venezia Giulia>> sono aggiunte le seguenti: <<, singolarmente o>>.
+9.
+Al comma 57 dell'articolo 7 della legge regionale 10 agosto 2023, n. 13 (Assestamento del bilancio per gli anni 2023-2025), le parole <<riconosciuto dal Ministero dell'interno e dal Ministero delle Infrastrutture e dei Trasporti (brevetto P, brevetto IP, brevetto MIP)>> sono sostituite dalle seguenti: <<rilasciato ai sensi del decreto del Ministro delle infrastrutture e dei trasporti 29 maggio 2024, n. 85 (Regolamento recante norme per l'individuazione dei soggetti autorizzati alla tenuta dei corsi di formazione al salvamento in acque marittime, acque interne e piscine e al rilascio delle abilitazioni all'esercizio dell'attività di assistente bagnanti)>>.
+10.
+Al comma 5 bis dell'articolo 11 della legge regionale 14 novembre 2014, n. 21 (Norme in materia di diritto allo studio universitario), dopo le parole <<dei lavori pubblici di propria competenza>> sono inserite le seguenti: <<, nel rispetto delle disposizioni di cui al decreto legislativo 31 marzo 2023, n. 36 (Codice dei contratti pubblici in attuazione dell'articolo 1 della legge 21 giugno 2022, n. 78, recante delega al Governo in materia di contratti pubblici)>>.
