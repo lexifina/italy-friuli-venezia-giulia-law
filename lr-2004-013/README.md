@@ -1,0 +1,24 @@
+# L.R. 22 aprile 2004, n. 13: Interventi in materia di professioni.
+
+L.R. 13/2004 · 1 versions, from 2026-11-02 (latest in force: 2026-11-02) · <https://lexview-int.regione.fvg.it/FontiNormative/xml/xmlLex.aspx?anno=2004&legge=13&lista=0&fx=>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 1 bis | [art-001-bis.md](art-001-bis.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |
+| Art. 3 | [art-003.md](art-003.md) | 0 |  |
+| Art. 4 | [art-004.md](art-004.md) | 0 |  |
+| Art. 5 | [art-005.md](art-005.md) | 0 |  |
+| Art. 6 | [art-006.md](art-006.md) | 0 |  |
+| Art. 6 bis | [art-006-bis.md](art-006-bis.md) | 0 |  |
+| Art. 7 | [art-007.md](art-007.md) | 0 |  |
+| Art. 8 | [art-008.md](art-008.md) | 0 |  |
+| Art. 9 | [art-009.md](art-009.md) | 0 |  |
+| Art. 10 | [art-010.md](art-010.md) | 0 |  |
+| Art. 11 | [art-011.md](art-011.md) | 0 |  |
+| Art. 11 bis | [art-011-bis.md](art-011-bis.md) | 0 |  |
+| Art. 11 ter | [art-011-ter.md](art-011-ter.md) | 0 |  |
+| Art. 12 | [art-012.md](art-012.md) | 0 |  |
+| Art. 12 bis | [art-012-bis.md](art-012-bis.md) | 0 |  |
+| Art. 13 | [art-013.md](art-013.md) | 0 |  |

@@ -8,7 +8,7 @@ The text is in Italian, exactly as the source prints it.
 
 ## What this repository holds
 
-589 acts with 589 versions so far: the regional laws in force, added in parts of about fifty. The Statute of Autonomy (legge costituzionale 31 gennaio 1963, n. 1) is a constitutional law of the Italian State and is not included. Laws LEXVIEW marks as repealed in full, laws all of whose articles are repealed, and the few laws whose page a second, independent reader could not confirm letter for letter are left out; regulations are not included.
+1115 acts with 1115 versions so far: the regional laws in force, added in parts of about fifty. The Statute of Autonomy (legge costituzionale 31 gennaio 1963, n. 1) is a constitutional law of the Italian State and is not included. Laws LEXVIEW marks as repealed in full, laws all of whose articles are repealed, and the few laws whose page a second, independent reader could not confirm letter for letter are left out; regulations are not included.
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
@@ -602,6 +602,536 @@ The text is in Italian, exactly as the source prints it.
 | `lr-1995-026/` | L.R. 26 giugno 1995, n. 26: Misure a sostegno degli investimenti industriali in regione. | 1 | oldest version available: 2 November 2026 |
 | `lr-1995-027/` | L.R. 14 luglio 1995, n. 27: Norme per la promozione delle donazioni di organi, tessuti e cellule staminali nel Friuli-Venezia Giulia. | 1 | oldest version available: 2 November 2026 |
 | `lr-1995-028/` | L.R. 17 luglio 1995, n. 28: Sovvenzioni pluriennali al Comune di Monfalcone per il recupero del quartiere di Panzano. | 1 | oldest version available: 2 November 2026 |
+| `lr-1995-030/` | L.R. 17 luglio 1995, n. 30: Sostituzione dell'articolo 1 della legge regionale 30 giugno 1993, N. 51, recante << Disposizioni finanziarie per favorire l'attuazi | 1 | oldest version available: 2 November 2026 |
+| `lr-1995-031/` | L.R. 24 luglio 1995, n. 31: Modifiche di leggi regionali in materia di edilizia residenziale pubblica, di opere pubbliche e di interesse pubblico e di pianifica | 1 | oldest version available: 2 November 2026 |
+| `lr-1995-032/` | L.R. 24 luglio 1995, n. 32: Disciplina e promozione dell'agricoltura biologica nel Friuli-Venezia Giulia. | 1 | oldest version available: 2 November 2026 |
+| `lr-1995-033/` | L.R. 9 agosto 1995, n. 33: Intervento straordinario a sostegno del piano di risanamento ambientale dello Stabilimento della << Alti Forni e Ferriere di Servola | 1 | oldest version available: 2 November 2026 |
+| `lr-1995-035/` | L.R. 28 agosto 1995, n. 35: Attuazione degli obiettivi comunitari 2 e 5b. | 1 | oldest version available: 2 November 2026 |
+| `lr-1995-037/` | L.R. 5 settembre 1995, n. 37: Istituzione, compiti ed assetto organizzativo dell'Agenzia regionale della sanità ed altre norme in materia sanitaria. | 1 | oldest version available: 2 November 2026 |
+| `lr-1995-038/` | L.R. 13 settembre 1995, n. 38: Disposizioni in materia di trattamento indennitario dei consiglieri regionali e modifiche alla legge regionale 9 settembre 1964, | 1 | oldest version available: 2 November 2026 |
+| `lr-1995-039/` | L.R. 26 settembre 1995, n. 39: Assestamento e variazione del Bilancio 1995 e del Bilancio pluriennale 1995-1997 ai sensi dell'articolo 10 della legge regionale | 1 | oldest version available: 2 November 2026 |
+| `lr-1995-042/` | L.R. 6 novembre 1995, n. 42: Disposizioni procedurali e modificazioni ed integrazioni di norme legislative diverse. | 1 | oldest version available: 2 November 2026 |
+| `lr-1995-045/` | L.R. 20 novembre 1995, n. 45: Contributi e sovvenzioni a soggetti terzi. | 1 | oldest version available: 2 November 2026 |
+| `lr-1995-046/` | L.R. 20 novembre 1995, n. 46: Modificazioni della legge regionale 18 marzo 1991, n. 12, concernente << Provvedimenti di adeguamento comunitario degli strumenti | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-003/` | L.R. 5 gennaio 1996, n. 3: Disciplina delle associazioni e dei consorzi di comunioni familiari montane. | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-004/` | L.R. 5 gennaio 1996, n. 4: Proroga del termine di cui all'articolo 1 della legge regionale 3 febbraio 1993, n. 4 << Disposizioni concernenti i Consorzi di svilu | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-006/` | L.R. 10 gennaio 1996, n. 6: Definizione della nozione di imprenditore agricolo a titolo principale. | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-007/` | L.R. 10 gennaio 1996, n. 7: Provvedimenti straordinari per le comunità montane e per gli enti locali e norme tecniche di assestamento della variazione di bilanc | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-009/` | L.R. 6 febbraio 1996, n. 9: Disposizioni per la formazione del Bilancio pluriennale ed annuale della Regione (Legge finanziaria 1996). | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-010/` | L.R. 6 febbraio 1996, n. 10: Bilancio pluriennale per gli anni 1996-1998 e Bilancio di previsione per l'anno finanziario 1996 della Regione autonoma Friuli - Ve | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-011/` | L.R. 9 febbraio 1996, n. 11: Disposizioni procedurali e norme modificative di varie leggi regionali. | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-012/` | L.R. 9 febbraio 1996, n. 12: Rendiconto generale della Regione autonoma Friuli - Venezia Giulia per l'esercizio finanziario 1994. | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-013/` | L.R. 19 febbraio 1996, n. 13: Modifiche alla legge regionale 11 dicembre 1989, n. 34, << Indennità di carica e trattamento di missione per i magistrati del Comm | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-014/` | L.R. 8 marzo 1996, n. 14: Sostegno all'attività musicale dell'Orchestra Filarmonica di Udine, con sede a Udine. | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-015/` | L.R. 22 marzo 1996, n. 15: Norme per la tutela e la promozione della lingua e della cultura friulane e istituzione del servizio per le lingue regionali e minori | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-016/` | L.R. 25 marzo 1996, n. 16: Ulteriori disposizioni procedurali e norme modificative di varie leggi regionali. | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-017/` | L.R. 26 marzo 1996, n. 17: Modifiche ed integrazioni della legge regionale 28 agosto 1995, n. 35 << Attuazione degli obiettivi comunitari 2 e 5b >>. | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-018/` | L.R. 27 marzo 1996, n. 18: Riforma dell'impiego regionale in attuazione dei principi fondamentali di riforma economico sociale desumibili dalla legge 23 ottobre | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-019/` | L.R. 1 aprile 1996, n. 19: Ulteriore acconto contrattuale al personale regionale per il biennio 1994-1995. | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-020/` | L.R. 7 maggio 1996, n. 20: Norme urgenti in materia di personale. | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-024/` | L.R. 17 luglio 1996, n. 24: Norme in materia di specie cacciabili e periodi di attività venatoria ed ulteriori norme modificative ed integrative in materia vena | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-025/` | L.R. 22 luglio 1996, n. 25: Disciplina dell'agriturismo. | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-026/` | L.R. 26 luglio 1996, n. 26: Disciplina del servizio del telesoccorso-telecontrollo. | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-027/` | L.R. 5 agosto 1996, n. 27: Norme per il trasporto di persone mediante servizi pubblici automobilistici non di linea. | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-028/` | L.R. 5 agosto 1996, n. 28: Modifiche ed integrazioni alla legge regionale 19 novembre 1992, n. 34 concernente << Interventi regionali di promozione dell'attivit | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-029/` | L.R. 8 agosto 1996, n. 29: Assestamento e variazione del Bilancio 1996 e del Bilancio Pluriennale 1996-1998 ai sensi dell'articolo 10 della legge regionale 20 g | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-030/` | L.R. 8 agosto 1996, n. 30: Interventi urgenti nelle zone colpite dagli eventi alluvionali del mese di giugno 1996. Seconda variazione di bilancio. | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-031/` | L.R. 19 agosto 1996, n. 31: Disposizioni concernenti norme integrative, di modificazione e di proroga di termini di provvedimenti legislativi settoriali. | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-032/` | L.R. 19 agosto 1996, n. 32: Disposizioni concernenti norme integrative, di modificazione e di proroga di termini di provvedimenti legislativi in materia di viab | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-033/` | L.R. 26 agosto 1996, n. 33: Norme regionali di applicazione della legge 15 gennaio 1991, n. 30 concernente << Disciplina della riproduzione animale >>. Abrogazi | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-034/` | L.R. 26 agosto 1996, n. 34: Modifiche alla legge regionale 24 giugno 1993, n. 49 concernente << Norme per il sostegno delle famiglie e per la tutela dei minori | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-035/` | L.R. 26 agosto 1996, n. 35: Norme in materia di personale regionale e di organizzazione degli uffici del Consiglio regionale. | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-036/` | L.R. 26 agosto 1996, n. 36: Finanziamenti per agevolare l'accesso al credito di imprese commerciali e del terziario, rapporti convenzionali con le banche, modif | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-037/` | L.R. 30 agosto 1996, n. 37: Modificazioni ed integrazioni di provvedimenti legislativi in materia di beni ed attività culturali. | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-038/` | L.R. 3 settembre 1996, n. 38: Disposizioni sul patrimonio immobiliare regionale. | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-040/` | L.R. 19 settembre 1996, n. 40: Ulteriori norme per il completamento della ricostruzione in Friuli e modifiche alla legge regionale 16/1996 in materia di edilizi | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-042/` | L.R. 30 settembre 1996, n. 42: Norme in materia di parchi e riserve naturali regionali. | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-044/` | L.R. 29 ottobre 1996, n. 44: Norme modificative, integrative ed interpretative delle leggi regionali 28 ottobre 1980, n. 52 e 26 agosto 1996, n. 35, in materia | 1 | oldest version available: 2 November 2026 |
+| `lr-1996-048/` | L.R. 16 dicembre 1996, n. 48: Interventi per favorire lo svolgimento delle attività istituzionali delle associazioni che perseguono la tutela e la promozione so | 1 | oldest version available: 2 November 2026 |
+| `lr-1997-001/` | L.R. 14 gennaio 1997, n. 1: Disposizioni urgenti di prima applicazione del decreto legislativo 16 settembre 1996, n. 514, recante norme di attuazione dello Stat | 1 | oldest version available: 2 November 2026 |
+| `lr-1997-002/` | L.R. 20 gennaio 1997, n. 2: Autorizzazione all'esercizio provvisorio del bilancio regionale per l'anno 1997. | 1 | oldest version available: 2 November 2026 |
+| `lr-1997-004/` | L.R. 24 gennaio 1997, n. 4: Proroghe di termini in materia di personale. | 1 | oldest version available: 2 November 2026 |
+| `lr-1997-005/` | L.R. 24 gennaio 1997, n. 5: Disciplina del tributo speciale per il deposito in discarica dei rifiuti solidi ed integrazione alla legge regionale 7 settembre 198 | 1 | oldest version available: 2 November 2026 |
+| `lr-1997-006/` | L.R. 24 gennaio 1997, n. 6: Proroghe di termini, modifiche ed integrazioni di leggi regionali. | 1 | oldest version available: 2 November 2026 |
+| `lr-1997-007/` | L.R. 25 febbraio 1997, n. 7: Ulteriori modifiche alla legge regionale 2 maggio 1988, n. 22, recante << Disciplina del referendum abrogativo delle leggi regional | 1 | oldest version available: 2 November 2026 |
+| `lr-1997-008/` | L.R. 4 aprile 1997, n. 8: Disposizioni sul sistema della Tesoreria Unica nel territorio regionale. | 1 | oldest version available: 2 November 2026 |
+| `lr-1997-010/` | L.R. 8 aprile 1997, n. 10: Disposizioni per la formazione del Bilancio pluriennale ed annuale della Regione (Legge finanziaria 1997). | 1 | oldest version available: 2 November 2026 |
+| `lr-1997-011/` | L.R. 8 aprile 1997, n. 11: Bilancio pluriennale per gli anni 1997-1999 e Bilancio di previsione per l' anno finanziario 1997 della Regione Autonoma Friuli-Venez | 1 | oldest version available: 2 November 2026 |
+| `lr-1997-012/` | L.R. 16 aprile 1997, n. 12: Partecipazione della Regione alla costituzione dell'<< Associazione per il Mittelfest >>. | 1 | oldest version available: 2 November 2026 |
+| `lr-1997-013/` | L.R. 16 aprile 1997, n. 13: Interventi a favore dell'Istituto regionale per gli studi di servizio sociale. | 1 | oldest version available: 2 November 2026 |
+| `lr-1997-014/` | L.R. 16 aprile 1997, n. 14: Rendiconto generale della Regione Autonoma Friuli-Venezia Giulia per l'esercizio finanziario 1995. | 1 | oldest version available: 2 November 2026 |
+| `lr-1997-018/` | L.R. 18 aprile 1997, n. 18: Interventi a sostegno di istituzioni operanti a favore dei disabili visivi. | 1 | oldest version available: 2 November 2026 |
+| `lr-1997-021/` | L.R. 20 maggio 1997, n. 21: Determinazione transitoria del fabbisogno estrattivo in materia di sabbie e ghiaie e modifiche ai regimi autorizzativo e sanzionator | 1 | oldest version available: 2 November 2026 |
+| `lr-1997-023/` | L.R. 4 luglio 1997, n. 23: Norme urgenti per la semplificazione dei procedimenti amministrativi, in materia di autonomie locali e di organizzazione dell'Amminis | 1 | oldest version available: 2 November 2026 |
+| `lr-1997-026/` | L.R. 28 luglio 1997, n. 26: Definizione delle piccole e medie imprese industriali nel territorio regionale e norme riguardanti i consorzi di sviluppo industrial | 1 | oldest version available: 2 November 2026 |
+| `lr-1997-028/` | L.R. 5 settembre 1997, n. 28: Interventi di emergenza a favore delle zone colpite da calamità naturali del giugno 1996 e norme urgenti per l'attuazione di progr | 1 | oldest version available: 2 November 2026 |
+| `lr-1997-029/` | L.R. 5 settembre 1997, n. 29: Disposizioni urgenti per il personale dell'area dirigenziale. | 1 | oldest version available: 2 November 2026 |
+| `lr-1997-031/` | L.R. 9 settembre 1997, n. 31: Norme in materia di personale regionale e di organizzazione degli uffici dell'Amministrazione regionale. Norme concernenti il pers | 1 | oldest version available: 2 November 2026 |
+| `lr-1997-032/` | L.R. 9 settembre 1997, n. 32: Modifica dell'assetto del dipartimento dei servizi sociali di cui alla legge regionale 1 marzo 1988, n. 7 e altre norme in materia | 1 | oldest version available: 2 November 2026 |
+| `lr-1997-033/` | L.R. 5 novembre 1997, n. 33: Assestamento del bilancio 1997 e del bilancio pluriennale 1997-1999 ai sensi dell'articolo 10 della legge regionale 20 gennaio 1982 | 1 | oldest version available: 2 November 2026 |
+| `lr-1997-035/` | L.R. 28 novembre 1997, n. 35: Norme di attuazione del programma comunitario Konver. | 1 | oldest version available: 2 November 2026 |
+| `lr-1997-036/` | L.R. 28 novembre 1997, n. 36: Norme di attuazione del programma comunitario PMI nonché ulteriori Misure di accelerazione della spesa relativa al Documento Unico | 1 | oldest version available: 2 November 2026 |
+| `lr-1997-037/` | L.R. 1 dicembre 1997, n. 37: Disciplina degli interventi << de minimis >>. | 1 | oldest version available: 2 November 2026 |
+| `lr-1997-038/` | L.R. 12 dicembre 1997, n. 38: Disposizioni finanziarie per l'Obiettivo 2. Modifica dell'articolo 16, comma 6, della legge regionale 8 aprile 1997, n. 10 (legge | 1 | oldest version available: 2 November 2026 |
+| `lr-1998-001/` | L.R. 14 gennaio 1998, n. 1: Norme in materia di politica attiva del lavoro, collocamento e servizi all'impiego nonché norme in materia di formazione professiona | 1 | oldest version available: 2 November 2026 |
+| `lr-1998-003/` | L.R. 12 febbraio 1998, n. 3: Disposizioni per la formazione del bilancio pluriennale ed annuale della Regione (legge finanziaria 1998). | 1 | oldest version available: 2 November 2026 |
+| `lr-1998-004/` | L.R. 12 febbraio 1998, n. 4: Bilancio pluriennale per gli anni 1998-2000 e Bilancio di previsione per l'anno finanziario 1998 della Regione Autonoma Friuli-Vene | 1 | oldest version available: 2 November 2026 |
+| `lr-1998-005/` | L.R. 20 febbraio 1998, n. 5: Rendiconto generale della Regione Autonoma Friuli-Venezia Giulia per l'esercizio finanziario 1996. | 1 | oldest version available: 2 November 2026 |
+| `lr-1998-006/` | L.R. 3 marzo 1998, n. 6: Istituzione dell'Agenzia regionale per la protezione dell'ambiente - ARPA. | 1 | oldest version available: 2 November 2026 |
+| `lr-1998-007/` | L.R. 17 marzo 1998, n. 7: Interventi a favore della Riserva naturale marina di Miramare. | 1 | oldest version available: 2 November 2026 |
+| `lr-1998-008/` | L.R. 12 maggio 1998, n. 8: Contributi per la costituzione di un << fondo rischi >> a favore del Consorzio regionale di garanzia fidi operante nel settore dello | 1 | oldest version available: 2 November 2026 |
+| `lr-1998-009/` | L.R. 19 maggio 1998, n. 9: Disposizioni per l'adempimento di obblighi comunitari in materia di aiuti di Stato. | 1 | oldest version available: 2 November 2026 |
+| `lr-1998-010/` | L.R. 19 maggio 1998, n. 10: Norme in materia di tutela della salute e di promozione sociale delle persone anziane, nonché modifiche all'articolo 15 della legge | 1 | oldest version available: 2 November 2026 |
+| `lr-1998-011/` | L.R. 6 luglio 1998, n. 11: Attuazione dell'iniziativa comunitaria pesca e altre disposizioni relative a programmi comunitari. | 1 | oldest version available: 2 November 2026 |
+| `lr-1998-012/` | L.R. 13 luglio 1998, n. 12: Nuove norme in materia di incentivi ed interventi economici in agricoltura nonché norme di riprogrammazione del DOCUP obiettivo 5 b) | 1 | oldest version available: 2 November 2026 |
+| `lr-1998-013/` | L.R. 9 novembre 1998, n. 13: Disposizioni in materia di ambiente, territorio, attività economiche e produttive, sanità e assistenza sociale, istruzione e cultur | 1 | oldest version available: 2 November 2026 |
+| `lr-1998-014/` | L.R. 10 novembre 1998, n. 14: Assestamento del bilancio 1998 e del bilancio pluriennale 1998-2000 ai sensi dell'articolo 10 della legge regionale 20 gennaio 198 | 1 | oldest version available: 2 November 2026 |
+| `lr-1998-016/` | L.R. 15 dicembre 1998, n. 16: Modifiche ed integrazioni alla legge regionale 3 marzo 1998, n. 6, istitutiva dell'Agenzia regionale per la protezione dell'ambien | 1 | oldest version available: 2 November 2026 |
+| `lr-1998-017/` | L.R. 22 dicembre 1998, n. 17: Disposizioni in materia di cooperazione transfrontaliera, di cooperazione allo sviluppo e di programmi comunitari, nonché modifica | 1 | oldest version available: 2 November 2026 |
+| `lr-1998-018/` | L.R. 18 dicembre 1998, n. 18: Misure urgenti in materia di personale regionale. | 1 | oldest version available: 2 November 2026 |
+| `lr-1999-002/` | L.R. 18 gennaio 1999, n. 2: Attribuzione alla Giunta regionale del coordinamento delle attività di recupero del comprensorio minerario di Cave del Predil e nomi | 1 | oldest version available: 2 November 2026 |
+| `lr-1999-003/` | L.R. 18 gennaio 1999, n. 3: Disciplina dei Consorzi di sviluppo industriale. | 1 | oldest version available: 2 November 2026 |
+| `lr-1999-004/` | L.R. 15 febbraio 1999, n. 4: Disposizioni per la formazione del bilancio pluriennale ed annuale della Regione (Legge finanziaria 1999). | 1 | oldest version available: 2 November 2026 |
+| `lr-1999-005/` | L.R. 15 febbraio 1999, n. 5: << Bilancio pluriennale per gli anni 1999-2001 >> e << Bilancio di previsione per l'anno finanziario 1999 >> della Regione Autonoma | 1 | oldest version available: 2 November 2026 |
+| `lr-1999-006/` | L.R. 22 febbraio 1999, n. 6: Rendiconto generale della Regione Autonoma Friuli-Venezia Giulia per l'esercizio finanziario 1997. | 1 | oldest version available: 2 November 2026 |
+| `lr-1999-009/` | L.R. 20 aprile 1999, n. 9: Disposizioni varie in materia di competenza regionale. | 1 | oldest version available: 2 November 2026 |
+| `lr-1999-011/` | L.R. 26 aprile 1999, n. 11: Disposizioni di semplificazione amministrativa per il contenimento della spesa pubblica, connesse alla manovra finanziaria per l'ann | 1 | oldest version available: 2 November 2026 |
+| `lr-1999-015/` | L.R. 7 giugno 1999, n. 15: Ulteriori criteri di priorità a favore di soggetti residenti nella regione Friuli-Venezia Giulia, di soggetti iscritti all'AIRE di un | 1 | oldest version available: 2 November 2026 |
+| `lr-1999-018/` | L.R. 5 luglio 1999, n. 18: Modifiche ed integrazioni alla legge regionale 10/1981 in materia di Enti fieristici e norme contabili. | 1 | oldest version available: 2 November 2026 |
+| `lr-1999-019/` | L.R. 5 luglio 1999, n. 19: Regolarizzazione della occupazione di alloggi di edilizia sovvenzionata, modifiche alle leggi regionali 75/1982 e 13/1998, in materia | 1 | oldest version available: 2 November 2026 |
+| `lr-1999-020/` | L.R. 6 luglio 1999, n. 20: Nuovi strumenti per il finanziamento di opere pubbliche, per il sostegno dell'impresa e dell'occupazione, nonché per la raccolta e l' | 1 | oldest version available: 2 November 2026 |
+| `lr-1999-021/` | L.R. 12 luglio 1999, n. 21: Interventi per il riconoscimento e la valorizzazione della funzione sociale e di servizio delle Società di Mutuo Soccorso. | 1 | oldest version available: 2 November 2026 |
+| `lr-1999-022/` | L.R. 12 luglio 1999, n. 22: Disposizioni in materia di istruzione e cultura. | 1 | oldest version available: 2 November 2026 |
+| `lr-1999-023/` | L.R. 16 agosto 1999, n. 23: Disciplina di raccolta, coltivazione, conservazione e commercio dei tartufi. | 1 | oldest version available: 2 November 2026 |
+| `lr-1999-025/` | L.R. 13 settembre 1999, n. 25: Assestamento del bilancio 1999 e del bilancio pluriennale 1999-2001 ai sensi dell'articolo 10 della legge regionale 20 gennaio 19 | 1 | oldest version available: 2 November 2026 |
+| `lr-1999-026/` | L.R. 13 settembre 1999, n. 26: Disposizioni particolari per l'attuazione dei programmi comunitari KONVER, Pesca, Obiettivo 2, INTERREG Italia- Slovenia e Italia | 1 | oldest version available: 2 November 2026 |
+| `lr-1999-028/` | L.R. 15 novembre 1999, n. 28: Norme urgenti per la semplificazione dei procedimenti in materia di lavoro, cooperazione ed artigianato. | 1 | oldest version available: 2 November 2026 |
+| `lr-1999-030/` | L.R. 31 dicembre 1999, n. 30: Gestione ed esercizio dell'attività venatoria nella regione Friuli-Venezia Giulia. | 1 | oldest version available: 2 November 2026 |
+| `lr-2000-001/` | L.R. 15 febbraio 2000, n. 1: Disposizioni in materia di personale regionale e di organizzazione degli uffici regionali, di lavori pubblici, urbanistica, edilizi | 1 | oldest version available: 2 November 2026 |
+| `lr-2000-002/` | L.R. 22 febbraio 2000, n. 2: Disposizioni per la formazione del bilancio pluriennale ed annuale della Regione (Legge finanziaria 2000). | 1 | oldest version available: 2 November 2026 |
+| `lr-2000-003/` | L.R. 22 febbraio 2000, n. 3: Bilancio di previsione per gli anni 2000-2002 e per l'anno 2000 della Regione Autonoma Friuli-Venezia Giulia. | 1 | oldest version available: 2 November 2026 |
+| `lr-2000-004/` | L.R. 25 febbraio 2000, n. 4: Disposizioni inerenti all'istituzione e alla disciplina dell'imposta regionale sulle attività produttive (IRAP) e altre disposizion | 1 | oldest version available: 2 November 2026 |
+| `lr-2000-006/` | L.R. 3 marzo 2000, n. 6: Rendiconto generale della Regione Autonoma Friuli-Venezia Giulia per l'esercizio finanziario 1998. | 1 | oldest version available: 2 November 2026 |
+| `lr-2000-007/` | L.R. 20 marzo 2000, n. 7: Testo unico delle norme in materia di procedimento amministrativo e di diritto di accesso. | 1 | oldest version available: 2 November 2026 |
+| `lr-2000-008/` | L.R. 17 aprile 2000, n. 8: Ordinamento ed organizzazione del Consiglio regionale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2000-011/` | L.R. 10 maggio 2000, n. 11: Modifiche alla legge regionale 12 novembre 1996, n. 47, in materia di riduzione del prezzo alla pompa delle benzine nel territorio r | 1 | oldest version available: 2 November 2026 |
+| `lr-2000-013/` | L.R. 3 luglio 2000, n. 13: Disposizioni collegate alla Legge finanziaria 2000 | 1 | oldest version available: 2 November 2026 |
+| `lr-2000-015/` | L.R. 8 agosto 2000, n. 15: Norme per l'introduzione dei prodotti biologici, a chilometro zero, tipici e tradizionali nelle mense pubbliche e per iniziative di e | 1 | oldest version available: 2 November 2026 |
+| `lr-2000-018/` | L.R. 11 settembre 2000, n. 18: Assestamento del bilancio 2000 e del bilancio pluriennale 2000-2002 ai sensi dell'articolo 18 della legge regionale 16 aprile 199 | 1 | oldest version available: 2 November 2026 |
+| `lr-2000-019/` | L.R. 30 ottobre 2000, n. 19: Interventi per la promozione, a livello regionale e locale, delle attività di cooperazione allo sviluppo e partenariato internazion | 1 | oldest version available: 2 November 2026 |
+| `lr-2000-020/` | L.R. 13 novembre 2000, n. 20: Norme urgenti per la semplificazione dei procedimenti amministrativi, per l'adeguamento delle leggi in materia forestale, nonché p | 1 | oldest version available: 2 November 2026 |
+| `lr-2000-021/` | L.R. 22 novembre 2000, n. 21: Disciplina per il contrassegno dei prodotti agricoli del Friuli-Venezia Giulia non modificati geneticamente, per la promozione dei | 1 | oldest version available: 2 November 2026 |
+| `lr-2000-022/` | L.R. 29 novembre 2000, n. 22: Proroga contratti di lavoro a tempo determinato. | 1 | oldest version available: 2 November 2026 |
+| `lr-2001-001/` | L.R. 22 gennaio 2001, n. 1: Modifiche all'articolo 9 della legge regionale 64/1986, in materia di interventi urgenti a favore delle popolazioni colpite da event | 1 | oldest version available: 2 November 2026 |
+| `lr-2001-002/` | L.R. 2 febbraio 2001, n. 2: Comparto unico del pubblico impiego della Regione e degli Enti locali e organizzazione dell'Agenzia regionale per la rappresentanza | 1 | oldest version available: 2 November 2026 |
+| `lr-2001-003/` | L.R. 12 febbraio 2001, n. 3: Disposizioni in materia di sportello unico per le attività produttive e semplificazione di procedimenti amministrativi e del corpo | 1 | oldest version available: 2 November 2026 |
+| `lr-2001-004/` | L.R. 26 febbraio 2001, n. 4: Disposizioni per la formazione del bilancio pluriennale ed annuale della Regione (Legge finanziaria 2001). | 1 | oldest version available: 2 November 2026 |
+| `lr-2001-005/` | L.R. 26 febbraio 2001, n. 5: Bilancio di previsione per gli anni 2001-2003 e per l'anno 2001 della Regione Autonoma Friuli-Venezia Giulia. | 1 | oldest version available: 2 November 2026 |
+| `lr-2001-006/` | L.R. 26 febbraio 2001, n. 6: Rendiconto generale della Regione Autonoma Friuli-Venezia Giulia per l'esercizio finanziario 1999. | 1 | oldest version available: 2 November 2026 |
+| `lr-2001-007/` | L.R. 26 febbraio 2001, n. 7: Modifiche alla legge regionale 19 novembre 1991, n. 52, recante: "Norme regionali in materia di pianificazione territoriale ed urba | 1 | oldest version available: 2 November 2026 |
+| `lr-2001-008/` | L.R. 9 marzo 2001, n. 8: Disposizioni urgenti in attuazione del decreto legislativo 30 dicembre 1992, n. 502, come modificato dal decreto legislativo 19 giugno | 1 | oldest version available: 2 November 2026 |
+| `lr-2001-010/` | L.R. 30 marzo 2001, n. 10: Disposizioni in materia di personale ed organizzazione degli uffici. | 1 | oldest version available: 2 November 2026 |
+| `lr-2001-011/` | L.R. 10 aprile 2001, n. 11: Norme in materia di comunicazione, di emittenza radiotelevisiva locale ed istituzione del Comitato regionale per le comunicazioni (C | 1 | oldest version available: 2 November 2026 |
+| `lr-2001-012/` | L.R. 11 aprile 2001, n. 12: Disposizioni in materia di diritto al lavoro dei disabili, di telelavoro e in materia previdenziale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2001-013/` | L.R. 24 aprile 2001, n. 13: Nuove disposizioni per le zone montane in attuazione della legge 31 gennaio 1994, n. 97. | 1 | oldest version available: 2 November 2026 |
+| `lr-2001-014/` | L.R. 2 maggio 2001, n. 14: Rappresentanza delle categorie protette presso la pubblica amministrazione. | 1 | oldest version available: 2 November 2026 |
+| `lr-2001-016/` | L.R. 26 giugno 2001, n. 16: Interventi di rilancio economico, potenziamento, miglioramento e completamento funzionale di strutture al servizio dei traffici, non | 1 | oldest version available: 2 November 2026 |
+| `lr-2001-017/` | L.R. 28 agosto 2001, n. 17: Norme di semplificazione in materia di gestione dei rifiuti agricoli. | 1 | oldest version available: 2 November 2026 |
+| `lr-2001-018/` | L.R. 28 agosto 2001, n. 18: Indennizzo forfetario spettante ai Coordinatori dei servizi sociali, soppressione delle Comunità montane e modalità istruttorie dell | 1 | oldest version available: 2 November 2026 |
+| `lr-2001-019/` | L.R. 28 agosto 2001, n. 19: Modifiche della legge regionale 28 agosto 2001, n. 18 (n. 86 ter) recante <<Indennizzo forfetario spettante ai Coordinatori dei serv | 1 | oldest version available: 2 November 2026 |
+| `lr-2001-020/` | L.R. 4 settembre 2001, n. 20: Modifiche alla legge regionale 29/1993 in materia di aucupio, modifiche e integrazioni alle leggi regionali 24/1996 e 30/1999, non | 1 | oldest version available: 2 November 2026 |
+| `lr-2001-021/` | L.R. 4 settembre 2001, n. 21: Disposizioni varie in materie di competenza regionale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2001-022/` | L.R. 12 settembre 2001, n. 22: Disposizioni in materia di sorveglianza, prevenzione e informazione delle situazioni da rischio amianto e interventi regionali ad | 1 | oldest version available: 2 November 2026 |
+| `lr-2001-023/` | L.R. 12 settembre 2001, n. 23: Assestamento del bilancio 2001 e del bilancio pluriennale 2001-2003 ai sensi dell'articolo 18 della legge regionale 16 aprile 199 | 1 | oldest version available: 2 November 2026 |
+| `lr-2001-025/` | L.R. 27 novembre 2001, n. 25: Assistenza sanitaria integrativa per mutilati e invalidi di guerra, per causa di guerra e per servizio. | 1 | oldest version available: 2 November 2026 |
+| `lr-2001-026/` | L.R. 27 novembre 2001, n. 26: Norme specifiche per l'attuazione del DOCUP obiettivo 2 per il periodo 2000-2006, disposizioni per l'attuazione dei programmi comu | 1 | oldest version available: 2 November 2026 |
+| `lr-2001-027/` | L.R. 27 novembre 2001, n. 27: Adozione della bandiera della Regione Friuli-Venezia Giulia, disposizioni per il suo uso ed esposizione, nonché per quelle della R | 1 | oldest version available: 2 November 2026 |
+| `lr-2001-028/` | L.R. 27 novembre 2001, n. 28: Attuazione del decreto legislativo 11 maggio 1999, n. 152, in materia di deflusso minimo vitale delle derivazioni d'acqua. | 1 | oldest version available: 2 November 2026 |
+| `lr-2001-029/` | L.R. 27 novembre 2001, n. 29: Norme sul referendum confermativo previsto dall'articolo 12, quarto e quinto comma, dello Statuto speciale della Regione Friuli Ve | 1 | oldest version available: 2 November 2026 |
+| `lr-2001-030/` | L.R. 18 dicembre 2001, n. 30: Norme per la attuazione degli interventi di dragaggio dei fiumi e dei canali mediante la realizzazione di barene conterminate, non | 1 | oldest version available: 2 November 2026 |
+| `lr-2002-001/` | L.R. 11 gennaio 2002, n. 1: Norme per la redazione del rapporto sulle malattie professionali e gli infortuni sul lavoro in Friuli Venezia Giulia nel decennio 19 | 1 | oldest version available: 2 November 2026 |
+| `lr-2002-002/` | L.R. 16 gennaio 2002, n. 2: Disciplina delle professioni turistiche e del turismo congressuale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2002-003/` | L.R. 25 gennaio 2002, n. 3: Disposizioni per la formazione del bilancio pluriennale ed annuale della Regione autonoma Friuli Venezia Giulia (Legge finanziaria 2 | 1 | oldest version available: 2 November 2026 |
+| `lr-2002-004/` | L.R. 25 gennaio 2002, n. 4: Bilancio di previsione per gli anni 2002-2004 e per l'anno 2002. | 1 | oldest version available: 2 November 2026 |
+| `lr-2002-005/` | L.R. 4 febbraio 2002, n. 5: Rendiconto generale della Regione Autonoma Friuli Venezia Giulia per l'esercizio finanziario 2000. | 1 | oldest version available: 2 November 2026 |
+| `lr-2002-007/` | L.R. 26 febbraio 2002, n. 7: Nuova disciplina degli interventi regionali in materia di corregionali all'estero e rimpatriati. | 1 | oldest version available: 2 November 2026 |
+| `lr-2002-009/` | L.R. 20 marzo 2002, n. 9: Modifiche alla legge regionale 12 novembre 1996, n. 47, in materia di riduzione del prezzo alla pompa dei carburanti per autotrazione | 1 | oldest version available: 2 November 2026 |
+| `lr-2002-010/` | L.R. 27 marzo 2002, n. 10: Disposizioni in materia di personale e organizzazione degli uffici. | 1 | oldest version available: 2 November 2026 |
+| `lr-2002-011/` | L.R. 22 aprile 2002, n. 11: Tutela delle risorse genetiche autoctone di interesse agrario e forestale | 1 | oldest version available: 2 November 2026 |
+| `lr-2002-012/` | L.R. 22 aprile 2002, n. 12: Disciplina organica dell'artigianato. | 1 | oldest version available: 2 November 2026 |
+| `lr-2002-013/` | L.R. 15 maggio 2002, n. 13: Disposizioni collegate alla legge finanziaria 2002. | 1 | oldest version available: 2 November 2026 |
+| `lr-2002-014/` | L.R. 31 maggio 2002, n. 14: Disciplina organica dei lavori pubblici. | 1 | oldest version available: 2 November 2026 |
+| `lr-2002-016/` | L.R. 3 luglio 2002, n. 16: Disposizioni relative al riassetto organizzativo e funzionale in materia di difesa del suolo e di demanio idrico. | 1 | oldest version available: 2 November 2026 |
+| `lr-2002-017/` | L.R. 17 luglio 2002, n. 17: Istituzione di case da gioco nel Friuli Venezia Giulia. | 1 | oldest version available: 2 November 2026 |
+| `lr-2002-019/` | L.R. 2 agosto 2002, n. 19: Progetti di sanità transfrontaliera. | 1 | oldest version available: 2 November 2026 |
+| `lr-2002-020/` | L.R. 13 agosto 2002, n. 20: Disciplina del nuovo sistema di classificazione del personale della Regione, nonché ulteriori disposizioni in materia di personale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2002-021/` | L.R. 13 agosto 2002, n. 21: Norme per la valorizzazione dei prodotti agricoli e alimentari di qualità | 1 | oldest version available: 2 November 2026 |
+| `lr-2002-022/` | L.R. 13 agosto 2002, n. 22: Istituzione del Fondo regionale per la gestione delle emergenze in agricoltura. | 1 | oldest version available: 2 November 2026 |
+| `lr-2002-023/` | L.R. 23 agosto 2002, n. 23: Assestamento del bilancio 2002 e del bilancio pluriennale 2002-2004 ai sensi dell'articolo 18 della legge regionale 16 aprile 1999, | 1 | oldest version available: 2 November 2026 |
+| `lr-2002-025/` | L.R. 1 ottobre 2002, n. 25: Disciplina dell'Ente Zona Industriale di Trieste. | 1 | oldest version available: 2 November 2026 |
+| `lr-2002-026/` | L.R. 1 ottobre 2002, n. 26: Norme regionali per la disciplina dell'attività di tassidermia. | 1 | oldest version available: 2 November 2026 |
+| `lr-2002-027/` | L.R. 1 ottobre 2002, n. 27: Norme per il sostegno e il riconoscimento delle associazioni ornitologiche della regione Friuli Venezia Giulia. | 1 | oldest version available: 2 November 2026 |
+| `lr-2002-028/` | L.R. 29 ottobre 2002, n. 28: Norme in materia di bonifica e di ordinamento dei Consorzi di bonifica, nonché modifiche alle leggi regionali 9/1999, in materia di | 1 | oldest version available: 2 November 2026 |
+| `lr-2002-033/` | L.R. 20 dicembre 2002, n. 33: Istituzione dei Comprensori montani del Friuli Venezia Giulia. | 1 | oldest version available: 2 November 2026 |
+| `lr-2002-034/` | L.R. 30 dicembre 2002, n. 34: Norme in materia di personale e modifiche alle leggi regionali 18/1996, 20/2002 e 24/2002. | 1 | oldest version available: 2 November 2026 |
+| `lr-2003-001/` | L.R. 29 gennaio 2003, n. 1: Disposizioni per la formazione del bilancio pluriennale ed annuale della Regione (Legge finanziaria 2003). | 1 | oldest version available: 2 November 2026 |
+| `lr-2003-002/` | L.R. 3 febbraio 2003, n. 2: Bilancio di previsione per gli anni 2003-2005 e per l'anno 2003 della Regione Autonoma Friuli Venezia Giulia. | 1 | oldest version available: 2 November 2026 |
+| `lr-2003-003/` | L.R. 12 febbraio 2003, n. 3: Rendiconto generale della Regione autonoma Friuli Venezia Giulia per l'esercizio finanziario 2001. | 1 | oldest version available: 2 November 2026 |
+| `lr-2003-004/` | L.R. 12 febbraio 2003, n. 4: Norme in materia di enti locali e interventi a sostegno dei soggetti disabili nelle scuole. | 1 | oldest version available: 2 November 2026 |
+| `lr-2003-005/` | L.R. 7 marzo 2003, n. 5: Articolo 12 dello Statuto della Regione Autonoma Friuli Venezia Giulia. Norme relative alla richiesta, indizione e svolgimento dei refe | 1 | oldest version available: 2 November 2026 |
+| `lr-2003-008/` | L.R. 3 aprile 2003, n. 8: Testo unico in materia di sport. | 1 | oldest version available: 2 November 2026 |
+| `lr-2003-009/` | L.R. 11 aprile 2003, n. 9: Fondo di rotazione per le iniziative economiche nel Friuli Venezia Giulia. Adeguamento ai sensi del decreto legislativo 110/2002. | 1 | oldest version available: 2 November 2026 |
+| `lr-2003-010/` | L.R. 17 aprile 2003, n. 10: Disciplina del regime di deroga previsto dall'articolo 9 della direttiva n. 79/409/CEE concernente la conservazione degli uccelli se | 1 | oldest version available: 2 November 2026 |
+| `lr-2003-012/` | L.R. 30 aprile 2003, n. 12: Disposizioni collegate alla legge finanziaria 2003. | 1 | oldest version available: 2 November 2026 |
+| `lr-2003-013/` | L.R. 12 agosto 2003, n. 13: Norme modificative in materia di ordinamento e organizzazione dell'Amministrazione regionale e del Consiglio regionale, nonché sulla | 1 | oldest version available: 2 November 2026 |
+| `lr-2003-014/` | L.R. 20 agosto 2003, n. 14: Assestamento del bilancio 2003 e del bilancio pluriennale per gli anni 2003-2005 ai sensi dell'articolo 18 della legge regionale 16 | 1 | oldest version available: 2 November 2026 |
+| `lr-2003-015/` | L.R. 20 agosto 2003, n. 15: Disposizioni urgenti concernenti l'Agenzia regionale per lo sviluppo rurale - ERSA, l'alienazione di beni regionali e il personale r | 1 | oldest version available: 2 November 2026 |
+| `lr-2003-017/` | L.R. 5 novembre 2003, n. 17: Disposizioni per il rilascio del nulla osta all'impiego delle radiazioni ionizzanti in attuazione degli articoli 50, 51 e 52 del de | 1 | oldest version available: 2 November 2026 |
+| `lr-2003-018/` | L.R. 5 dicembre 2003, n. 18: Interventi urgenti nei settori dell'industria, dell'artigianato, della cooperazione, del commercio e del turismo, in materia di sic | 1 | oldest version available: 2 November 2026 |
+| `lr-2003-019/` | L.R. 11 dicembre 2003, n. 19: Riordino del sistema delle istituzioni pubbliche di assistenza e beneficenza nella Regione Friuli Venezia Giulia. | 1 | oldest version available: 2 November 2026 |
+| `lr-2003-020/` | L.R. 11 dicembre 2003, n. 20: Interventi di politica attiva del lavoro in situazioni di grave difficoltà occupazionale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2003-021/` | L.R. 11 dicembre 2003, n. 21: Norme urgenti in materia di enti locali, nonché di uffici di segreteria degli Assessori regionali. | 1 | oldest version available: 2 November 2026 |
+| `lr-2003-022/` | L.R. 11 dicembre 2003, n. 22: Divieto di sanatoria eccezionale delle opere abusive. | 1 | oldest version available: 2 November 2026 |
+| `lr-2004-001/` | L.R. 26 gennaio 2004, n. 1: Disposizioni per la formazione del bilancio pluriennale ed annuale della Regione Autonoma Friuli Venezia Giulia (Legge finanziaria 2 | 1 | oldest version available: 2 November 2026 |
+| `lr-2004-002/` | L.R. 26 gennaio 2004, n. 2: Bilancio di previsione per gli anni 2004-2006 e per l'anno 2004 della Regione Autonoma Friuli Venezia Giulia. | 1 | oldest version available: 2 November 2026 |
+| `lr-2004-003/` | L.R. 6 febbraio 2004, n. 3: Rendiconto generale della Regione autonoma Friuli Venezia Giulia per l'esercizio finanziario 2002. | 1 | oldest version available: 2 November 2026 |
+| `lr-2004-004/` | L.R. 17 febbraio 2004, n. 4: Riforma dell'ordinamento della dirigenza e della struttura operativa della Regione Friuli Venezia Giulia. Modifiche alla legge regi | 1 | oldest version available: 2 November 2026 |
+| `lr-2004-005/` | L.R. 8 marzo 2004, n. 5: Disposizioni in materia di concessione dei trattamenti economici in favore degli invalidi civili. | 1 | oldest version available: 2 November 2026 |
+| `lr-2004-006/` | L.R. 10 marzo 2004, n. 6: Disposizioni in materia di organizzazione degli uffici alle dipendenze funzionali del difensore civico, del tutore dei minori e del Co | 1 | oldest version available: 2 November 2026 |
+| `lr-2004-007/` | L.R. 24 marzo 2004, n. 7: Interventi per lo sviluppo del trasporto combinato. | 1 | oldest version available: 2 November 2026 |
+| `lr-2004-008/` | L.R. 24 marzo 2004, n. 8: Agenzia regionale per lo sviluppo rurale - ERSA. | 1 | oldest version available: 2 November 2026 |
+| `lr-2004-009/` | L.R. 2 aprile 2004, n. 9: Modifiche e integrazioni a norme in materia di trasporti. | 1 | oldest version available: 2 November 2026 |
+| `lr-2004-010/` | L.R. 2 aprile 2004, n. 10: Disposizioni sulla partecipazione della Regione Friuli Venezia Giulia alla formazione e all'attuazione della normativa dell'Unione eu | 1 | oldest version available: 2 November 2026 |
+| `lr-2004-011/` | L.R. 2 aprile 2004, n. 11: Modifica all'articolo 19 della legge regionale 12/2003 in materia di incrementi tariffari dei servizi di fognatura, collettamento e d | 1 | oldest version available: 2 November 2026 |
+| `lr-2004-012/` | L.R. 2 aprile 2004, n. 12: Istituzione, attribuzioni e disciplina della Convenzione per la stesura del nuovo Statuto speciale di autonomia della Regione Friuli | 1 | oldest version available: 2 November 2026 |
+| `lr-2004-013/` | L.R. 22 aprile 2004, n. 13: Interventi in materia di professioni. | 1 | oldest version available: 2 November 2026 |
+| `lr-2004-014/` | L.R. 24 maggio 2004, n. 14: Modifiche alla legge regionale 20 marzo 2000, n. 7 (Testo unico delle norme in materia di procedimento amministrativo e di diritto d | 1 | oldest version available: 2 November 2026 |
+| `lr-2004-015/` | L.R. 24 maggio 2004, n. 15: Riordinamento normativo dell'anno 2004 per i settori della protezione civile, ambiente, lavori pubblici, pianificazione territoriale | 1 | oldest version available: 2 November 2026 |
+| `lr-2004-016/` | L.R. 24 maggio 2004, n. 16: Norme per la tutela dei consumatori e degli utenti. | 1 | oldest version available: 2 November 2026 |
+| `lr-2004-017/` | L.R. 24 maggio 2004, n. 17: Riordino normativo dell'anno 2004 per il settore degli affari istituzionali. | 1 | oldest version available: 2 November 2026 |
+| `lr-2004-018/` | L.R. 4 giugno 2004, n. 18: Riordinamento normativo dell'anno 2004 per il settore delle attività economiche e produttive. | 1 | oldest version available: 2 November 2026 |
+| `lr-2004-019/` | L.R. 21 luglio 2004, n. 19: Assestamento del bilancio 2004 del bilancio pluriennale per gli anni 2004-2006 ai sensi dell'articolo 18 della legge regionale 16 ap | 1 | oldest version available: 2 November 2026 |
+| `lr-2004-020/` | L.R. 21 luglio 2004, n. 20: Riordino normativo dell'anno 2004 per il settore dei servizi sociali. | 1 | oldest version available: 2 November 2026 |
+| `lr-2004-021/` | L.R. 29 luglio 2004, n. 21: Determinazione dei casi di ineleggibilità e incompatibilità relativi alla carica di consigliere regionale e di membro della Giunta r | 1 | oldest version available: 2 November 2026 |
+| `lr-2004-023/` | L.R. 17 agosto 2004, n. 23: Disposizioni sulla partecipazione degli enti locali ai processi programmatori e di verifica in materia sanitaria, sociale e sociosan | 1 | oldest version available: 2 November 2026 |
+| `lr-2004-025/` | L.R. 25 ottobre 2004, n. 25: Interventi a favore della sicurezza e dell'educazione stradale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2004-026/` | L.R. 29 ottobre 2004, n. 26: Norme regionali sulla sanatoria degli abusi edilizi prevista dall'articolo 32 del decreto legge 30 settembre 2003, n. 269 e success | 1 | oldest version available: 2 November 2026 |
+| `lr-2005-001/` | L.R. 2 febbraio 2005, n. 1: Disposizioni per la formazione del bilancio pluriennale e annuale della Regione Autonoma Friuli Venezia Giulia (Legge finanziaria 20 | 1 | oldest version available: 2 November 2026 |
+| `lr-2005-002/` | L.R. 2 febbraio 2005, n. 2: Bilancio di previsione per gli anni 2005-2007 e per l'anno 2005. | 1 | oldest version available: 2 November 2026 |
+| `lr-2005-003/` | L.R. 2 febbraio 2005, n. 3: Rendiconto generale della Regione autonoma Friuli Venezia Giulia per l'esercizio finanziario 2003. | 1 | oldest version available: 2 November 2026 |
+| `lr-2005-004/` | L.R. 4 marzo 2005, n. 4: Interventi per il sostegno e lo sviluppo competitivo delle piccole e medie imprese del Friuli Venezia Giulia. Adeguamento alla sentenza | 1 | oldest version available: 2 November 2026 |
+| `lr-2005-006/` | L.R. 29 marzo 2005, n. 6: Norme in materia di finanza locale e proroga di termini in materia di strutture ricettive turistiche e di condono edilizio. | 1 | oldest version available: 2 November 2026 |
+| `lr-2005-007/` | L.R. 8 aprile 2005, n. 7: Interventi regionali per l'informazione, la prevenzione e la tutela delle lavoratrici e dei lavoratori dalle molestie morali e psico-f | 1 | oldest version available: 2 November 2026 |
+| `lr-2005-008/` | L.R. 15 aprile 2005, n. 8: Disposizioni in materia di personale regionale, di comparto unico del pubblico impiego regionale e di personale del Servizio sanitari | 1 | oldest version available: 2 November 2026 |
+| `lr-2005-009/` | L.R. 29 aprile 2005, n. 9: Norme regionali per la tutela dei prati stabili naturali. | 1 | oldest version available: 2 November 2026 |
+| `lr-2005-011/` | L.R. 6 maggio 2005, n. 11: Disposizioni per l'adempimento degli obblighi della Regione Friuli Venezia Giulia derivanti dall'appartenenza dell'Italia alle Comuni | 1 | oldest version available: 2 November 2026 |
+| `lr-2005-015/` | L.R. 18 luglio 2005, n. 15: Assestamento del bilancio 2005 e del bilancio pluriennale per gli anni 2005-2007 ai sensi dell'articolo 18 della legge regionale 16 | 1 | oldest version available: 2 November 2026 |
+| `lr-2005-016/` | L.R. 1 agosto 2005, n. 16: Modifiche alla legge regionale 25 ottobre 2004, n. 25 - (Interventi a favore della sicurezza e dell'educazione stradale). | 1 | oldest version available: 2 November 2026 |
+| `lr-2005-017/` | L.R. 5 agosto 2005, n. 17: Modifica del comma 2 dell'articolo 1 della legge regionale 13/2000 di interpretazione autentica del comma 1 dell'articolo 1 della leg | 1 | oldest version available: 2 November 2026 |
+| `lr-2005-018/` | L.R. 9 agosto 2005, n. 18: Norme regionali per l'occupazione, la tutela e la qualità del lavoro. | 1 | oldest version available: 2 November 2026 |
+| `lr-2005-020/` | L.R. 18 agosto 2005, n. 20: Sistema educativo integrato dei servizi per la prima infanzia. | 1 | oldest version available: 2 November 2026 |
+| `lr-2005-021/` | L.R. 18 agosto 2005, n. 21: Norme di semplificazione in materia di igiene, medicina del lavoro e sanità pubblica e altre disposizioni per il settore sanitario e | 1 | oldest version available: 2 November 2026 |
+| `lr-2005-022/` | L.R. 18 agosto 2005, n. 22: Disciplina dell'attività di trasporto di viaggiatori effettuato mediante noleggio di autobus con conducente nella regione Friuli Ven | 1 | oldest version available: 2 November 2026 |
+| `lr-2005-024/` | L.R. 18 agosto 2005, n. 24: Disposizioni per il completamento del processo di ricostruzione. | 1 | oldest version available: 2 November 2026 |
+| `lr-2005-025/` | L.R. 18 agosto 2005, n. 25: Interventi in materia di edilizia, lavori pubblici, ambiente, pianificazione, protezione civile e caccia. | 1 | oldest version available: 2 November 2026 |
+| `lr-2005-026/` | L.R. 10 novembre 2005, n. 26: Disciplina generale in materia di innovazione, ricerca scientifica e sviluppo tecnologico. | 1 | oldest version available: 2 November 2026 |
+| `lr-2005-027/` | L.R. 10 novembre 2005, n. 27: Abrogazione della legge regionale 30 aprile 2003, n. 11 (Disciplina generale in materia di innovazione), e disposizioni transitori | 1 | oldest version available: 2 November 2026 |
+| `lr-2005-028/` | L.R. 30 novembre 2005, n. 28: Modifica all'articolo 5 della legge regionale 18 agosto 2005, n. 22 (Disciplina dell'attività di trasporto di viaggiatori effettua | 1 | oldest version available: 2 November 2026 |
+| `lr-2005-030/` | L.R. 13 dicembre 2005, n. 30: Norme in materia di piano territoriale regionale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2005-031/` | L.R. 16 dicembre 2005, n. 31: Disposizioni in materia di pesca e acquacoltura. | 1 | oldest version available: 2 November 2026 |
+| `lr-2006-002/` | L.R. 18 gennaio 2006, n. 2: Disposizioni per la formazione del bilancio pluriennale ed annuale della Regione (Legge finanziaria 2006). | 1 | oldest version available: 2 November 2026 |
+| `lr-2006-003/` | L.R. 23 gennaio 2006, n. 3: Bilancio di previsione per gli anni 2006-2008 e per l'anno 2006 della Regione Autonoma Friuli Venezia Giulia. | 1 | oldest version available: 2 November 2026 |
+| `lr-2006-004/` | L.R. 1 febbraio 2006, n. 4: Rendiconto generale della Regione autonoma Friuli Venezia Giulia per l'esercizio finanziario 2004. | 1 | oldest version available: 2 November 2026 |
+| `lr-2006-005/` | L.R. 23 febbraio 2006, n. 5: Sistema integrato dei servizi di sviluppo agricolo e rurale (SISSAR). | 1 | oldest version available: 2 November 2026 |
+| `lr-2006-006/` | L.R. 31 marzo 2006, n. 6: Sistema integrato di interventi e servizi per la promozione e la tutela dei diritti di cittadinanza sociale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2006-007/` | L.R. 11 maggio 2006, n. 7: Disposizioni urgenti per attività di smaltimento connesse con il recupero di salamoie generate nel distretto alimentare di San Daniel | 1 | oldest version available: 2 November 2026 |
+| `lr-2006-008/` | L.R. 18 maggio 2006, n. 8: Interventi speciali per la diffusione della cultura informatica nel Friuli Venezia Giulia. | 1 | oldest version available: 2 November 2026 |
+| `lr-2006-009/` | L.R. 26 maggio 2006, n. 9: Disposizioni per l'adempimento degli obblighi della Regione Friuli Venezia Giulia derivanti dall'appartenenza dell'Italia alle Comuni | 1 | oldest version available: 2 November 2026 |
+| `lr-2006-012/` | L.R. 21 luglio 2006, n. 12: Assestamento del bilancio 2006 e del bilancio pluriennale per gli anni 2006-2008 ai sensi dell'articolo 18 della legge regionale 16 | 1 | oldest version available: 2 November 2026 |
+| `lr-2006-013/` | L.R. 10 agosto 2006, n. 13: Norme in materia di portualità | 1 | oldest version available: 2 November 2026 |
+| `lr-2006-014/` | L.R. 10 agosto 2006, n. 14: Disciplina dell'assetto istituzionale, organizzativo e gestionale degli istituti di ricovero e cura a carattere scientifico <<Burlo | 1 | oldest version available: 2 November 2026 |
+| `lr-2006-015/` | L.R. 10 agosto 2006, n. 15: Modifica dell'articolo 23 della legge regionale 3 aprile 2003, n. 8 (Testo unico in materia di sport e tempo libero), recante norme | 1 | oldest version available: 2 November 2026 |
+| `lr-2006-016/` | L.R. 10 agosto 2006, n. 16: Norme in materia di razionalizzazione fondiaria e di promozione dell'attività agricola in aree montane | 1 | oldest version available: 2 November 2026 |
+| `lr-2006-017/` | L.R. 25 agosto 2006, n. 17: Interventi in materia di risorse agricole, naturali, forestali e montagna e in materia di ambiente, pianificazione territoriale, cac | 1 | oldest version available: 2 November 2026 |
+| `lr-2006-018/` | L.R. 25 agosto 2006, n. 18: Istituzione della Fondazione per la valorizzazione archeologica, monumentale e urbana di Aquileia e finanziamenti per lo sviluppo tu | 1 | oldest version available: 2 November 2026 |
+| `lr-2006-019/` | L.R. 26 ottobre 2006, n. 19: Disposizioni in materia di salute umana e sanità veterinaria e altre disposizioni per il settore sanitario e sociale, nonché in mat | 1 | oldest version available: 2 November 2026 |
+| `lr-2006-020/` | L.R. 26 ottobre 2006, n. 20: Norme in materia di cooperazione sociale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2006-021/` | L.R. 6 novembre 2006, n. 21: Provvedimenti regionali per la promozione, la valorizzazione del patrimonio e della cultura cinematografica, per lo sviluppo delle | 1 | oldest version available: 2 November 2026 |
+| `lr-2006-022/` | L.R. 13 novembre 2006, n. 22: Norme in materia di demanio marittimo con finalità turistico-ricreativa e modifica alla legge regionale 16/2002 in materia di dife | 1 | oldest version available: 2 November 2026 |
+| `lr-2006-023/` | L.R. 27 novembre 2006, n. 23: Disposizioni urgenti in materia di personale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2006-024/` | L.R. 27 novembre 2006, n. 24: Conferimento di funzioni e compiti amministrativi agli Enti locali in materia di agricoltura, foreste, ambiente, energia, pianific | 1 | oldest version available: 2 November 2026 |
+| `lr-2006-026/` | L.R. 12 dicembre 2006, n. 26: Disciplina dei cimiteri per animali d'affezione. | 1 | oldest version available: 2 November 2026 |
+| `lr-2006-029/` | L.R. 15 dicembre 2006, n. 29: Norme per favorire le utenze domestiche nell'acquisto di energia elettrica, di gas e di taluni prodotti assicurativi. | 1 | oldest version available: 2 November 2026 |
+| `lr-2007-001/` | L.R. 23 gennaio 2007, n. 1: Disposizioni per la formazione del bilancio pluriennale e annuale della Regione Autonoma Friuli Venezia Giulia (Legge finanziaria 20 | 1 | oldest version available: 2 November 2026 |
+| `lr-2007-002/` | L.R. 23 gennaio 2007, n. 2: Bilancio di previsione per gli anni 2007-2009 e per l'anno 2007. | 1 | oldest version available: 2 November 2026 |
+| `lr-2007-003/` | L.R. 1 febbraio 2007, n. 3: Rendiconto generale per l'esercizio finanziario 2005. | 1 | oldest version available: 2 November 2026 |
+| `lr-2007-004/` | L.R. 23 febbraio 2007, n. 4: Modifiche alla legge regionale 18/2006 contenente disposizioni per l'istituzione della Fondazione per la valorizzazione archeologic | 1 | oldest version available: 2 November 2026 |
+| `lr-2007-005/` | L.R. 23 febbraio 2007, n. 5: Riforma dell'urbanistica e disciplina dell'attività edilizia e del paesaggio. | 1 | oldest version available: 2 November 2026 |
+| `lr-2007-009/` | L.R. 23 aprile 2007, n. 9: Norme in materia di risorse forestali. | 1 | oldest version available: 2 November 2026 |
+| `lr-2007-010/` | L.R. 16 maggio 2007, n. 10: Disposizioni in materia di valorizzazione nell'ambito del Servizio sanitario regionale delle professioni sanitarie e della professio | 1 | oldest version available: 2 November 2026 |
+| `lr-2007-011/` | L.R. 23 maggio 2007, n. 11: Promozione e sviluppo del servizio civile nel territorio regionale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2007-013/` | L.R. 7 giugno 2007, n. 13: Norme urgenti in materia di sostegno finanziario alla gestione di servizi e di interventi sociali. | 1 | oldest version available: 2 November 2026 |
+| `lr-2007-014/` | L.R. 14 giugno 2007, n. 14: Disposizioni per l'adempimento degli obblighi della Regione Friuli Venezia Giulia derivanti dall'appartenenza dell'Italia alle Comun | 1 | oldest version available: 2 November 2026 |
+| `lr-2007-015/` | L.R. 18 giugno 2007, n. 15: Misure urgenti in tema di contenimento dell'inquinamento luminoso, per il risparmio energetico nelle illuminazioni per esterni e per | 1 | oldest version available: 2 November 2026 |
+| `lr-2007-016/` | L.R. 18 giugno 2007, n. 16: Norme in materia di tutela dall'inquinamento atmosferico e dall'inquinamento acustico. | 1 | oldest version available: 2 November 2026 |
+| `lr-2007-017/` | L.R. 18 giugno 2007, n. 17: Determinazione della forma di governo della Regione Friuli Venezia Giulia e del sistema elettorale regionale, ai sensi dell'articolo | 1 | oldest version available: 2 November 2026 |
+| `lr-2007-018/` | L.R. 27 luglio 2007, n. 18: Norme sullo svolgimento dei referendum consultivi in materia di circoscrizioni comunali. Voto e scrutinio elettronico. | 1 | oldest version available: 2 November 2026 |
+| `lr-2007-020/` | L.R. 8 agosto 2007, n. 20: Norme in materia di disciplina sanzionatoria in viticoltura, nonché modifiche alla legge regionale 29 aprile 2005, n. 9 (Norme region | 1 | oldest version available: 2 November 2026 |
+| `lr-2007-021/` | L.R. 8 agosto 2007, n. 21: Norme in materia di programmazione finanziaria e di contabilità regionale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2007-022/` | L.R. 20 agosto 2007, n. 22: Assestamento del bilancio 2007 e del bilancio pluriennale per gli anni 2007-2009 ai sensi dell'articolo 18 della legge regionale 16 | 1 | oldest version available: 2 November 2026 |
+| `lr-2007-023/` | L.R. 20 agosto 2007, n. 23: Attuazione del decreto legislativo 111/2004 in materia di trasporto pubblico regionale e locale, trasporto merci, motorizzazione, ci | 1 | oldest version available: 2 November 2026 |
+| `lr-2007-024/` | L.R. 2 ottobre 2007, n. 24: Attuazione dell'articolo 24, paragrafo 6, dell'Accordo relativo agli aspetti dei diritti di proprietà intellettuale attinenti al com | 1 | oldest version available: 2 November 2026 |
+| `lr-2007-025/` | L.R. 17 ottobre 2007, n. 25: Modifiche alle leggi regionali 25/1996 in materia di agriturismo, 15/2000 in materia di prodotti biologici nelle mense pubbliche, 1 | 1 | oldest version available: 2 November 2026 |
+| `lr-2007-026/` | L.R. 16 novembre 2007, n. 26: Norme regionali per la tutela della minoranza linguistica slovena. | 1 | oldest version available: 2 November 2026 |
+| `lr-2007-027/` | L.R. 3 dicembre 2007, n. 27: Disciplina organica in materia di promozione e vigilanza del comparto cooperativo. | 1 | oldest version available: 2 November 2026 |
+| `lr-2007-028/` | L.R. 18 dicembre 2007, n. 28: Disciplina del procedimento per la elezione del Presidente della Regione e del Consiglio regionale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2007-029/` | L.R. 18 dicembre 2007, n. 29: Norme per la tutela, valorizzazione e promozione della lingua friulana. | 1 | oldest version available: 2 November 2026 |
+| `lr-2007-030/` | L.R. 28 dicembre 2007, n. 30: Legge strumentale alla manovra di bilancio (Legge strumentale 2008). | 1 | oldest version available: 2 November 2026 |
+| `lr-2007-031/` | L.R. 28 dicembre 2007, n. 31: Disposizioni per la formazione del bilancio pluriennale e annuale della Regione Autonoma Friuli Venezia Giulia (Legge finanziaria | 1 | oldest version available: 2 November 2026 |
+| `lr-2007-032/` | L.R. 28 dicembre 2007, n. 32: Bilancio di previsione per gli anni 2008-2010 e per l'anno 2008 della Regione Autonoma Friuli Venezia Giulia. | 1 | oldest version available: 2 November 2026 |
+| `lr-2008-001/` | L.R. 9 gennaio 2008, n. 1: Rendiconto generale della Regione Autonoma Friuli Venezia Giulia per l'esercizio finanziario 2006. | 1 | oldest version available: 2 November 2026 |
+| `lr-2008-003/` | L.R. 11 febbraio 2008, n. 3: Disposizioni concernenti il Piano regionale integrato del trasporto delle merci e della logistica e modifiche alla legge regionale | 1 | oldest version available: 2 November 2026 |
+| `lr-2008-004/` | L.R. 20 febbraio 2008, n. 4: Norme per lo sviluppo e la valorizzazione del territorio montano. | 1 | oldest version available: 2 November 2026 |
+| `lr-2008-005/` | L.R. 20 febbraio 2008, n. 5: Normativa regionale per lo spettacolo dal vivo e nuove disposizioni in materia di cultura e spettacolo. | 1 | oldest version available: 2 November 2026 |
+| `lr-2008-006/` | L.R. 6 marzo 2008, n. 6: Disposizioni per la programmazione faunistica e per l'esercizio dell'attività venatoria. | 1 | oldest version available: 2 November 2026 |
+| `lr-2008-007/` | L.R. 21 luglio 2008, n. 7: Disposizioni per l'adempimento degli obblighi della Regione Friuli Venezia Giulia derivanti dall'appartenenza dell'Italia alle Comuni | 1 | oldest version available: 2 November 2026 |
+| `lr-2008-008/` | L.R. 1 agosto 2008, n. 8: Istituzione del Comune di Campolongo Tapogliano mediante fusione dei Comuni di Campolongo al Torre e Tapogliano, ai sensi dell'articol | 1 | oldest version available: 2 November 2026 |
+| `lr-2008-009/` | L.R. 14 agosto 2008, n. 9: Assestamento del bilancio 2008 e del bilancio pluriennale per gli anni 2008-2010 ai sensi dell'articolo 34 della legge regionale 8 ag | 1 | oldest version available: 2 November 2026 |
+| `lr-2008-013/` | L.R. 20 novembre 2008, n. 13: Modifiche alla legge regionale 29/2005 in materia di commercio, alla legge regionale 2/2002 in materia di turismo, alla legge regi | 1 | oldest version available: 2 November 2026 |
+| `lr-2008-014/` | L.R. 5 dicembre 2008, n. 14: Norme speciali in materia di impianti di distribuzione di carburanti e modifiche alla legge regionale 12 novembre 1996, n. 47 in ma | 1 | oldest version available: 2 November 2026 |
+| `lr-2008-015/` | L.R. 5 dicembre 2008, n. 15: Rendiconto generale della Regione Autonoma Friuli Venezia Giulia per l'esercizio finanziario 2007. | 1 | oldest version available: 2 November 2026 |
+| `lr-2008-016/` | L.R. 5 dicembre 2008, n. 16: Norme urgenti in materia di ambiente, territorio, edilizia, urbanistica, attività venatoria, ricostruzione, adeguamento antisismico | 1 | oldest version available: 2 November 2026 |
+| `lr-2008-017/` | L.R. 30 dicembre 2008, n. 17: Disposizioni per la formazione del bilancio pluriennale ed annuale della Regione (Legge finanziaria 2009). | 1 | oldest version available: 2 November 2026 |
+| `lr-2008-018/` | L.R. 30 dicembre 2008, n. 18: Bilancio di previsione per gli anni 2009-2011 e per l'anno 2009 della Regione Autonoma Friuli Venezia Giulia. | 1 | oldest version available: 2 November 2026 |
+| `lr-2009-002/` | L.R. 12 febbraio 2009, n. 2: Modifiche urgenti alla legge regionale 14/2002 (Disciplina dei lavori pubblici), alla legge regionale 5/2007 (Riforma dell'urbanist | 1 | oldest version available: 2 November 2026 |
+| `lr-2009-004/` | L.R. 12 marzo 2009, n. 4: Disposizioni urgenti in materia di personale, di conferimento di funzioni agli enti locali e di imposta regionale sulle attività produ | 1 | oldest version available: 2 November 2026 |
+| `lr-2009-007/` | L.R. 26 marzo 2009, n. 7: Disposizioni in materia di contenimento dei tempi di attesa delle prestazioni sanitarie nell'ambito del Servizio sanitario regionale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2009-008/` | L.R. 24 aprile 2009, n. 8: Modifiche alla legge regionale 5 dicembre 2008, n. 14, in materia di impianti di distribuzione di carburanti e di riduzione del prezz | 1 | oldest version available: 2 November 2026 |
+| `lr-2009-011/` | L.R. 4 giugno 2009, n. 11: Misure urgenti in materia di sviluppo economico regionale, sostegno al reddito dei lavoratori e delle famiglie, accelerazione di lavo | 1 | oldest version available: 2 November 2026 |
+| `lr-2009-012/` | L.R. 23 luglio 2009, n. 12: Assestamento del bilancio 2009 e del bilancio pluriennale per gli anni 2009-2011 ai sensi dell'articolo 34 della legge regionale 21/ | 1 | oldest version available: 2 November 2026 |
+| `lr-2009-013/` | L.R. 30 luglio 2009, n. 13: Disposizioni per l'adempimento degli obblighi della Regione Friuli Venezia Giulia derivanti dall'appartenenza dell'Italia alle Comun | 1 | oldest version available: 2 November 2026 |
+| `lr-2009-015/` | L.R. 6 agosto 2009, n. 15: Modifiche e integrazioni alla legge regionale 3 aprile 2003, n. 8 (Testo unico in materia di sport e tempo libero), concernenti norme | 1 | oldest version available: 2 November 2026 |
+| `lr-2009-016/` | L.R. 11 agosto 2009, n. 16: Norme per la costruzione in zona sismica e per la tutela fisica del territorio. | 1 | oldest version available: 2 November 2026 |
+| `lr-2009-017/` | L.R. 15 ottobre 2009, n. 17: Disciplina delle concessioni e conferimento di funzioni in materia di demanio idrico regionale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2009-018/` | L.R. 15 ottobre 2009, n. 18: Norme per la valorizzazione della residenza e dell'attività lavorativa in Italia e in regione nell'accesso ai servizi dello stato s | 1 | oldest version available: 2 November 2026 |
+| `lr-2009-019/` | L.R. 11 novembre 2009, n. 19: Codice regionale dell'edilizia. | 1 | oldest version available: 2 November 2026 |
+| `lr-2009-020/` | L.R. 20 novembre 2009, n. 20: Norme di tutela e promozione delle minoranze di lingua tedesca del Friuli Venezia Giulia. | 1 | oldest version available: 2 November 2026 |
+| `lr-2009-021/` | L.R. 3 dicembre 2009, n. 21: Norme urgenti per l'attività di ricerca e conduzione di studi clinici. | 1 | oldest version available: 2 November 2026 |
+| `lr-2009-023/` | L.R. 17 dicembre 2009, n. 23: Rendiconto generale della Regione Autonoma Friuli Venezia Giulia per l'esercizio finanziario 2008. | 1 | oldest version available: 2 November 2026 |
+| `lr-2009-024/` | L.R. 30 dicembre 2009, n. 24: Disposizioni per la formazione del bilancio pluriennale e annuale della Regione (Legge finanziaria 2010). | 1 | oldest version available: 2 November 2026 |
+| `lr-2009-025/` | L.R. 30 dicembre 2009, n. 25: Bilancio di previsione per gli anni 2010-2012 e per l'anno 2010. | 1 | oldest version available: 2 November 2026 |
+| `lr-2010-001/` | L.R. 11 febbraio 2010, n. 1: Modifica dell'articolo 19 della legge regionale 7 marzo 2003, n. 5 in materia di quorum di approvazione dei referendum consultivi i | 1 | oldest version available: 2 November 2026 |
+| `lr-2010-002/` | L.R. 11 febbraio 2010, n. 2: Modifiche alla legge regionale 2/2002 in materia di turismo e alla legge regionale 4/2005 recante interventi per il sostegno e lo s | 1 | oldest version available: 2 November 2026 |
+| `lr-2010-003/` | L.R. 11 febbraio 2010, n. 3: Norme per la diffusione di metodologie alternative alla sperimentazione animale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2010-004/` | L.R. 17 febbraio 2010, n. 4: Norme per orientare e sostenere il consumo dei prodotti agricoli regionali. | 1 | oldest version available: 2 November 2026 |
+| `lr-2010-005/` | L.R. 17 febbraio 2010, n. 5: Valorizzazione dei dialetti di origine veneta parlati nella regione Friuli Venezia Giulia. | 1 | oldest version available: 2 November 2026 |
+| `lr-2010-006/` | L.R. 18 marzo 2010, n. 6: Norme regionali per la disciplina e la promozione dell'apicoltura. | 1 | oldest version available: 2 November 2026 |
+| `lr-2010-007/` | L.R. 24 maggio 2010, n. 7: Modifiche alle leggi regionali 20/2005 (Sistema educativo integrato dei servizi per la prima infanzia) e 11/2006 (Interventi regional | 1 | oldest version available: 2 November 2026 |
+| `lr-2010-008/` | L.R. 4 giugno 2010, n. 8: Norme urgenti in materia di società partecipate dalla Regione, nonché concernenti il Fondo di rotazione per la stabilizzazione del sis | 1 | oldest version available: 2 November 2026 |
+| `lr-2010-009/` | L.R. 16 giugno 2010, n. 9: Norme urgenti di modifica della legge regionale 28 marzo 1988, n. 15 (Interventi a favore del Consorzio per la "Scuola Musaicisti del | 1 | oldest version available: 2 November 2026 |
+| `lr-2010-010/` | L.R. 16 giugno 2010, n. 10: Interventi di promozione per la cura e conservazione finalizzata al risanamento e al recupero dei terreni incolti e/o abbandonati ne | 1 | oldest version available: 2 November 2026 |
+| `lr-2010-011/` | L.R. 23 giugno 2010, n. 11: Semplificazione del sistema normativo. Abrogazione di disposizioni legislative. | 1 | oldest version available: 2 November 2026 |
+| `lr-2010-012/` | L.R. 16 luglio 2010, n. 12: Assestamento del bilancio 2010 e del bilancio pluriennale per gli anni 2010-2012 ai sensi dell'articolo 34 della legge regionale 21/ | 1 | oldest version available: 2 November 2026 |
+| `lr-2010-013/` | L.R. 11 agosto 2010, n. 13: Disposizioni a favore dei bed and breakfast e affittacamere. Modifiche alle leggi regionali 2/2002 e 19/2009. | 1 | oldest version available: 2 November 2026 |
+| `lr-2010-014/` | L.R. 11 agosto 2010, n. 14: Norme per il sostegno all'acquisto dei carburanti per autotrazione ai privati cittadini residenti in Regione e di promozione per la | 1 | oldest version available: 2 November 2026 |
+| `lr-2010-015/` | L.R. 11 agosto 2010, n. 15: Testo unico delle norme regionali in materia di impianto e di tenuta del libro fondiario. | 1 | oldest version available: 2 November 2026 |
+| `lr-2010-016/` | L.R. 11 agosto 2010, n. 16: Norme urgenti in materia di personale e di organizzazione nonché in materia di passaggio al digitale terrestre. | 1 | oldest version available: 2 November 2026 |
+| `lr-2010-017/` | L.R. 21 ottobre 2010, n. 17: Legge di manutenzione dell'ordinamento regionale 2010. | 1 | oldest version available: 2 November 2026 |
+| `lr-2010-019/` | L.R. 16 novembre 2010, n. 19: Interventi per la promozione e la diffusione dell'amministratore di sostegno a tutela dei soggetti deboli. | 1 | oldest version available: 2 November 2026 |
+| `lr-2010-020/` | L.R. 16 novembre 2010, n. 20: Misure per la promozione della rendicontazione sociale nelle amministrazioni del Friuli Venezia Giulia. | 1 | oldest version available: 2 November 2026 |
+| `lr-2010-021/` | L.R. 16 novembre 2010, n. 21: Rendiconto generale della Regione Autonoma Friuli Venezia Giulia per l'esercizio finanziario 2009. | 1 | oldest version available: 2 November 2026 |
+| `lr-2010-022/` | L.R. 29 dicembre 2010, n. 22: Disposizioni per la formazione del bilancio pluriennale ed annuale della Regione (Legge finanziaria 2011). | 1 | oldest version available: 2 November 2026 |
+| `lr-2010-023/` | L.R. 29 dicembre 2010, n. 23: Bilancio di previsione per gli anni 2011-2013 e per l'anno 2011. | 1 | oldest version available: 2 November 2026 |
+| `lr-2011-001/` | L.R. 11 febbraio 2011, n. 1: Norme urgenti in materia di circoscrizioni di decentramento comunale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2011-002/` | L.R. 17 febbraio 2011, n. 2: Finanziamenti al sistema universitario regionale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2011-003/` | L.R. 18 marzo 2011, n. 3: Norme in materia di telecomunicazioni. | 1 | oldest version available: 2 November 2026 |
+| `lr-2011-004/` | L.R. 1 aprile 2011, n. 4: Modifiche alle leggi regionali 22/2010, 11/2009, 4/2005, 3/2001 e 13/2009 in materia di agevolazioni alle imprese, di sportello unico | 1 | oldest version available: 2 November 2026 |
+| `lr-2011-005/` | L.R. 8 aprile 2011, n. 5: Disposizioni relative all'impiego di organismi geneticamente modificati (OGM) in agricoltura. | 1 | oldest version available: 2 November 2026 |
+| `lr-2011-006/` | L.R. 19 maggio 2011, n. 6: Disposizioni in materia di attività estrattive e di risorse geotermiche. | 1 | oldest version available: 2 November 2026 |
+| `lr-2011-007/` | L.R. 17 giugno 2011, n. 7: Adeguamenti della legge regionale 22 aprile 2002, n. 12 (Disciplina organica dell'artigianato). Modifiche alle leggi regionali 50/199 | 1 | oldest version available: 2 November 2026 |
+| `lr-2011-008/` | L.R. 17 giugno 2011, n. 8: Istituzione della Giornata regionale per la lotta alla droga. | 1 | oldest version available: 2 November 2026 |
+| `lr-2011-009/` | L.R. 14 luglio 2011, n. 9: Disciplina del sistema informativo integrato regionale del Friuli Venezia Giulia. | 1 | oldest version available: 2 November 2026 |
+| `lr-2011-010/` | L.R. 14 luglio 2011, n. 10: Interventi per garantire l'accesso alle cure palliative e alla terapia del dolore. | 1 | oldest version available: 2 November 2026 |
+| `lr-2011-011/` | L.R. 11 agosto 2011, n. 11: Assestamento del bilancio 2011 e del bilancio pluriennale per gli anni 2011-2013 ai sensi dell'articolo 34 della legge regionale 21/ | 1 | oldest version available: 2 November 2026 |
+| `lr-2011-012/` | L.R. 21 ottobre 2011, n. 12: Norme in materia funeraria e di polizia mortuaria. | 1 | oldest version available: 2 November 2026 |
+| `lr-2011-013/` | L.R. 11 novembre 2011, n. 13: Rendiconto generale della Regione Autonoma Friuli Venezia Giulia per l'esercizio finanziario 2010. | 1 | oldest version available: 2 November 2026 |
+| `lr-2011-015/` | L.R. 11 novembre 2011, n. 15: Norme per la promozione del Friuli Venezia Giulia e lo sviluppo del turismo proveniente dalle altre regioni italiane e dall'estero | 1 | oldest version available: 2 November 2026 |
+| `lr-2011-016/` | L.R. 30 novembre 2011, n. 16: Disposizioni di modifica della normativa regionale in materia di accesso alle prestazioni sociali e di personale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2011-017/` | L.R. 22 dicembre 2011, n. 17: Razionalizzazione di Agemont Spa, riorganizzazione di Promotur Spa, nonché rinnovo di concessioni di rifugi alpini di proprietà de | 1 | oldest version available: 2 November 2026 |
+| `lr-2011-018/` | L.R. 29 dicembre 2011, n. 18: Disposizioni per la formazione del bilancio pluriennale ed annuale della Regione (Legge finanziaria 2012). | 1 | oldest version available: 2 November 2026 |
+| `lr-2011-019/` | L.R. 29 dicembre 2011, n. 19: Bilancio di previsione per gli anni 2012-2014 e per l'anno 2012. | 1 | oldest version available: 2 November 2026 |
+| `lr-2012-001/` | L.R. 13 febbraio 2012, n. 1: Norme urgenti per il contenimento delle emissioni inquinanti da benzo(a)pirene, arsenico, cadmio e nichel sul territorio regionale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2012-002/` | L.R. 27 febbraio 2012, n. 2: Norme in materia di agevolazione dell'accesso al credito delle imprese. | 1 | oldest version available: 2 November 2026 |
+| `lr-2012-003/` | L.R. 9 marzo 2012, n. 3: Norme urgenti in materia di autonomie locali. | 1 | oldest version available: 2 November 2026 |
+| `lr-2012-004/` | L.R. 21 marzo 2012, n. 4: Disposizioni urgenti per le elezioni amministrative del maggio 2012. | 1 | oldest version available: 2 November 2026 |
+| `lr-2012-005/` | L.R. 22 marzo 2012, n. 5: Legge per l'autonomia dei giovani e sul Fondo di garanzia per le loro opportunità. | 1 | oldest version available: 2 November 2026 |
+| `lr-2012-007/` | L.R. 12 aprile 2012, n. 7: Disciplina delle attività di tatuaggio, di piercing e delle pratiche correlate. | 1 | oldest version available: 2 November 2026 |
+| `lr-2012-008/` | L.R. 12 aprile 2012, n. 8: Norme in materia di terapie e attività assistite con gli animali (pet therapy). | 1 | oldest version available: 2 November 2026 |
+| `lr-2012-009/` | L.R. 27 aprile 2012, n. 9: Norme urgenti in materia di riallocazione delle funzioni dell'Autorità di Bacino regionale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2012-010/` | L.R. 4 maggio 2012, n. 10: Riordino e disciplina della partecipazione della Regione Friuli Venezia Giulia a società di capitali. | 1 | oldest version available: 2 November 2026 |
+| `lr-2012-011/` | L.R. 31 maggio 2012, n. 11: Norme per il sostegno dei diritti della persona e la piena libertà intellettuale, psicologica e morale dell'individuo. | 1 | oldest version available: 2 November 2026 |
+| `lr-2012-012/` | L.R. 31 maggio 2012, n. 12: Disciplina della portualità di competenza regionale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2012-013/` | L.R. 8 giugno 2012, n. 13: Istituzione del Fondo territoriale di previdenza complementare della Regione Friuli Venezia Giulia. | 1 | oldest version available: 2 November 2026 |
+| `lr-2012-014/` | L.R. 25 luglio 2012, n. 14: Assestamento del bilancio 2012 e del bilancio pluriennale per gli anni 2012-2014 ai sensi dell'articolo 34 della legge regionale 21/ | 1 | oldest version available: 2 November 2026 |
+| `lr-2012-015/` | L.R. 9 agosto 2012, n. 15: Disposizioni per l'adempimento degli obblighi della Regione Friuli Venezia Giulia derivanti dall'appartenenza dell'Italia alle Comuni | 1 | oldest version available: 2 November 2026 |
+| `lr-2012-016/` | L.R. 9 agosto 2012, n. 16: Interventi di razionalizzazione e riordino di enti, aziende e agenzie della Regione. | 1 | oldest version available: 2 November 2026 |
+| `lr-2012-017/` | L.R. 11 ottobre 2012, n. 17: Modifica alla legge regionale 23 gennaio 2007, n. 1 (Legge finanziaria 2007), relativa al finanziamento straordinario pluriennale c | 1 | oldest version available: 2 November 2026 |
+| `lr-2012-018/` | L.R. 11 ottobre 2012, n. 18: Disposizioni per la tutela delle donne affette da endometriosi. | 1 | oldest version available: 2 November 2026 |
+| `lr-2012-019/` | L.R. 11 ottobre 2012, n. 19: Norme in materia di energia e distribuzione dei carburanti. | 1 | oldest version available: 2 November 2026 |
+| `lr-2012-020/` | L.R. 11 ottobre 2012, n. 20: Norme per il benessere e la tutela degli animali di affezione. | 1 | oldest version available: 2 November 2026 |
+| `lr-2012-021/` | L.R. 29 ottobre 2012, n. 21: Norme urgenti in materia di riduzione delle spese di funzionamento dei Gruppi consiliari. Modifiche all'articolo 3 della legge regi | 1 | oldest version available: 2 November 2026 |
+| `lr-2012-022/` | L.R. 9 novembre 2012, n. 22: Valorizzazione delle strutture alpine regionali. | 1 | oldest version available: 2 November 2026 |
+| `lr-2012-023/` | L.R. 9 novembre 2012, n. 23: Disciplina organica sul volontariato e sulle associazioni di promozione sociale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2012-024/` | L.R. 29 novembre 2012, n. 24: Rendiconto generale della Regione Autonoma Friuli Venezia Giulia per l'esercizio finanziario 2011. | 1 | oldest version available: 2 November 2026 |
+| `lr-2012-026/` | L.R. 21 dicembre 2012, n. 26: Legge di manutenzione dell'ordinamento regionale 2012. | 1 | oldest version available: 2 November 2026 |
+| `lr-2012-027/` | L.R. 31 dicembre 2012, n. 27: Disposizione per la formazione del bilancio pluriennale e annuale (Legge finanziaria 2013). | 1 | oldest version available: 2 November 2026 |
+| `lr-2012-028/` | L.R. 31 dicembre 2012, n. 28: Bilancio di previsione per gli anni 2013-2015 e per l'anno 2013. | 1 | oldest version available: 2 November 2026 |
+| `lr-2013-001/` | L.R. 7 febbraio 2013, n. 1: Istituzione del Comune di Rivignano Teor mediante fusione dei Comuni di Rivignano e Teor, ai sensi dell'articolo 7, primo comma, num | 1 | oldest version available: 2 November 2026 |
+| `lr-2013-002/` | L.R. 7 febbraio 2013, n. 2: Modalità di erogazione dei medicinali e delle preparazioni magistrali a base di cannabinoidi per finalità terapeutiche. | 1 | oldest version available: 2 November 2026 |
+| `lr-2013-003/` | L.R. 7 febbraio 2013, n. 3: Istituzione nella città di Trieste dello Sportello informativo per la comunità serba presente nel territorio della Regione Friuli Ve | 1 | oldest version available: 2 November 2026 |
+| `lr-2013-004/` | L.R. 4 aprile 2013, n. 4: Incentivi per il rafforzamento e il rilancio della competitività delle microimprese e delle piccole e medie imprese del Friuli Venezia | 1 | oldest version available: 2 November 2026 |
+| `lr-2013-005/` | L.R. 8 aprile 2013, n. 5: Disposizioni urgenti in materia di attività economiche, tutela ambientale, difesa del territorio, gestione del territorio, infrastrutt | 1 | oldest version available: 2 November 2026 |
+| `lr-2013-006/` | L.R. 26 luglio 2013, n. 6: Assestamento del bilancio 2013 e del bilancio pluriennale per gli anni 2013-2015 ai sensi dell'articolo 34 della legge regionale 21/2 | 1 | oldest version available: 2 November 2026 |
+| `lr-2013-007/` | L.R. 6 agosto 2013, n. 7: Modifiche alle leggi regionali 14/2007, 6/2008 e 15/2012 in materia di gestione faunistico-venatoria. | 1 | oldest version available: 2 November 2026 |
+| `lr-2013-008/` | L.R. 6 agosto 2013, n. 8: Modifiche alle leggi regionali 7/1988, 18/1996 e 13/2003 in materia di ordinamento e di organizzazione dell'Amministrazione regionale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2013-009/` | L.R. 9 agosto 2013, n. 9: Interventi urgenti per il sostegno e il rilancio dei settori produttivi e dell'occupazione. Modifiche alle leggi regionali 2/2012, 11/ | 1 | oldest version available: 2 November 2026 |
+| `lr-2013-010/` | L.R. 9 agosto 2013, n. 10: Disposizioni in materia di trattamento economico e di pubblicità della situazione patrimoniale dei consiglieri e degli assessori regi | 1 | oldest version available: 2 November 2026 |
+| `lr-2013-011/` | L.R. 4 ottobre 2013, n. 11: Valorizzazione del patrimonio storico-culturale della Prima guerra mondiale e interventi per la promozione delle commemorazioni del | 1 | oldest version available: 2 November 2026 |
+| `lr-2013-012/` | L.R. 11 ottobre 2013, n. 12: Misure urgenti in materia di enti locali e modifiche alla
+ legge regionale 19/2012 concernenti gli impianti di distribuzione dei c | 1 | oldest version available: 2 November 2026 |
+| `lr-2013-013/` | L.R. 11 ottobre 2013, n. 13: Disposizioni per l'adempimento degli obblighi della Regione Friuli Venezia Giulia derivanti dall'appartenenza dell'Italia all'Union | 1 | oldest version available: 2 November 2026 |
+| `lr-2013-014/` | L.R. 11 ottobre 2013, n. 14: Modifiche alla legge regionale 23 febbraio 2007, n. 5 (Riforma dell'urbanistica e disciplina dell'attività edilizia e del paesaggio | 1 | oldest version available: 2 November 2026 |
+| `lr-2013-015/` | L.R. 8 novembre 2013, n. 15: Rendiconto generale della Regione Autonoma Friuli Venezia Giulia per l'esercizio finanziario 2012. | 1 | oldest version available: 2 November 2026 |
+| `lr-2013-016/` | L.R. 8 novembre 2013, n. 16: Disposizioni urgenti in materia di personale, modifica alla
+ legge regionale 2/2000 in materia di organizzazione regionale, nonc | 1 | oldest version available: 2 November 2026 |
+| `lr-2013-018/` | L.R. 11 novembre 2013, n. 18: Disposizioni urgenti in materia di cultura, sport e solidarietà. | 1 | oldest version available: 2 November 2026 |
+| `lr-2013-019/` | L.R. 5 dicembre 2013, n. 19: Disciplina delle elezioni comunali e modifiche alla legge regionale 28/2007 in materia di elezioni regionali. | 1 | oldest version available: 2 November 2026 |
+| `lr-2013-021/` | L.R. 5 dicembre 2013, n. 21: Disposizioni urgenti in materia di tutela ambientale, difesa e gestione del territorio, lavoro, diritto allo studio universitario, | 1 | oldest version available: 2 November 2026 |
+| `lr-2013-022/` | L.R. 27 dicembre 2013, n. 22: Norme intersettoriali per l'accesso alle prestazioni sociali di cittadini italiani e migranti. | 1 | oldest version available: 2 November 2026 |
+| `lr-2013-023/` | L.R. 27 dicembre 2013, n. 23: Disposizioni per la formazione del bilancio pluriennale e annuale della Regione autonoma Friuli Venezia Giulia (Legge finanziaria | 1 | oldest version available: 2 November 2026 |
+| `lr-2013-024/` | L.R. 27 dicembre 2013, n. 24: Bilancio di previsione per gli anni 2014-2016 e per l'anno 2014. | 1 | oldest version available: 2 November 2026 |
+| `lr-2014-001/` | L.R. 14 febbraio 2014, n. 1: Disposizioni per la prevenzione, il trattamento e il contrasto della dipendenza da gioco d'azzardo, nonché delle problematiche e pa | 1 | oldest version available: 2 November 2026 |
+| `lr-2014-003/` | L.R. 26 marzo 2014, n. 3: Disposizioni in materia di organizzazione e di personale della Regione, di agenzie regionali e di enti locali. | 1 | oldest version available: 2 November 2026 |
+| `lr-2014-004/` | L.R. 26 marzo 2014, n. 4: Azioni a sostegno delle attività produttive. | 1 | oldest version available: 2 November 2026 |
+| `lr-2014-005/` | L.R. 28 marzo 2014, n. 5: Disposizioni urgenti in materia di OGM e modifiche alla legge regionale 23 aprile 2007, n. 9 (Norme in materia di risorse forestali). | 1 | oldest version available: 2 November 2026 |
+| `lr-2014-006/` | L.R. 9 aprile 2014, n. 6: Disposizioni urgenti in materia di cultura, lingue minoritarie, sport e solidarietà. | 1 | oldest version available: 2 November 2026 |
+| `lr-2014-007/` | L.R. 17 aprile 2014, n. 7: Disposizioni in materia di dati aperti e loro riutilizzo. | 1 | oldest version available: 2 November 2026 |
+| `lr-2014-008/` | L.R. 17 aprile 2014, n. 8: Norme urgenti in materia di lavoro, istruzione, formazione e montagna. | 1 | oldest version available: 2 November 2026 |
+| `lr-2014-009/` | L.R. 16 maggio 2014, n. 9: Istituzione del Garante dei diritti della persona e del Difensore civico regionale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2014-010/` | L.R. 16 maggio 2014, n. 10: Disposizioni in materia di attività produttive. | 1 | oldest version available: 2 November 2026 |
+| `lr-2014-011/` | L.R. 26 giugno 2014, n. 11: Disposizioni di riordino e semplificazione in materia di risorse agricole e forestali, bonifica, pesca e lavori pubblici. | 1 | oldest version available: 2 November 2026 |
+| `lr-2014-012/` | L.R. 26 giugno 2014, n. 12: Misure urgenti per le autonomie locali. | 1 | oldest version available: 2 November 2026 |
+| `lr-2014-013/` | L.R. 18 luglio 2014, n. 13: Misure di semplificazione dell'ordinamento regionale in materia urbanistico-edilizia, lavori pubblici, edilizia scolastica e residen | 1 | oldest version available: 2 November 2026 |
+| `lr-2014-014/` | L.R. 18 luglio 2014, n. 14: Modifiche alla legge regionale 7 marzo 2003, n. 5 (Articolo 12 dello Statuto della Regione Autonoma Friuli Venezia Giulia. Norme rel | 1 | oldest version available: 2 November 2026 |
+| `lr-2014-015/` | L.R. 4 agosto 2014, n. 15: Assestamento del bilancio 2014 e del bilancio pluriennale per gli anni 2014-2016 ai sensi dell'articolo 34 della legge regionale 21/2 | 1 | oldest version available: 2 November 2026 |
+| `lr-2014-016/` | L.R. 11 agosto 2014, n. 16: Norme regionali in materia di attività culturali. | 1 | oldest version available: 2 November 2026 |
+| `lr-2014-017/` | L.R. 16 ottobre 2014, n. 17: Riordino dell'assetto istituzionale e organizzativo del Servizio sanitario regionale e norme in materia di programmazione sanitaria | 1 | oldest version available: 2 November 2026 |
+| `lr-2014-018/` | L.R. 4 novembre 2014, n. 18: Potenziamento degli interventi a favore dell'accesso al credito delle imprese e a sostegno della promozione e dello sviluppo econom | 1 | oldest version available: 2 November 2026 |
+| `lr-2014-019/` | L.R. 5 novembre 2014, n. 19: Rendiconto generale della Regione autonoma Friuli Venezia Giulia per l'esercizio finanziario 2013. | 1 | oldest version available: 2 November 2026 |
+| `lr-2014-020/` | L.R. 5 novembre 2014, n. 20: Istituzione del Comune di Valvasone Arzene mediante fusione dei Comuni di Arzene e Valvasone, ai sensi dell'articolo 7, primo comma | 1 | oldest version available: 2 November 2026 |
+| `lr-2014-021/` | L.R. 14 novembre 2014, n. 21: Norme in materia di diritto allo studio universitario. | 1 | oldest version available: 2 November 2026 |
+| `lr-2014-022/` | L.R. 14 novembre 2014, n. 22: Contrasto alla solitudine e promozione dell'invecchiamento attivo. | 1 | oldest version available: 2 November 2026 |
+| `lr-2014-023/` | L.R. 14 novembre 2014, n. 23: Interventi regionali per la promozione del commercio equo e solidale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2014-024/` | L.R. 14 novembre 2014, n. 24: Soppressione dell'Autorità regionale per la vigilanza sui servizi idrici, modifiche alla legge regionale 9/2014 concernente il Gar | 1 | oldest version available: 2 November 2026 |
+| `lr-2014-025/` | L.R. 28 novembre 2014, n. 25: Modifica alla legge regionale 6/2008 (Disposizioni per la programmazione faunistica e per l'esercizio dell'attività venatoria) e d | 1 | oldest version available: 2 November 2026 |
+| `lr-2014-026/` | L.R. 12 dicembre 2014, n. 26: Riordino del sistema Regione-Autonomie locali nel Friuli Venezia Giulia. Ordinamento delle Unioni territoriali intercomunali e ria | 1 | oldest version available: 2 November 2026 |
+| `lr-2014-027/` | L.R. 30 dicembre 2014, n. 27: Disposizioni per la formazione del bilancio pluriennale e annuale (Legge finanziaria 2015). | 1 | oldest version available: 2 November 2026 |
+| `lr-2014-028/` | L.R. 30 dicembre 2014, n. 28: "Bilancio di previsione per gli anni 2015-2017 e per l'anno 2015" della Regione Autonoma Friuli Venezia Giulia. | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-001/` | L.R. 13 febbraio 2015, n. 1: Razionalizzazione, semplificazione ed accelerazione dei procedimenti amministrativi di spesa. | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-002/` | L.R. 13 febbraio 2015, n. 2: Disposizioni in materia di trattamento economico dei consiglieri e degli assessori regionali, nonché di funzionamento dei gruppi co | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-003/` | L.R. 20 febbraio 2015, n. 3: RilancimpresaFVG - Riforma delle politiche industriali. | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-004/` | L.R. 13 marzo 2015, n. 4: Istituzione del registro regionale per le libere dichiarazioni anticipate di trattamento sanitario (DAT) e disposizioni per favorire l | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-005/` | L.R. 13 marzo 2015, n. 5: Modifiche alla legge regionale 11 ottobre 2012, n. 20 (Norme per il benessere e la tutela degli animali di affezione). | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-006/` | L.R. 27 marzo 2015, n. 6: Istituzione della "Fieste de Patrie dal Friûl" - Istituzion de "Fieste de Patrie dal Friûl". | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-007/` | L.R. 27 marzo 2015, n. 7: Norme urgenti in materia di cultura, volontariato, sport, istruzione e protezione sociale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-008/` | L.R. 27 marzo 2015, n. 8: Riorganizzazione di enti del sistema turistico regionale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-009/` | L.R. 24 aprile 2015, n. 9: Riordino dell'Istituto zooprofilattico sperimentale delle Venezie ai sensi del decreto legislativo 28 giugno 2012, n. 106 (Riorganizz | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-010/` | L.R. 24 aprile 2015, n. 10: Contributi a favore delle persone disabili per l'installazione di ascensori. | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-011/` | L.R. 29 aprile 2015, n. 11: Disciplina organica in materia di difesa del suolo e di utilizzazione delle acque. | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-012/` | L.R. 22 maggio 2015, n. 12: Disciplina del Consiglio delle autonomie locali del Friuli Venezia Giulia, modifiche e integrazioni alla legge regionale 26/2014 in | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-013/` | L.R. 29 maggio 2015, n. 13: Istituzione dell'area Agenzia regionale per il lavoro e modifiche della legge regionale 9 agosto 2005, n. 18 (Norme regionali per l' | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-014/` | L.R. 5 giugno 2015, n. 14: Disposizioni di attuazione del Programma Operativo Regionale obiettivo "Investimenti in favore della crescita e dell'occupazione" 201 | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-015/` | L.R. 10 luglio 2015, n. 15: Misure di inclusione attiva e di sostegno al reddito. | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-016/` | L.R. 10 luglio 2015, n. 16: Integrazioni e modificazioni alla legge regionale 13 marzo 2015, n. 4 (Istituzione del registro regionale per le libere dichiarazion | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-017/` | L.R. 10 luglio 2015, n. 17: Disposizioni in materia di diritto allo studio universitario, modifica alla legge regionale 21/2014, nonché iniziative progettuali r | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-018/` | L.R. 17 luglio 2015, n. 18: La disciplina della finanza locale del Friuli Venezia Giulia, nonchè modifiche a disposizioni delle leggi regionali 19/2013, 9/2009 | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-019/` | L.R. 17 luglio 2015, n. 19: Disposizioni di riordino e semplificazione in materia di attività produttive e di risorse agricole e forestali. | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-020/` | L.R. 6 agosto 2015, n. 20: Assestamento del bilancio 2015 e del bilancio pluriennale per gli anni 2015-2017 ai sensi dell'articolo 34 della legge regionale 21/2 | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-022/` | L.R. 25 settembre 2015, n. 22: Disposizioni per la realizzazione, il riconoscimento e la valorizzazione delle "Strade del Vino e dei Sapori" della regione Friul | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-023/` | L.R. 25 settembre 2015, n. 23: Norme regionali in materia di beni culturali. | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-024/` | L.R. 16 ottobre 2015, n. 24: Norme per la sicurezza dei lavori in quota e per la prevenzione di infortuni conseguenti al rischio di cadute dall'alto. | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-025/` | L.R. 16 ottobre 2015, n. 25: Disposizioni urgenti in materia di infrastrutture, mobilità, pianificazione territoriale, lavori pubblici, edilizia. | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-026/` | L.R. 10 novembre 2015, n. 26: Disposizioni in materia di programmazione e contabilità e altre disposizioni finanziarie urgenti. | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-027/` | L.R. 19 novembre 2015, n. 27: Rendiconto generale della Regione autonoma Friuli Venezia Giulia per l'esercizio finanziario 2014. | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-028/` | L.R. 27 novembre 2015, n. 28: Modifiche all'articolo 3 della legge regionale 14 novembre 2014, n. 22 (Promozione dell'invecchiamento attivo e modifiche all'arti | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-029/` | L.R. 27 novembre 2015, n. 29: Disposizioni relative agli incarichi degli Amministratori unici delle ATER e alla determinazione dei canoni di locazione. | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-030/` | L.R. 27 novembre 2015, n. 30: Modifiche alle leggi regionali 31/2005, 43/1988, 32/1993 e 13/2002 in materia di pesca. | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-032/` | L.R. 9 dicembre 2015, n. 32: Modifiche alla legge regionale 3 aprile 2003, n. 8 (Testo unico in materia di sport e tempo libero). | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-033/` | L.R. 29 dicembre 2015, n. 33: Legge collegata alla manovra di bilancio 2016-2018. | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-034/` | L.R. 29 dicembre 2015, n. 34: Legge di stabilità 2016. | 1 | oldest version available: 2 November 2026 |
+| `lr-2015-035/` | L.R. 29 dicembre 2015, n. 35: Bilancio di previsione per gli anni 2016-2018 e per l'anno 2016. | 1 | oldest version available: 2 November 2026 |
+| `lr-2016-002/` | L.R. 25 febbraio 2016, n. 2: Istituzione dell'Ente regionale per il patrimonio culturale della Regione Autonoma Friuli Venezia Giulia – ERPAC e disposizioni urg | 1 | oldest version available: 2 November 2026 |
+| `lr-2016-003/` | L.R. 11 marzo 2016, n. 3: Norme di riordino delle funzioni delle Province in materia di vigilanza ambientale, forestale, ittica e venatoria, di ambiente, di cac | 1 | oldest version available: 2 November 2026 |
+| `lr-2016-004/` | L.R. 8 aprile 2016, n. 4: Disposizioni per il riordino e la semplificazione della normativa afferente il settore terziario, per l'incentivazione dello stesso e | 1 | oldest version available: 2 November 2026 |
+| `lr-2016-005/` | L.R. 15 aprile 2016, n. 5: Organizzazione delle funzioni relative al servizio idrico integrato e al servizio di gestione integrata dei rifiuti urbani. | 1 | oldest version available: 2 November 2026 |
+| `lr-2016-006/` | L.R. 10 maggio 2016, n. 6: Modifiche della legge regionale 8 aprile 2005, n. 7. (Interventi regionali per l'informazione, la prevenzione e la tutela delle lavor | 1 | oldest version available: 2 November 2026 |
+| `lr-2016-007/` | L.R. 10 maggio 2016, n. 7: Norme urgenti in materia di attività e beni culturali e di volontariato, nonché disciplina dei beni mobili demaniali. | 1 | oldest version available: 2 November 2026 |
+| `lr-2016-008/` | L.R. 20 maggio 2016, n. 8: Disposizioni urgenti in materia elettorale. Modifiche alle leggi regionali 19/2013, 28/2007 e 18/2007 in materia di elezioni comunali | 1 | oldest version available: 2 November 2026 |
+| `lr-2016-009/` | L.R. 1 giugno 2016, n. 9: Modifiche all'articolo 36 della legge regionale 6/2006, in materia di operatori del sistema integrato di interventi e servizi sociali. | 1 | oldest version available: 2 November 2026 |
+| `lr-2016-010/` | L.R. 28 giugno 2016, n. 10: Modifiche a disposizioni concernenti gli enti locali contenute nelle leggi regionali 1/2006, 26/2014, 18/2007, 9/2009, 19/2013, 34/2 | 1 | oldest version available: 2 November 2026 |
+| `lr-2016-011/` | L.R. 8 luglio 2016, n. 11: Modifiche alla legge regionale 7 febbraio 2013, n. 2 (Modalità di erogazione dei medicinali e delle preparazioni magistrali a base di | 1 | oldest version available: 2 November 2026 |
+| `lr-2016-012/` | L.R. 15 luglio 2016, n. 12: Disciplina organica delle attività estrattive. | 1 | oldest version available: 2 November 2026 |
+| `lr-2016-013/` | L.R. 5 agosto 2016, n. 13: Rendiconto generale della Regione autonoma Friuli Venezia Giulia per l'esercizio finanziario 2015. | 1 | oldest version available: 2 November 2026 |
+| `lr-2016-014/` | L.R. 11 agosto 2016, n. 14: Assestamento del bilancio per l'anno 2016 e del bilancio per gli anni 2016-2018 ai sensi della legge regionale 10 novembre 2015, n. | 1 | oldest version available: 2 November 2026 |
+| `lr-2016-015/` | L.R. 14 ottobre 2016, n. 15: Disposizioni per la tutela e la valorizzazione della geodiversità, del patrimonio geologico e speleologico e delle aree carsiche. | 1 | oldest version available: 2 November 2026 |
+| `lr-2016-016/` | L.R. 7 novembre 2016, n. 16: Disposizioni urgenti in materia di programmazione e contabilità. | 1 | oldest version available: 2 November 2026 |
+| `lr-2016-017/` | L.R. 24 novembre 2016, n. 17: Norme urgenti in materia di cultura e sport. | 1 | oldest version available: 2 November 2026 |
+| `lr-2016-018/` | L.R. 9 dicembre 2016, n. 18: Disposizioni in materia di sistema integrato del pubblico impiego regionale e locale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2016-020/` | L.R. 9 dicembre 2016, n. 20: Soppressione delle Province del Friuli Venezia Giulia e modifiche alle leggi regionali 11/1988, 18/2005, 7/2008, 9/2009, 5/2012, 26 | 1 | oldest version available: 2 November 2026 |
+| `lr-2016-021/` | L.R. 9 dicembre 2016, n. 21: Disciplina delle politiche regionali nel settore turistico e dell'attrattività del territorio regionale, nonché modifiche a leggi r | 1 | oldest version available: 2 November 2026 |
+| `lr-2016-022/` | L.R. 29 dicembre 2016, n. 22: Valorizzazione della memoria delle Portatrici Carniche e del ruolo della donna nelle due guerre | 1 | oldest version available: 2 November 2026 |
+| `lr-2016-023/` | L.R. 29 dicembre 2016, n. 23: Modifiche all'articolo 151 della legge regionale 31 agosto 1981, n. 53. | 1 | oldest version available: 2 November 2026 |
+| `lr-2016-024/` | L.R. 29 dicembre 2016, n. 24: Legge collegata alla manovra di bilancio 2017-2019. | 1 | oldest version available: 2 November 2026 |
+| `lr-2016-025/` | L.R. 29 dicembre 2016, n. 25: Legge di stabilità 2017. | 1 | oldest version available: 2 November 2026 |
+| `lr-2016-026/` | L.R. 29 dicembre 2016, n. 26: Bilancio di previsione per gli anni 2017-2019 e per l'anno 2017. | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-001/` | L.R. 3 marzo 2017, n. 1: Norme urgenti in materia di finanziamenti a valere sulle misure del Programma di sviluppo rurale 2014-2020 della Regione Friuli Venezia | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-003/` | L.R. 23 marzo 2017, n. 3: Modifica all'articolo 6 della legge regionale 15 aprile 2016, n. 5 (Organizzazione delle funzioni relative al servizio idrico integrat | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-004/` | L.R. 23 marzo 2017, n. 4: Norme per la valorizzazione e la promozione dell'economia solidale | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-005/` | L.R. 12 aprile 2017, n. 5: Disposizioni finanziarie urgenti. | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-006/` | L.R. 12 aprile 2017, n. 6: Norme urgenti in materia di delega di funzioni contributive alle Camere di commercio, industria, artigianato e agricoltura del Friuli | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-009/` | L.R. 21 aprile 2017, n. 9: Funzioni onorifiche delle soppresse Province e altre norme in materia di enti locali, Centrale unica di committenza regionale, person | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-010/` | L.R. 21 aprile 2017, n. 10: Disposizioni in materia di demanio marittimo regionale, demanio ferroviario, demanio statale dismesso e demanio stradale regionale, | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-011/` | L.R. 9 maggio 2017, n. 11: Modifiche alla legge regionale 11 ottobre 2012, n. 20 (Norme per il benessere e la tutela degli animali di affezione). | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-012/` | L.R. 9 maggio 2017, n. 12: Norme in materia di cultura, sport e solidarietà. | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-013/` | L.R. 9 maggio 2017, n. 13: Disposizioni per la tutela delle persone affette da fibromialgia. | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-014/` | L.R. 12 maggio 2017, n. 14: Manutenzione dei settori manifatturiero e terziario. | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-015/` | L.R. 24 maggio 2017, n. 15: Norme urgenti in materia di pubblico impiego regionale e locale e proroga del termine relativo alla riorganizzazione dei servizi fin | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-018/` | L.R. 31 maggio 2017, n. 18: Norme urgenti in materia di finanze. | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-019/` | L.R. 9 giugno 2017, n. 19: Modifiche alla legge regionale 5/2016 (Organizzazione delle funzioni relative al servizio idrico integrato e al servizio di gestione | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-020/` | L.R. 9 giugno 2017, n. 20: Misure per il contenimento finalizzato all'eradicazione della nutria (Myocastor coypus). | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-021/` | L.R. 9 giugno 2017, n. 21: Norme in materia di prevenzione e contrasto dei fenomeni di criminalità organizzata e di stampo mafioso e per la promozione della cul | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-022/` | L.R. 9 giugno 2017, n. 22: Modifiche alla legge regionale 21 ottobre 2011, n. 12 (Norme in materia funeraria e di polizia mortuaria). | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-023/` | L.R. 9 giugno 2017, n. 23: Norme in materia di Birra Artigianale del Friuli Venezia Giulia. | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-024/` | L.R. 16 giugno 2017, n. 24: Disposizioni per la valorizzazione e il potenziamento del Soccorso Alpino regionale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-025/` | L.R. 7 luglio 2017, n. 25: Norme per la raccolta e la commercializzazione dei funghi epigei spontanei nel territorio regionale. | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-026/` | L.R. 17 luglio 2017, n. 26: Modifiche alla legge regionale 14 febbraio 2014, n. 1 (disposizioni per la prevenzione, il trattamento e il contrasto della dipenden | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-027/` | L.R. 21 luglio 2017, n. 27: Norme in materia di formazione e orientamento nell'ambito dell'apprendimento permanente. | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-028/` | L.R. 21 luglio 2017, n. 28: Disposizioni in materia di risorse agricole, forestali e ittiche e di attività venatoria. | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-029/` | L.R. 21 luglio 2017, n. 29: Misure per lo sviluppo del sistema territoriale regionale nonché interventi di semplificazione dell'ordinamento regionale nelle mate | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-030/` | L.R. 4 agosto 2017, n. 30: Rendiconto generale della Regione autonoma Friuli Venezia Giulia per l'esercizio finanziario 2016. | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-031/` | L.R. 4 agosto 2017, n. 31: Assestamento del bilancio per gli anni 2017-2019 ai sensi dell'
+ articolo 6 della legge regionale 10 novembre 2015, n. 26 . | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-032/` | L.R. 22 settembre 2017, n. 32: Disposizioni di riordino e di razionalizzazione delle funzioni in materia di viabilità, nonché ulteriori disposizioni finanziarie | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-033/` | L.R. 6 ottobre 2017, n. 33: Norme per la promozione del diritto al gioco e all'attività ludico-motoria-ricreativa. | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-034/` | L.R. 20 ottobre 2017, n. 34: Disciplina organica della gestione dei rifiuti e principi di economia circolare. | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-035/` | L.R. 6 novembre 2017, n. 35: Disposizioni per l'ampliamento del Reddito di Inclusione e il suo coordinamento con la Misura attiva di sostegno al reddito. | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-036/` | L.R. 6 novembre 2017, n. 36: Ruolo del Club alpino italiano - Regione Friuli Venezia Giulia (CAI FVG) e disposizioni per la valorizzazione delle strutture alpin | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-037/` | L.R. 10 novembre 2017, n. 37: Disposizioni urgenti in materia di programmazione e contabilità. | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-038/` | L.R. 17 novembre 2017, n. 38: Modifiche alla legge regionale 17/2000 (Realizzazione di progetti antiviolenza e istituzione di centri per donne in difficoltà. | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-039/` | L.R. 1 dicembre 2017, n. 39: Modifica urgente all'
+ articolo 57 della legge regionale 11 novembre 2009, n. 19 (Codice regionale dell'edilizia), concernente la  | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-040/` | L.R. 1 dicembre 2017, n. 40: Disposizioni volte a sostenere percorsi scolastici atti a promuovere azioni di supporto nel caso di scomparsa di minori. | 1 | oldest version available: 2 November 2026 |
+| `lr-2017-041/` | L.R. 1 dicembre 2017, n. 41: Interventi a sostegno delle Università della terza età e della libera età nell'ambito dell'apprendimento non formale. | 1 | oldest version available: 2 November 2026 |
 
 ## Source
 

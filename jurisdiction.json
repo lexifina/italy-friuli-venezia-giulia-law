@@ -5,7 +5,7 @@
   "level": "region",
   "parent": "it",
   "repo": "https://github.com/lexifina/italy-friuli-venezia-giulia-law",
-  "build": "built: statute and regional laws (589 acts, 589 versions) from LEXVIEW, the Consiglio regionale del Friuli Venezia Giulia's law database (current text only)",
+  "build": "built: statute and regional laws (1115 acts, 1115 versions) from LEXVIEW, the Consiglio regionale del Friuli Venezia Giulia's law database (current text only)",
   "language": "it",
   "sources": 1
 }
