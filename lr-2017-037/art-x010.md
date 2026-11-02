@@ -1,0 +1,1 @@
+28. Nello stato di previsione della spesa del bilancio per gli anni 2017-2019 sono introdotte le variazioni relative alle Missioni e ai Programmi dello stato di previsione della spesa del bilancio per gli anni 2017-2019 di cui all'allegata Tabella J.
