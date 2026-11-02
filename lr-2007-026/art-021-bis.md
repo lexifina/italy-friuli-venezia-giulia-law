@@ -1,0 +1,4 @@
+Art. 21 bis
+(Contributo speciale al Comune di San Pietro al Natisone)
+1. L'Amministrazione regionale è autorizzata a concedere annualmente al Comune di San Pietro al Natisone un contributo speciale per la copertura dei maggiori oneri derivanti all'Amministrazione comunale per spese di manutenzione e gestione ordinaria, ivi comprese le spese per l'attivazione di servizi complementari alla frequenza scolastica e per l'adeguamento e allestimento di locali della sede dell'Istituto comprensivo bilingue di San Pietro al Natisone. L'importo del contributo per ciascun esercizio è determinato in sede di approvazione della legge finanziaria annuale.
+1 bis. Il decreto di concessione stabilisce le modalità di erogazione e di rendicontazione del contributo e, se richiesto dal beneficiario, eroga un anticipo fino al 70 per cento dell'importo concesso.
