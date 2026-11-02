@@ -1,0 +1,3 @@
+Art. 1 bis
+(Rete regionale delle professioni)
+1. Allo scopo di favorire la realizzazione di momenti di confronto sugli atti di programmazione e attuazione regionale connessi alla promozione e al sostegno delle attività professionali in Friuli Venezia Giulia e al fine di rafforzare la rete regionale per la diffusione dei contenuti della presente legge e delle forme di incentivazione previste presso i diretti interessati, l'Assessore regionale competente promuove incontri periodici con i rappresentanti di ordini e collegi professionali, nonché delle associazioni professionali non ordinistiche iscritte nel registro di cui all'articolo 4.

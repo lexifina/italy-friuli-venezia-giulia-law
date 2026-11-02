@@ -1,0 +1,4 @@
+Art. 6 bis
+(Formazione professionale)
+1. Al fine di rafforzare e di aggiornare le competenze e le abilità individuali, di promuovere la competitività e ridurre i rischi di obsolescenza professionale, l'Amministrazione regionale è autorizzata a concedere contributi per promuovere la formazione dei professionisti nei primi tre anni di attività professionale. L'attività formativa deve concludersi con profitto e essere realizzata presso enti o strutture pubbliche e private, ordini professionali, accademie, scuole, università o, esclusivamente qualora il percorso formativo si concluda con il conseguimento di crediti formativi riconosciuti dall'ordine o dal collegio, anche presso professionisti.
+1 bis. Sono ammesse al contributo anche le spese sostenute nei dodici mesi precedenti alla data di presentazione della domanda.
