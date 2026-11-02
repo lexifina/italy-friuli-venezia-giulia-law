@@ -1,0 +1,4 @@
+Art. 6 bis
+(Convenzioni e attività sperimentali)
+1. La Giunta regionale può stipulare convenzioni con i centri e gli istituti autorizzati ai sensi della normativa statale alla produzione o alla preparazione dei medicinali cannabinoidi.
+2. La Giunta regionale, ai fini della presente legge e anche per ridurre il costo dei medicinali cannabinoidi importati dall'estero, può avviare azioni sperimentali o specifici progetti pilota con i soggetti autorizzati, secondo la normativa vigente, a produrre e distribuire medicinali cannabinoidi.
