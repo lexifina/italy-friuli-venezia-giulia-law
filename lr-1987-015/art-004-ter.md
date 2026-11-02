@@ -1,0 +1,4 @@
+Art. 4 ter
+(Borse di studio in memoria di vittime della strage di Dacca)
+1. Per le finalità di cui all'articolo 1, una borsa di studio, destinata all'abbattimento dei costi per gli studenti più meritevoli per l'acquisto del materiale didattico e dei libri di testo necessari alla frequenza dei corsi di studio presso l'istituto I.S.I.S. Arturo Malignani di Udine, è intitolata alla memoria di Cristian Rossi, già studente del medesimo Istituto e vittima della strage di Dacca.
+2. Per le finalità di cui all'articolo 1, una borsa di studio, destinata all'abbattimento dei costi per gli studenti più meritevoli per l'acquisto del materiale didattico e dei libri di testo necessari alla frequenza dei corsi di studio presso l'istituto I.S.I.S Lino Zanussi di Pordenone, è intitolata alla memoria di Marco Tondat, già studente del medesimo Istituto e vittima della strage di Dacca.
