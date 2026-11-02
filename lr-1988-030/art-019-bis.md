@@ -1,0 +1,3 @@
+Art. 19 bis
+1. Le disposizioni recate dall' articolo 39 della legge regionale 18 ottobre 1990, n. 50 e successive modificazioni ed integrazioni, sono estese agli interventi previsti dall' articolo 3, comma 1, lettere c) e d), così come modificato dall' articolo 89 della legge regionale n. 50/1990.
+2. La decadenza dal contributo prevista dall'articolo 39 della legge regionale n. 50/1990, si produce di diritto per la mancata ultimazione entro i termini dei lavori assistiti dal contributo, sebbene la concessione edilizia autorizzi l' esecuzione anche delle opere di cui all'articolo 8, comma 1, lettera b).
