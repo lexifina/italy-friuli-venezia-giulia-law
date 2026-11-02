@@ -1,0 +1,3 @@
+Art. 20
+L' Amministrazione regionale è autorizzata a conferire alla Cassa per il credito alle imprese artigiane un fondo straordinario di 9 miliardi di lire da gestire con contabilità separata per la concessione di finanziamenti agevolati a medio termine alle imprese artigiane ubicate nei Comuni di cui all' articolo 1 della presente legge, nei limiti e con le modalità indicati nei commi settimo, ottavo e nono del punto 1) dell' articolo 2 della legge 8 agosto 1977, n. 546.
+Nella concessione di finanziamenti di cui al comma precedente verrà data precedenza alle aziende direttamente danneggiate dal terremoto.
