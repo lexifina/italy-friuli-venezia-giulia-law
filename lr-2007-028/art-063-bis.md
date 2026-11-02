@@ -1,0 +1,5 @@
+Art. 63 bis
+(Spese postali)
+1. L'Amministrazione regionale rimborsa ai Comuni le spese postali occorrenti per la spedizione delle cartoline-avviso previste dall'articolo 8 e ogni altra spesa postale concernente le elezioni regionali.
+2. Le spese postali di cui al comma 1 vengono rimborsate dall'Amministrazione regionale entro tre mesi dalla data delle elezioni. Ai fini della rendicontazione della spesa, i Comuni presentano, nei termini stabiliti dalla struttura regionale competente in materia elettorale, una dichiarazione sottoscritta dal responsabile del servizio economico e finanziario del Comune attestante l'importo della spesa anticipata. L'Amministrazione regionale ha facoltà di richiedere l'esibizione della documentazione in originale comprovante la spesa.
+3. In caso di contemporaneo svolgimento delle elezioni regionali con le elezioni comunali, ovvero con le elezioni comunali e circoscrizionali, le spese postali di cui al comma 1 sono proporzionalmente ripartite fra gli enti interessati e il rimborso dell'Amministrazione regionale è ridotto in misura corrispondente.
