@@ -1,0 +1,6 @@
+Art. 3 bis
+(Compensazione delle altezze in zone montane)
+1. Per gli edifici di nuova costruzione impostati ad una quota media superiore ai 400 metri sul livello del mare, nel caso di altezze non uniformi e nei soli piani sottotetto, le altezze stesse possono essere compensate, purché non siano in alcun punto inferiori a metri 1,50 nei vani abitabili e a metri 1,40 in quelli accessori e purché l'altezza media dei vani abitabili non sia inferiore a metri 2,30.
+2. Nei casi di recupero o ristrutturazione edilizia di edifici esistenti impostati ad una quota media superiore ai 400 metri sul livello del mare, in presenza di altezze non uniformi e nei soli piani sottotetto, le altezze stesse, riferite sia ai vani abitabili che accessori, possono essere compensate, purché non siano in alcun punto inferiori a metri 1,00 e purché l'altezza media dei vani non sia inferiore a metri 2,00.
+3. Con la compensazione delle altezze, il volume del vano abitabile non può essere inferiore a quello determinato dalla superficie minima dello stesso moltiplicata per l'altezza minima consentita dall'articolo 2.
+4. Sono comunque fatti salvi i requisiti igienico- sanitari previsti per i locali adibiti ad abitazioni, ad uffici pubblici e privati e ad alberghi.
