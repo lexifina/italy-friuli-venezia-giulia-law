@@ -1,0 +1,13 @@
+Art. 32 bis
+(Vincoli per le imprese beneficiarie di incentivi)
+1. Le imprese beneficiarie di incentivi regionali aventi natura di PMI o di grande impresa hanno l'obbligo, rispettivamente, di mantenere per la durata di tre e cinque anni dalla data di conclusione dell'iniziativa:
+a) la destinazione dei beni immobili oggetto degli incentivi;
+b) la sede o l'unità operativa nel territorio regionale.
+2. Il mantenimento del vincolo di destinazione riguarda sia i soggetti beneficiari sia i beni oggetto di incentivi.
+3. La durata dei vincoli di cui al comma 1 per le PMI può essere aumentata fino a cinque anni dai regolamenti di settore sulla base di almeno uno dei seguenti criteri:
+a) dimensione delle imprese beneficiarie;
+b) soglia massima dell'incentivo;
+c) caratteristiche del settore economico delle imprese beneficiarie con particolare riguardo all'andamento dell'economia del territorio regionale.
+4. L'iniziativa si intende conclusa alla data dell'ultimo documento di spesa ammesso a rendicontazione, fatte salve diverse disposizioni regolamentari di settore.
+5. I regolamenti e i bandi di settore possono stabilire vincoli di destinazione per i beni mobili, nonché vincoli per specifiche attività che sono oggetto di incentivo.
+6. La violazione degli obblighi di cui al presente articolo comporta la rideterminazione dell'incentivo in proporzione al periodo per il quale i vincoli non sono stati rispettati.
