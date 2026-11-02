@@ -1,0 +1,5 @@
+Art. 39 bis
+1. L' applicazione delle disposizioni contenute nei commi 1, 2 e 3 dell' articolo 39 è sospesa nei casi di lavori autorizzati, anche in via di sanatoria, ammessi ai benefici delle leggi regionali 20 giugno 1977, n. 30, e 23 dicembre 1977, n. 63 e loro successive modificazioni ed integrazioni, e non ultimati entro il termine, anche prorogato, di scadenza della concessione edilizia ove la mancata ultimazione dei lavori sia dipesa dalla contemporanea pendenza, alla data di scadenza del termine, di un giudizio civile avente ad oggetto le modalità di esecuzione dell' intervento assistito dai contributi ovvero di altro procedimento giurisdizionale che comunque condizioni in concreto la facoltà di intervenire sull' edificio.
+2. La decadenza dai benefici riprende ad operare ove entro il nuovo termine indicato da un apposito provvedimento del Comune, emesso successivamente al passaggio in giudicato della sentenza, l' intervento assistito dai benefici non sia ultimato.
+3.
+( ABROGATO )
