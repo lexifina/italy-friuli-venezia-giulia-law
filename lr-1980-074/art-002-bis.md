@@ -1,0 +1,2 @@
+Art. 2 bis
+I finanziamenti e contributi straordinari di cui alla lettera a) dell' articolo 1 possono essere concessi agli Enti indicati al precedente articolo 2 anche per l' attuazione di programmi comprendenti l' esecuzione di lavori di straordinaria manutenzione su impianti, immobili ed attrezzature anche se posseduti ovvero detenuti dagli Enti medesimi sulla base di apposita convenzione stipulata con il proprietario.
