@@ -1,0 +1,3 @@
+Art. 41 bis
+(Modifiche ai regolamenti)
+1. Per le modifiche ai regolamenti di cui alla presente legge, riguardanti le modalità di presentazione della domanda di finanziamento e del rendiconto, le tipologie di spese ammissibili ai fini della rendicontazione del finanziamento, le modalità di verifiche e controlli, le modalità di concessione ed erogazione del contributo, di eventuali anticipi e di eventuali ulteriori effetti dell'ammissione al finanziamento, le modalità di comunicazione e i termini del procedimento nonché la disciplina relativa al finanziamento dei contributi regionali, si prescinde dal parere della Commissione consiliare competente e dei Comitati di cui agli articoli 6 e 21.
