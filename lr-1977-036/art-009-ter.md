@@ -1,0 +1,3 @@
+Art. 9 ter
+L' Amministrazione regionale è autorizzata a sostenere l' onere delle spese di adeguamento degli edifici necessari per lo svolgimento della attività scolastica per l' anno scolastico 1976 - 1977 degli alunni sfollati dalle zone terremotate nei comuni di Grado, Lignano, Iesolo e San Michele al Tagliamento - frazione Bibione.
+L' intervento regionale avviene mediante rimborso totale, a favore degli enti pubblici che vi hanno provveduto, della spesa sostenuta per opere di riatto, manutenzione e adeguamento, sia delle strutture sia degli impianti, nonché per le attrezzature e l' arredamento. >>
