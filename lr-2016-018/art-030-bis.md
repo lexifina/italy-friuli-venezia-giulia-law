@@ -1,0 +1,3 @@
+Art. 30 bis
+(Permanente inidoneità psicofisica)
+1. Fatto salvo quanto diversamente previsto dalla contrattazione collettiva di primo livello nell'ambito delle proprie competenze, per l'attuazione dell'articolo 55 octies del decreto legislativo 165/2001 gli enti del Comparto unico del pubblico impiego regionale e locale applicano il decreto del Presidente della Repubblica 27 luglio 2011, n. 171 (Regolamento di attuazione in materia di risoluzione del rapporto di lavoro dei dipendenti delle amministrazioni pubbliche dello Stato e degli enti pubblici nazionali in caso di permanente inidoneità psicofisica, a norma dell'articolo 55 octies del decreto legislativo 30 marzo 2001, n. 165), e successive modifiche e integrazioni.

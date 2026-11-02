@@ -1,0 +1,4 @@
+Art. 8 ter
+(Procedimenti disciplinari e contenzioso)
+1. Per la gestione delle procedure disciplinari nonché del contezioso del lavoro relativi al personale dirigente delle amministrazioni del Comparto unico, si applica la disciplina di cui all'articolo 17, comma 3.
+2. Nei confronti dei dirigenti del Comparto unico trova applicazione la disciplina normativa nazionale in materia di forme, termini e sanzioni del procedimento disciplinare; continuano a trovare applicazione le previsioni in materia di sanzioni disciplinari previste dalla vigente normativa e dai rispettivi ordinamenti delle amministrazioni del Comparto unico, sino alla definizione di una specifica disciplina delle medesime in sede di contrattazione collettiva di Comparto, nel rispetto dell'inderogabilità della normativa nazionale.
