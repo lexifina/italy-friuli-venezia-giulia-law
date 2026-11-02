@@ -1,0 +1,3 @@
+Art. 64 bis
+(Termini di inizio e di ultimazione dei lavori)
+1. Per le opere per cui sia previsto un contributo regionale la fissazione dei termini di inizio e fine lavori, nonché la concessione di eventuali proroghe spettano all'organo concedente il contributo. In caso di mancato rispetto del termine finale l'organo concedente, su istanza del beneficiario, ha facoltà, in presenza di motivate ragioni, di confermare il contributo e fissare un nuovo termine di ultimazione dei lavori, ovvero di confermare il contributo quando i lavori siano già stati ultimati, accertato il pieno raggiungimento dell'interesse pubblico.
