@@ -1,0 +1,3 @@
+2. In relazione al disposto di cui al comma 1, è revocata la spesa di lire 1.000 milioni, come rideterminata e così autorizzata per l'anno 1994 dall'articolo 101, comma 1, della legge regionale 5 febbraio 1992, n. 4, a carico del capitolo 883 dello stato di previsione della spesa del bilancio pluriennale per gli anni 1994-1996 e del bilancio per l'anno 1994.
+3. Per le finalità previste dall'articolo 2, comma 1, della legge regionale n. 39/1991, come sostituito dal comma 1, è autorizzata la spesa di lire 2.000 milioni per l'anno 1994.
+4. Il predetto onere di lire 2.000 milioni fa carico al capitolo 936 dello stato di previsione della spesa del bilancio pluriennale per gli anni 1994-1996 e del bilancio per l'anno 1994.

@@ -1,0 +1,5 @@
+3.
+Dopo l'articolo 61 bis, della legge regionale n. 45/93, come inserito dal comma 2, è inserito il seguente articolo:
+<< Art. 61 ter
+1. I soci delle cooperative edilizie, già assegnatarie con deliberazione della Giunta regionale di agevolazioni per la realizzazione di alloggi, ancorché successivamente revocate, poste in liquidazione coatta, amministrativa o dichiarate fallite entro il 31 dicembre 1993, in alternativa ai benefici di cui agli articoli 61 e 61 bis, possono presentare domanda, entro il 30 giugno 1994, per l'ottenimento dei contributi di edilizia agevolata, ai sensi degli articoli 88, 90 e 94 della legge regionale 1 settembre 1982, n. 75, come da ultimo modificati dagli articoli 33 e 35 e rispettivamente sostituito dall'articolo 36.
+2. Alle domande presentate ai sensi del comma 1 viene data priorità assoluta in sede di formulazione delle graduatorie di accesso ai benefici, ivi compresi quelli previsti dal Titolo IV nei confronti di tutte le domande presentate dopo il 31 dicembre 1992. >>.
