@@ -1,0 +1,4 @@
+Art. 7 bis
+(Assegnazione del fondo di accompagnamento per i Comuni risultanti da fusione)
+1. Il comune di Valvasone Arzene beneficia del trasferimento di cui all'articolo 8, commi da 9 a 11, della legge regionale 12 dicembre 2014, n. 26 (Riordino del sistema Regione-Autonomie locali nel Friuli Venezia Giulia. Ordinamento delle Unioni territoriali intercomunali e riallocazione di funzioni amministrative).
+2. La prima annualità spettante per l'anno 2015, pari a 300.000 euro, è assicurata a valere sul fondo di cui all' articolo 66, comma 12, della legge regionale 17 luglio 2015, n. 18 (La disciplina della finanza locale del Friuli Venezia Giulia, nonché modifiche a disposizioni delle leggi regionali 19/2013, 9/2009 e 25/2014), e assegnata entro il 30 novembre 2015, con riferimento all'unità di bilancio 9.1.1.1153 e al capitolo 1833 dello stato di previsione della spesa del bilancio pluriennale per gli anni 2015-2017 e del bilancio per l'anno 2015.
