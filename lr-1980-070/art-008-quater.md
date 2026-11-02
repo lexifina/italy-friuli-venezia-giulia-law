@@ -1,0 +1,2 @@
+Art. 8 quater
+L' Istituto autonomo per le case popolari territorialmente competente applicherà il regime previsto dalla disciplina regionale per l' edilizia sovvenzionata agli alloggi di cui al quarto e quinto comma dell' articolo 8 della presente legge per i quali non sia stata esercitata, nel termine previsto dal sesto comma del predetto articolo 8, la facoltà di riscatto, nonché per gli alloggi che, resisi comunque liberi, siano assegnati in locazione semplice.

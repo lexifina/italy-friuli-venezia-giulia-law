@@ -1,0 +1,4 @@
+Art. 8 bis
+Nei fabbricati o complessi di fabbricati, già di pertinenza dell' Ente nazionale per lavoratori rimpatriati e profughi, anche ove sussistono contemporaneamente regimi di conduzioni diverse (cessione di proprietà, patto di futura vendita e riscatto, locazione semplice), gli Istituti autonomi per le case popolari promuoveranno la costituzione di amministrazioni autonome degli inquilini, regolamentando i rapporti tra dette amministrazioni autonome e l' Istituto stesso.
+Analoghe amministrazioni e con gli stessi criteri saranno promosse per la gestione, ove esistano, degli impianti centralizzati di riscaldamento e produzione di acqua calda.
+Fino alla costituzione delle amministrazioni autonome, di cui al precedente primo comma, gli Istituti autonomi provvederanno alla regolamentazione ed all' adeguamento delle quote di amministrazione e manutenzione ordinaria e straordinaria.
