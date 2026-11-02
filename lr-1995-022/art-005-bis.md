@@ -1,0 +1,2 @@
+Art. 5 bis
+1. Per gli interventi di edilizia convenzionata realizzati dalle imprese, ammessi a finanziamento prima dell'entrata in vigore della legge regionale 17 giugno 1993, n. 45, qualora gli alloggi oggetto di contributo siano stati legittimamente venduti a soggetti in possesso dei requisiti soggettivi individuati in base alla normativa vigente prima dell'emissione del decreto di concessione, è consentito procedere alla concessione del contributo, contestualmente alla liquidazione definitiva ed al frazionamento, direttamente in capo agli acquirenti.
