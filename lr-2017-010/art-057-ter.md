@@ -1,0 +1,3 @@
+Art. 57 ter
+(Indennità per l'occupazione senza titolo di beni del demanio marittimo ovvero per utilizzazioni difformi dal titolo concessorio)
+1. L'utilizzatore, in caso di accertato pregresso utilizzo senza titolo di beni del demanio marittimo di cui alla legge regionale 22/2006 e alla legge regionale 10/2017 ovvero nel caso di utilizzazioni difformi dal titolo concessorio, è tenuto al pagamento di un'indennità pari al valore del canone di concessione vigente al momento della richiesta da parte della struttura competente in materia di demanio marittimo, maggiorato del 20 per cento e moltiplicato per cinque annualità o per la minor durata di accertato pregresso utilizzo.
