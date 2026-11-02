@@ -1,0 +1,3 @@
+Art. 64 bis
+(Rinvio dinamico)
+1. Il rinvio a leggi, regolamenti e atti comunitari contenuto nella presente legge si intende effettuato al testo vigente dei medesimi, comprensivo delle modifiche e delle integrazioni intervenute successivamente alla loro emanazione.

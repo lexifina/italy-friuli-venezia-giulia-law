@@ -1,0 +1,8 @@
+Art. 37 bis
+(Modalità costruttive concernenti l'installazione di impianti fotovoltaici)
+1. Fermo restando quanto disposto dal decreto legislativo 25 novembre 2024, n. 190 (Disciplina dei regimi amministrativi per la produzione di energia da fonti rinnovabili, in attuazione dell'articolo 26, commi 4 e 5, lettera b) e d), della legge 5 agosto 2022, n. 118), i Comuni possono prevedere specifiche modalità costruttive concernenti l'installazione di impianti fotovoltaici visibili da spazi pubblici o aperti al pubblico nelle zone A e B0 di cui al decreto ministeriale 1444/1968. Le disposizioni degli strumenti urbanistici possono, quindi, individuare le dimensioni, le tonalità e le modalità di integrazione dell'impianto fotovoltaico nella struttura del manto di copertura dell'edificio o unità immobiliare.
+2. Nelle zone di cui al comma 1, fermo restando la facoltà di utilizzare tegole fotovoltaiche integrate nella copertura esistente, i pannelli devono essere:
+a) inseriti senza coprire integralmente la singola falda dando il senso di lucernai;
+b) con basso coefficiente di riflettanza al fine di limitare le interferenze visive dovute a superfici lucide e riflettenti;
+c) cromaticamente omogenei e compatibili con la copertura;
+d) integrati nella copertura, in posizione complanare alla falda e in aderenza alla medesima.
