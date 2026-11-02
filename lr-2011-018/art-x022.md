@@ -1,0 +1,1 @@
+47. Nello stato di previsione della spesa del bilancio pluriennale per gli anni 2012-2014 e del bilancio per l'anno 2012 sono introdotte le variazioni alle unità di bilancio e ai capitoli di cui alla annessa Tabella P, intendendosi corrispondentemente autorizzate le spese ivi indicate per le finalità previste dai riferimenti normativi in calce a ciascun capitolo.
