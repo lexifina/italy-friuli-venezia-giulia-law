@@ -1,0 +1,3 @@
+Art. 1 bis
+(Attribuzioni)
+1. Le attività connesse alla concessione dei contributi e le attività di vigilanza sulla corretta osservanza delle disposizioni e l'irrogazione delle sanzioni della presente legge sono svolte dalla struttura regionale competente della Direzione centrale difesa dell'ambiente, energia e sviluppo sostenibile, di seguito struttura regionale competente. Le attività di relazione con gli utenti per l'accesso e la fruizione dei servizi previsti dalla presente legge sono svolte per il tramite di strutture dell'Amministrazione regionale indicate sul sito istituzionale della Regione.

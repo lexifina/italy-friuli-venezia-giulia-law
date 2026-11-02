@@ -1,0 +1,14 @@
+Art. 3 bis
+(Adempimenti e obblighi del beneficiario)
+1. Il beneficiario comunica, tramite il portale regionale delle domande online, entro quindici giorni dall'evento:
+a) la radiazione del mezzo dal Pubblico Registro Automobilistico (PRA);
+b) il trasferimento della titolarità del mezzo;
+c) l'intervenuta scadenza del contratto di locazione o di noleggio a lungo termine o di usufrutto;
+d) l'intervenuta scadenza dell'intestazione temporanea, ai sensi dell'articolo 94, comma 4 bis, della legge 177/2024;
+e) ogni altra causa di perdita del possesso del mezzo.
+2. Qualora intervengano variazioni anagrafiche, il beneficiario verifica l'intervenuto aggiornamento dei dati sul portale regionale delle domande online entro quindici giorni dall'evento e, all'esito negativo, richiede l'aggiornamento dei dati tramite il medesimo portale.
+3. Il beneficiario:
+a) utilizza l'identificativo digitale per rifornire esclusivamente il mezzo per il quale è stato rilasciato;
+b) non può cedere il suo identificativo digitale affinché venga utilizzato per rifornire un mezzo diverso da quello per cui è stato rilasciato;
+c) non può cedere l'identificativo digitale all'acquirente in caso di trasferimento della titolarità del mezzo;
+d) non può effettuare rifornimento beneficiando di un contributo superiore a quello spettante sino all'intervenuto aggiornamento delle variazioni di cui ai commi 1 e 2.

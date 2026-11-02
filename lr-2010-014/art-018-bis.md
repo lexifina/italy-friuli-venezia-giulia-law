@@ -1,0 +1,5 @@
+Art. 18 bis
+(Trattamento dei dati personali)
+1. Il trattamento dei dati raccolti per le finalità della presente legge è effettuato in conformità alle disposizioni e ai principi di cui al regolamento (UE) del Parlamento europeo e del Consiglio, del 27 aprile 2016, n. 679, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonché alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE, e al decreto legislativo 30 giugno 2003, n. 196 (Codice in materia di protezione dei dati personali).
+2. I titolari del trattamento adottano misure di sicurezza appropriate per tutelare la riservatezza dei dati e adeguate al rischio di perdita, modifica o accesso non autorizzato ai dati trattati.
+3. L'informativa sulla privacy, disponibile sull'APP cittadino e sull'APP presidiante, nonché sul portale ID digitale e sul sito della Regione, è redatta ai sensi dell'articolo 13 del regolamento (UE) n. 679/2016, illustra come vengono raccolti, trattati e protetti i dati.

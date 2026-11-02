@@ -1,0 +1,4 @@
+Art. 5 bis
+(Pubblicazione e rilevazione dei prezzi)
+1. Ai sensi del decreto del Ministero delle imprese e del Made in Italy del 31 marzo 2023 il gestore è tenuto a dare idonea evidenza al pubblico dei prezzi praticati. Tali prezzi sono consultabili nell'APP cittadino e sul portale ID digitale.
+2. La struttura regionale competente procede alla rilevazione dei prezzi praticati alla pompa da ogni impianto nel territorio regionale e relativi ai rifornimenti con contributo regionale, dando periodicamente massima diffusione delle relative elaborazioni mediante il sito istituzionale regionale.
