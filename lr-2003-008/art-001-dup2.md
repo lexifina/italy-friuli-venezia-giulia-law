@@ -1,0 +1,4 @@
+Art. 1.1
+(Principi di semplificazione in materia di beneficiari degli incentivi dello sport)
+1. Per il perseguimento degli obiettivi di cui all'articolo 1, l'Amministrazione regionale in relazione alle esigenze di celerità, certezza dei tempi, trasparenza e riduzione degli oneri amministrativi, adotta misure di semplificazione perseguendo al contempo la piena realizzazione del principio "innanzitutto digitale" con particolare riferimento allo scambio di dati e informazioni attraverso le tecnologie dell'informazione e della comunicazione tra pubbliche amministrazioni.
+2. Per le finalità di cui al comma 1, l'Amministrazione regionale è autorizzata ad avvalersi del Comitato regionale del Comitato Olimpico Nazionale Italiano (CONI), tramite la stipula di una convenzione, per la condivisione dei contenuti del Registro nazionale delle associazioni e società sportive dilettantistiche, istituito dal CONI.
