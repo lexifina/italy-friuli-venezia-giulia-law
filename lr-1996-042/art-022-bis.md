@@ -1,0 +1,10 @@
+Art. 22 bis
+(Giunta esecutiva)
+1. La Giunta esecutiva è costituita da tre componenti del Consiglio direttivo: il Presidente, un componente di cui all'articolo 22, comma 1, lettera a), e un componente di cui all'articolo 22, comma 1, lettera c).
+2. La Giunta esecutiva dura in carica sino alla scadenza del Consiglio direttivo che ne ha deliberato la nomina.
+3. Alla Giunta esecutiva compete l'adozione:
+a) di atti indifferibili e urgenti salva ratifica da parte del Consiglio direttivo;
+b) del programma annuale e pluriennale per la manutenzione ordinaria e straordinaria dei beni utilizzati dall'Ente parco;
+c) degli atti di acquisto, alienazione e locazione ultranovennale di beni immobili.
+4. Il regolamento di funzionamento della Giunta esecutiva è deliberato dal Consiglio direttivo, ai sensi dell'articolo 22, comma 4, lettera g).
+5. Nelle more della costituzione della Giunta esecutiva gli atti di cui al comma 3, lettere b) e c), sono adottati dal Consiglio direttivo.

@@ -1,0 +1,4 @@
+Art. 33 bis
+(Promozione dell'emblema o marchio di qualità)
+1. L'Organo gestore può concedere, compatibilmente con i principi dell'ordinamento europeo vigente, a mezzo di specifiche convenzioni, l'uso del nome e dell'emblema del parco o della riserva o di marchi di qualità, per favorire la commercializzazione di prodotti e servizi provenienti dal territorio del parco o della riserva che siano compatibili con le finalità del parco o della riserva e con obiettivi di sviluppo economico e turistico eco-compatibile e che presentino specifici requisiti di qualità.
+2. Con disciplinare approvato dal Consiglio direttivo sono determinati i requisiti di qualità delle attività, prodotti e servizi, individuati ai sensi dell'articolo 18, comma 2, lettera d), ai quali concedere a terzi il diritto d'uso del nome e dell'emblema del parco o della riserva o di marchi di qualità di cui al comma 1, e l'ammontare dell'eventuale contributo finanziario dovuto per l'uso.
