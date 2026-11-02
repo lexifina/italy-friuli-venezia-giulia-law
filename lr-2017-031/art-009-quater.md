@@ -1,0 +1,4 @@
+Art. 9 quater
+(Ufficio stralcio per la conclusione delle operazioni di liquidazione delle Province)
+1. In relazione alla soppressione delle Province, a decorrere dal mese di settembre 2017 è costituito l'Ufficio stralcio per la gestione degli archivi, dei rapporti giuridici e dei procedimenti facenti capo alle soppresse Province non trasferiti ai sensi dell'articolo 8, comma 5. L'Ufficio stralcio opera attribuendo i rapporti giuridici e i procedimenti alle strutture regionali o agli enti competenti per materia, ovvero curando direttamente le procedure per i rapporti giuridici che attengono alla sfera giuridica dell'ente Provincia nel suo complesso.
+2. Le disposizioni di cui al comma 1 si applicano anche per la gestione degli archivi, dei rapporti giuridici e dei procedimenti relativi alle Province di cui all'articolo 2, comma 3, non trasferiti ai sensi dell'articolo 10, comma 1, lettera e).>>.

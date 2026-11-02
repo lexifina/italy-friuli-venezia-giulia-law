@@ -1,0 +1,3 @@
+57. Le disposizioni di cui all' articolo 78 della legge regionale 19/2013 , come sostituito dal comma 56, trovano applicazione a decorrere dalle elezioni amministrative 2017 per i Comuni sopra i 30.000 abitanti e dalle elezioni amministrative 2018 per i restanti Comuni.
+58. In sede di prima applicazione dell' articolo 78 della legge regionale 19/2013 , come sostituito dal comma 56, il termine di cui al comma 3 scade il trentesimo giorno successivo alla pubblicazione della presente legge.
+59. Nello stato di previsione della spesa del bilancio per gli anni 2017-2019 sono introdotte le variazioni relative alle Missioni e ai Programmi di cui all'allegata Tabella J.
