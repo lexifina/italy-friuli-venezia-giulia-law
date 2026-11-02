@@ -1,0 +1,4 @@
+Art. 52 ter
+(Tavolo di coordinamento)
+1. Al fine di coordinare le azioni di dimensionamento della rete scolastica e di programmazione dell'offerta formativa con le altre azioni regionali in materia di istruzione, la Regione costituisce un tavolo di coordinamento convocato e presieduto dall'Assessore regionale competente in materia di istruzione. A tale tavolo partecipano gli Assessori regionali competenti in materia di formazione, di famiglia, di infrastrutture ed edilizia scolastica, di trasporto pubblico locale, di autonomie locali, di salute e politiche sociali e di sistemi informativi.
+2. Il tavolo viene convocato dall'Assessore competente in materia di istruzione. Alle riunioni del tavolo di coordinamento partecipa l'Ufficio scolastico regionale per il Friuli Venezia Giulia. Possono partecipare altresì, su invito del Presidente, altri soggetti la cui presenza è ritenuta utile per gli argomenti posti all'ordine del giorno.
