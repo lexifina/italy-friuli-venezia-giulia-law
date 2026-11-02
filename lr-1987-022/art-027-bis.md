@@ -1,0 +1,3 @@
+Art. 27 bis
+Norma di interpretazione autentica
+1. I contributi di cui all' articolo 25, comma 1 e all' articolo 26, commi 1 e 4, della legge regionale n. 22/1987 possono essere concessi anche alle società, che svolgono attività di impresa, derivanti dalla trasformazione delle compagnie e dei gruppi, di cui all' articolo 110 del codice della navigazione, secondo i tipi societari previsti nei Titoli V e VI del Libro VI del codice civile, ai sensi dell'articolo 2 del decreto legge 19 aprile 1993, n. 111.
