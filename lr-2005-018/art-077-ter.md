@@ -1,0 +1,3 @@
+Art. 77 ter
+(Immobili destinati all'esercizio delle funzioni dei Servizi pubblici per l'impiego regionali)
+1. Fermo restando quanto previsto dall' articolo 5, comma 7, della legge regionale 29 maggio 2015, n. 13 (Istituzione dell'area Agenzia regionale per il lavoro e modifiche della legge regionale 9 agosto 2005, n. 18 (Norme regionali per l'occupazione, la tutela e la qualità del lavoro), nonché di altre leggi regionali in materia di lavoro)), qualora non si rinvenga la disponibilità di sedi idonee sotto il profilo logistico e funzionale, l'Amministrazione regionale può procedere all'acquisizione a titolo di proprietà o di locazione di immobili destinati all'esercizio delle funzioni dei Servizi pubblici per l'impiego regionali.

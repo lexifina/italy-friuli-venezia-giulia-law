@@ -1,0 +1,4 @@
+Art. 57 bis
+(Sostegno al lavoro frontaliero)
+1. La Regione sostiene l'avvio di attività di collaborazione transfrontaliera per il supporto alla mobilità professionale, alla difesa e alla promozione degli interessi economici, sociali e culturali dei lavoratori frontalieri e promuove azioni volte a favorire il supporto ai lavoratori frontalieri così come definiti dai regolamenti dell'Unione europea e ai datori di lavoro che operano nell'area frontaliera.
+2. Per le finalità di cui al comma 1, la Regione concede alle componenti del Friuli Venezia Giulia delle associazioni costituite fra organizzazioni sindacali italiane e delle regioni contermini di Paesi membri dell'Unione europea finanziamenti per lo svolgimento dei compiti e le attività istituzionali, anche al di fuori del territorio nazionale. Con regolamento regionale sono fissati i criteri e le modalità di concessione del finanziamento.

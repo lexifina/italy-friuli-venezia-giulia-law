@@ -1,0 +1,11 @@
+Capo IV bis
+Misure di sostegno alla condivisione delle responsabilità genitoriali e alla conciliazione tra tempi di vita familiare e impegni lavorativi
+Art. 51 bis
+(Conciliazione tra impegni lavorativi e responsabilità di cura dei propri cari)
+1. La Regione pone in essere azioni volte a facilitare la conciliazione tra impegni lavorativi e responsabilità di cura dei propri cari mediante il concorso delle seguenti iniziative:
+a) sviluppo di servizi educativi per l'infanzia e di cura per la persona e la famiglia, da realizzarsi nell'ambito delle norme regionali in materia di politiche familiari e di politiche sociali;
+b) attivazione di specifici servizi di incontro domanda e offerta di lavoro per le figure professionali di assistenza familiare e di consulenza a sostegno delle lavoratrici e dei lavoratori;
+c) promozione di piani, aziendali e territoriali, e di accordi collettivi volti a favorire la flessibilità dell'orario di lavoro, il telelavoro, il lavoro agile e lo sviluppo di servizi alla famiglia, anche a livello aziendale;
+d) azioni positive per favorire l'utilizzo dei congedi parentali previsti dalla normativa nazionale in materia, in particolare dal decreto legislativo 26 marzo 2001, n. 151 (Testo unico delle disposizioni legislative in materia di tutela e sostegno della maternità e della paternità, a norma dell' articolo 15 della legge 8 marzo 2000, n. 53), e per favorire la condivisione delle responsabilità familiari;
+e) misure di sostegno a favore delle lavoratrici e dei lavoratori al rientro al lavoro dopo un'assenza per la fruizione di congedi di maternità, paternità e parentali o a seguito di un periodo di cura o di malattia propria o di un familiare;
+f) azioni di supporto e di formazione alle lavoratrici e ai lavoratori, realizzate anche mediante il ricorso a risorse dell'Unione europea, per la conciliazione delle esigenze lavorative con quelle di cura familiare di minori o delle persone non autosufficienti con essi conviventi.
