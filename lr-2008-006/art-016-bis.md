@@ -1,0 +1,9 @@
+Art. 16 bis
+(Registri obbligatori per l'esercizio dell'attività venatoria)
+1. L'individuazione dei registri obbligatori per l'esercizio dell'attività venatoria è riservato alla legge secondo le disposizioni del presente articolo.
+2. I registri obbligatori sono:
+a) il registro dei soci;
+b) il registro degli abbattimenti della selvaggina ungulata;
+c) il registro dei contrassegni.
+3. La Giunta regionale, in sede di adozione della modulistica dei registri di cui al comma 2, può individuare modalità uniformi di tenuta dei registri.
+4. L'Assemblea dei soci della Riserva di caccia di cui all'articolo 14, comma 5, può prevedere, con deliberazione a maggioranza dei due terzi dei presenti durante lo svolgimento dell'Assemblea ordinaria validamente costituita, il registro per la caccia agli ungulati con il cane da seguita, il registro o le schede di braccata, il registro o elenco delle squadre precostituite di cacciatori e dei cani abilitati alla cacciata o seguita di cui all' articolo 7 ter della legge regionale 19 dicembre 1986, n. 56 (Norme in materia di caccia, di allevamento di selvaggina, di tassidermia, nonché di pesca in acque interne).
