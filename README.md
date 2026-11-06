@@ -1,7 +1,5 @@
 # Friuli-Venezia Giulia: law history in git
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Friuli-Venezia Giulia, Italy, which global-law reads at `italy/friuli-venezia-giulia/acts/`.
-
 The law of the autonomous region of Friuli-Venezia Giulia (Regione Autonoma Friuli Venezia Giulia, Italy) as a git history: one file per article, one commit per change, dated the day it took effect. `git blame` names the law behind every paragraph; `git log` lists every change to an article; checking out a date gives the text in force that day (here: the text in force when it was retrieved).
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `it-36/`. Italy's national law is in [lexifina/italy-law](https://github.com/lexifina/italy-law).
@@ -1005,6 +1003,9 @@ The text is in Italian, exactly as the source prints it.
 | `lr-2013-014/` | L.R. 11 ottobre 2013, n. 14: Modifiche alla legge regionale 23 febbraio 2007, n. 5 (Riforma dell'urbanistica e disciplina dell'attività edilizia e del paesaggio | 1 | oldest version available: 2 November 2026 |
 | `lr-2013-015/` | L.R. 8 novembre 2013, n. 15: Rendiconto generale della Regione Autonoma Friuli Venezia Giulia per l'esercizio finanziario 2012. | 1 | oldest version available: 2 November 2026 |
 | `lr-2013-016/` | L.R. 8 novembre 2013, n. 16: Disposizioni urgenti in materia di personale, modifica alla
+
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Friuli-Venezia Giulia, Italy, which global-law reads at `italy/friuli-venezia-giulia/acts/`.
+
  legge regionale 2/2000 in materia di organizzazione regionale, nonc | 1 | oldest version available: 2 November 2026 |
 | `lr-2013-018/` | L.R. 11 novembre 2013, n. 18: Disposizioni urgenti in materia di cultura, sport e solidarietà. | 1 | oldest version available: 2 November 2026 |
 | `lr-2013-019/` | L.R. 5 dicembre 2013, n. 19: Disciplina delle elezioni comunali e modifiche alla legge regionale 28/2007 in materia di elezioni regionali. | 1 | oldest version available: 2 November 2026 |
