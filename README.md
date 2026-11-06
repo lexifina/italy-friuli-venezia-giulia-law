@@ -1,5 +1,7 @@
 # Friuli-Venezia Giulia: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Friuli-Venezia Giulia, Italy, which global-law reads at `italy/friuli-venezia-giulia/acts/`.
+
 The law of the autonomous region of Friuli-Venezia Giulia (Regione Autonoma Friuli Venezia Giulia, Italy) as a git history: one file per article, one commit per change, dated the day it took effect. `git blame` names the law behind every paragraph; `git log` lists every change to an article; checking out a date gives the text in force that day (here: the text in force when it was retrieved).
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `it-36/`. Italy's national law is in [lexifina/italy-law](https://github.com/lexifina/italy-law).
