@@ -1,0 +1,33 @@
+{
+ "sources": [
+  {
+   "id": "lexview",
+   "kind": "legislation",
+   "name": {
+    "en": "LEXVIEW (Consiglio regionale del Friuli Venezia Giulia)",
+    "it": "LEXVIEW (Consiglio regionale del Friuli Venezia Giulia)"
+   },
+   "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/index.aspx",
+   "reads": {
+    "en": "the home page of LEXVIEW (the newest laws), the page of each new law number, and the page of a thirtieth of the held laws a day (each held law within 30 days)",
+    "it": "la pagina iniziale di LEXVIEW (le leggi più recenti), la pagina di ogni nuovo numero di legge e la pagina di un trentesimo delle leggi presenti qui ogni giorno (ogni legge entro 30 giorni)"
+   },
+   "folders": [
+    "lr-<year>-<number>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "italy/friuli-venezia-giulia/acts"
+   ],
+   "interval": 3.2,
+   "allow": [
+    "lr-"
+   ],
+   "note": {
+    "en": "LEXVIEW has no bulk route or list of laws: laws are read one page at a time; each held law's text is compared at least every 30 days",
+    "it": "LEXVIEW non offre download massivi né un elenco delle leggi: le leggi si leggono una pagina alla volta; il testo di ogni legge presente qui è confrontato almeno ogni 30 giorni"
+   }
+  }
+ ]
+}

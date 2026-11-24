@@ -1,0 +1,126 @@
+{
+ "generated": "2026-11-24T00:29:01Z",
+ "latest": {
+  "lexview|italy/friuli-venezia-giulia/acts": {
+   "attempt": 1,
+   "audit": {
+    "match_neither": 0,
+    "match_new": 5,
+    "match_old": 0,
+    "method": "read again as LEXVIEW's download of the law (scarico.aspx, tip=0: the text in force as one HTML file; the check reads the law's page), the editor's notes dropped as the builder's independent reader drops them: every file of the law's folder (as published by this check, else as held) must be found, letters and digits, in the download's text; the laws this check published first, then a seeded draw (5 a day, 20 on a mass change)",
+    "rows": [
+     {
+      "files": 5,
+      "id": "lr-2026-013",
+      "not_found": [],
+      "published": true,
+      "read": "https://lexview-int.regione.fvg.it/FontiNormative/xml/scarico.aspx?ANN=2026&LEX=0013&tip=0&id=&lang=ita&a_ante=&n_ante=&ci=&vig=&idx=&dataVig=",
+      "verdict": "match_new"
+     },
+     {
+      "files": 11,
+      "id": "lr-2026-014",
+      "not_found": [],
+      "published": true,
+      "read": "https://lexview-int.regione.fvg.it/FontiNormative/xml/scarico.aspx?ANN=2026&LEX=0014&tip=0&id=&lang=ita&a_ante=&n_ante=&ci=&vig=&idx=&dataVig=",
+      "verdict": "match_new"
+     },
+     {
+      "files": 18,
+      "id": "lr-2006-022",
+      "not_found": [],
+      "published": true,
+      "read": "https://lexview-int.regione.fvg.it/FontiNormative/xml/scarico.aspx?ANN=2006&LEX=0022&tip=0&id=&lang=ita&a_ante=&n_ante=&ci=&vig=&idx=&dataVig=",
+      "verdict": "match_new"
+     },
+     {
+      "files": 3,
+      "id": "lr-1978-031",
+      "not_found": [],
+      "published": false,
+      "read": "https://lexview-int.regione.fvg.it/FontiNormative/xml/scarico.aspx?ANN=1978&LEX=0031&tip=0&id=&lang=ita&a_ante=&n_ante=&ci=&vig=&idx=&dataVig=",
+      "verdict": "match_new"
+     },
+     {
+      "files": 8,
+      "id": "lr-1983-008",
+      "not_found": [],
+      "published": false,
+      "read": "https://lexview-int.regione.fvg.it/FontiNormative/xml/scarico.aspx?ANN=1983&LEX=0008&tip=0&id=&lang=ita&a_ante=&n_ante=&ci=&vig=&idx=&dataVig=",
+      "verdict": "match_new"
+     }
+    ],
+    "sampled": 5,
+    "unread": 0
+   },
+   "census": {
+    "checked": 46,
+    "current": 1311,
+    "gone": 0,
+    "held": 1312,
+    "newest_at_source": "lr-2026-014",
+    "newest_in_repo": "lr-2026-012",
+    "pending": 1,
+    "repo": 1312,
+    "source_in_scope": null
+   },
+   "check_id": "it-lexview-20261124T002600Z",
+   "commits": {
+    "count": 3,
+    "from": "0f25929d4d8e6b542cd2d99d222284e67444cd34",
+    "to": "4cb94107b9abaf5125bb4476cfe6c6c76488d00e"
+   },
+   "corpus": "italy/friuli-venezia-giulia/acts",
+   "error": null,
+   "finished": "2026-11-24T00:29:00Z",
+   "flags": [],
+   "gap": 0,
+   "note": "LEXVIEW lists no laws: the home page names the newest (L.R. 14/2026); 2 new law(s) found by number; 44 of 1312 held laws read and compared with their folders (a thirtieth a day: each within 30 days); first check: the baseline (fingerprints taken from the version held)",
+   "outcome": "changed",
+   "published": {
+    "added": [
+     "lr-2026-013",
+     "lr-2026-014"
+    ],
+    "changed": [
+     "lr-2006-022"
+    ],
+    "removed": []
+   },
+   "requests": 54,
+   "runner": "lawwatch italy (92c4e33d60)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [
+     "lr-2026-013",
+     "lr-2026-014"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": null,
+   "source": "lexview",
+   "started": "2026-11-24T00:26:00Z",
+   "unexplained": 0,
+   "update": {
+    "commits": 3,
+    "failed": 0,
+    "later": 0,
+    "new": 2,
+    "same": 0,
+    "versions": 1
+   },
+   "verify": {
+    "cycle_days": 30,
+    "examples": [],
+    "explained": 0,
+    "held": 1312,
+    "method": "each law's LEXVIEW page parsed by the builder's own it_fvg.act_of and compared with the law's folder file for file (byte for byte): today's slice of the rotating sweep (every held law within 30 days) and every law found new or changed; laws published by this check counted as compared (gate: their folders equal the builder's append)",
+    "ok": true,
+    "versions_checked": 46,
+    "versions_differ": 0
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}
